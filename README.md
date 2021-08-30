@@ -133,32 +133,18 @@ Na descrição dos story cards, entende-se como usuário o recrutador ou respons
 
 
 ## :muscle: Equipe
+
 | Gabriel Angelo | Fernanda Ramos | Nathan Nascimento | Paulo Filipini | Vitor Daniel  |
 |---|---|---|---|---|
-| [linkedIn](https://www.linkedin.com/in/gabriel-angelo-a4b251116/) 
-| [linkedIn](https://www.linkedin.com/in/fernanda-ramos-de-padua-salles-44329b157/) 
-| [linkedIn](https://www.linkedin.com/in/n4htan/) 
-| [linkedIn](https://www.linkedin.com/in/paulo-henrique-filipini/) 
-| [linkedIn](#) |
-| <img src="https://avatars.githubusercontent.com/u/73532594?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/55774508?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/19509794?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/45483678?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/55815066?v=4" width="100px"> |
+| [linkedIn](https://www.linkedin.com/in/gabriel-angelo-a4b251116/) | [linkedIn](https://www.linkedin.com/in/fernanda-ramos-de-padua-salles-44329b157/) | [linkedIn](https://www.linkedin.com/in/n4htan/) | [linkedIn](https://www.linkedin.com/in/paulo-henrique-filipini/) | [linkedIn](#) |
+| <img src="https://avatars.githubusercontent.com/u/73532594?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/55774508?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/19509794?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/45483678?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/55815066?v=4" width="100px"> |
+
+
 
 
 
 | André Lars | Daniel Delgado | Felipe Braga | Giovanni Guidace | Jéssica Isri  |
 |---|---|---|---|---|
-| [linkedIn](https://www.linkedin.com/in/andre-lars-da-cunha/) 
-| [linkedIn](https://www.linkedin.com/in/daniel-delgado-274096194/) 
-| [linkedIn](https://www.linkedin.com/in/felipegbraga/) 
-|  [linkedIn](https://www.linkedin.com/in/giovanni-guidace-61982812a/) 
-| [linkedIn](https://www.linkedin.com/in/jessica-dias1/) |
-| <img src="https://avatars.githubusercontent.com/u/26588283?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/50891053?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/13703888?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/62898187?v=4" width="100px"> 
-| <img src="https://avatars.githubusercontent.com/u/65822756?v=4" width="100px"> |
-
+| [linkedIn](https://www.linkedin.com/in/andre-lars-da-cunha/) | [linkedIn](https://www.linkedin.com/in/daniel-delgado-274096194/) | [linkedIn](https://www.linkedin.com/in/felipegbraga/) |  [linkedIn](https://www.linkedin.com/in/giovanni-guidace-61982812a/) | [linkedIn](https://www.linkedin.com/in/jessica-dias1/) |
+| <img src="https://avatars.githubusercontent.com/u/26588283?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/50891053?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/13703888?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/62898187?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/65822756?v=4" width="100px"> |
 
