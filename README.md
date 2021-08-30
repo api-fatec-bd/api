@@ -85,7 +85,7 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 <a name="backlog"></a>
 ## :memo: Backlog
 
-## USER STORIES
+### USER STORIES
 Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Administrado.
 
 - Como aluno, eu sou capaz de acessar o chat em tempo real para tirar dúvidas;
