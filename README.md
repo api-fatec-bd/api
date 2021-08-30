@@ -44,7 +44,7 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 ### Cronograma
 
 - [ ] 16/08/2021 até 22/08/2021 - Kick Off do Projeto
-- [ ] 08/09/2021 até 19/09/2021 - Sprint 1
+- [ ] 30/08/2021 até 19/09/2021 - Sprint 1
 - [ ] 20/09/2021 até 10/10/2021 - Sprint 2
 - [ ] 18/10/2021 até 07/10/2021 - Sprint 3
 - [ ] 08/11/2021 até 28/11/2021 - Sprint 4
