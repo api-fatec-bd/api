@@ -89,8 +89,8 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 ### USER STORIES
 Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Administrado.
 
-- Como aluno, eu sou capaz de acessar o chat em tempo real para tirar dúvidas;
-- Como tutor, eu sou capaz de acessar o chat do aluno para responder suas dúvidas;
+- Como aluno, eu sou capaz de acessar o chat em tempo real para interagir/discutir com outros alunos e tutores;;
+- Como tutor, eu sou capaz de acessar o chat do aluno para interagir/discutir com outros alunos;
 - Como aluno, eu sou capaz de acessar o chatbot da plataforma para buscar orientações rápidas;
 - Como aluno/tutor, eu sou capaz de acessar o sistema de LMS;
 - Como gestor, eu sou capaz de adicionar/editar/excluir cursos;
