@@ -1,4 +1,5 @@
 # ProjetoAPI
+### Projeto de Banco de Dados Distribuídos, com Back-end e Front-end e Job <br>para ETL e Analytics em DWcom Deploy para Produção
 
 <div align="center">
       <h2>Menu</h2>
@@ -15,13 +16,13 @@
 <a name="introducao"></a>
 ## :scroll: Introdução
 
-Organizado pela Fatec de São José dos Campos em conjunto com as melhores empresas da região do Vale do Paraíba, o API é uma iniciativa que envolve os alunos da fatec em projetos reais. 
+Desenvolver  uma  solução  de  dados  voltada  ao ensino  à  distância  para  a  gestão  e  oferta  de conhecimento,  dando  suporte  às  mais  diversas  arquiteturas  de  aprendizagem,  alinhado  com  os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes.
 
-Para cada semestre do curso de Banco de Dados é selecionado uma empresa que apresenta um problema para ser desenvolvido pelos alunos, e para a turma do 4º semestre de Banco de Dados foi apresentado o seguinte problema: Desenvolver uma aplicação que resolva o problema de "match" entre candidatos e vagas, onde se possa alcançar, de maneira escalável e ágil a contratação dos melhores candidatos para as vagas apresentadas, através de uma gestão simples e eficiente.
+Iniciamos o  desafio da construção da plataforma na  Fatec e agora precisamos ajustar  o banco de dados pensando em um grande processamento de dados com ganho de escalabilidade e integração contínua  entre  os  ambientes.  Adicionar  na  solução  atual um  banco  de  dados  não  relacional para armazenar os chats e os logs.
 
 ### Visão do Projeto
 
-O projeto Nemo visa ser uma solução simples, versátil, escalável e open source para pessoas e empresas que precisam de um sistema escalável, simples e versátil para fazer a gestão dos currículos de candidatos relacionando eles às vagas disponíveis pela empresa.
+
 
 ### Apresentação da Evolução do Projeto
 :white_large_square: Sprint 1  | :white_large_square: Sprint 2 | :white_large_square: Sprint 3 | :white_large_square:  Sprint 4  
@@ -41,12 +42,12 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 
 ### Cronograma
 
-- [ ] xx/xx/2021 até xx/xx/2021 - Kick Off do Projeto
-- [ ] xx/xx/2021 até xx/xx/2021 - Sprint 1
-- [ ] xx/xx/2021 até xx/xx/2021 - Sprint 2
-- [ ] xx/xx/2021 até xx/xx/2021 - Sprint 3
-- [ ] xx/xx/2021 até xx/xx/2021 - Sprint 4
-- [ ] xx/xx/2021 até xx/xx/2021 - Sprint Apresentação Final
+- [ ] 16/08/2021 até 22/08/2021 - Kick Off do Projeto
+- [ ] 08/09/2021 até 19/09/2021 - Sprint 1
+- [ ] 20/09/2021 até 10/10/2021 - Sprint 2
+- [ ] 18/10/2021 até 07/10/2021 - Sprint 3
+- [ ] 08/11/2021 até 28/11/2021 - Sprint 4
+- [ ] 29/11/2021 até xx/12/2021 - Sprint Apresentação Final
 - [ ] xx/xx/2021 até xx/xx/2021 - Sprint Feira de Soluções
 
 ### Tecnologias Utilizadas
@@ -55,6 +56,7 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
       <img src="#">
 </div>
 
+<a name="comousar"></a>
 ## :capital_abcd: Como usar
 
 ### No seu ambiente
@@ -83,21 +85,19 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 <a name="backlog"></a>
 ## :memo: Backlog
 
-- Refatorar a plataforma para armazenar os dados do chatbot em um banco de dados não relacional
-- Refatorar a plataforma para armazenar os dados dos logs em um banco de dados não relacional
-- Criar um chat para interação em tempo real para os usuários do tipo Tutor e Aluno.
-- Reestruturar os logs de acordo com as métricas esperadas no Data Warehouse
-- Definir ferramentas para pipeline ETL
-- Criar rotinas ETL para extrair os dados da plataforma, transformar e carregar no Data Warehouse
-- Definir as tabelas FATO do Data Warehouse
-- Definir as dimensões e granuralidade do Data Warehouse
-- Definir os gráficos para visualização dos dashboards
-- Criar um sistema OLAP com a interface de visualização implementada (diferentes) para os 3 tipos de usuário (Tutor, Gestor e Administrador)
-- Integrar sistema OLAP com o Data Warehouse
+## USER STORIES
+Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Administrado.
 
-### Requisitos Funcionais (Story Cards)
+- Como aluno, eu sou capaz de acessar o chat em tempo real para tirar dúvidas;
+- Como tutor, eu sou capaz de acessar o chat do aluno para responder suas dúvidas;
+- Como aluno, eu sou capaz de acessar o chatbot da plataforma para buscar orientações rápidas;
+- Como aluno/tutor, eu sou capaz de acessar o sistema de LMS;
+- Como gestor, eu sou capaz de adicionar/editar/excluir cursos;
+- Como tutor, eu sou capaz de acessar um dashboard com painéis informativos específicos para tutoria;
+- Como gestor, eu sou capaz de acessar um dashboard com painéis informativos específicos para gestão;
+- Como administrador, eu sou capaz de acessar um dashboard com painéis informativos específicos para administração;
 
-Na descrição dos story cards, entende-se como usuário o recrutador ou responsável por analisar os currículos e como candidato a pessoa que deseja se candidatar à uma vaga.
+### Requisitos Funcionais
 
 #### :white_medium_square: Sprint 1
 <strong>#1</strong> - 
@@ -130,27 +130,22 @@ Na descrição dos story cards, entende-se como usuário o recrutador ou respons
 ### :white_square_button: Requisitos não Funcionais
 
 - Documentação completa e clara
-- Relatórios de desempenho
+- Facilidade de uso
 - Segurança
 - Escalabilidade
-- Performance
-- Testes
 
 <a name="bd"></a>
 ## :floppy_disk: 5. Diagrama do Banco de Dados
 
  ![Diagrama do Banco de Dados](/uploads/38e76438de710b0167f9ee21c60b6734/API.png)
 
-
+<a name="equipe"></a>
 ## :muscle: Equipe
 
 | Gabriel Angelo | Fernanda Ramos | Nathan Nascimento | Paulo Filipini | Vitor Daniel  |
 |---|---|---|---|---|
 | [linkedIn](https://www.linkedin.com/in/gabriel-angelo-a4b251116/) | [linkedIn](https://www.linkedin.com/in/fernanda-ramos-de-padua-salles-44329b157/) | [linkedIn](https://www.linkedin.com/in/n4htan/) | [linkedIn](https://www.linkedin.com/in/paulo-henrique-filipini/) | [linkedIn](#) |
 | <img src="https://avatars.githubusercontent.com/u/73532594?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/55774508?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/19509794?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/45483678?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/55815066?v=4" width="100px"> |
-
-
-
 
 
 | André Lars | Daniel Delgado | Felipe Braga | Giovanni Guidace | Jéssica Isri  |
