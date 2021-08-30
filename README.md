@@ -83,6 +83,18 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 <a name="backlog"></a>
 ## :memo: Backlog
 
+- Refatorar a plataforma para armazenar os dados do chatbot em um banco de dados não relacional
+- Refatorar a plataforma para armazenar os dados dos logs em um banco de dados não relacional
+- Criar um chat para interação em tempo real para os usuários do tipo Tutor e Aluno.
+- Reestruturar os logs de acordo com as métricas esperadas no Data Warehouse
+- Definir ferramentas para pipeline ETL
+- Criar rotinas ETL para extrair os dados da plataforma, transformar e carregar no Data Warehouse
+- Definir as tabelas FATO do Data Warehouse
+- Definir as dimensões e granuralidade do Data Warehouse
+- Definir os gráficos para visualização dos dashboards
+- Criar um sistema OLAP com a interface de visualização implementada (diferentes) para os 3 tipos de usuário (Tutor, Gestor e Administrador)
+- Integrar sistema OLAP com o Data Warehouse
+
 ### Requisitos Funcionais (Story Cards)
 
 Na descrição dos story cards, entende-se como usuário o recrutador ou responsável por analisar os currículos e como candidato a pessoa que deseja se candidatar à uma vaga.
@@ -90,11 +102,9 @@ Na descrição dos story cards, entende-se como usuário o recrutador ou respons
 #### :white_medium_square: Sprint 1
 <strong>#1</strong> - 
 
+<strong>#2</strong> -  
 
-
-<strong>#2</strong> - 
-
-<strong>#3</strong> -
+<strong>#3</strong> - 
 
 <strong>#4</strong> - 
 
