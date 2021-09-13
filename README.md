@@ -101,32 +101,36 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 ### Requisitos Funcionais
 
 #### :white_medium_square: Sprint 1
-<strong>#1</strong> - 
+<strong>1</strong> - Definir as tabelas FATO do Data Warehouse;
 
-<strong>#2</strong> -  
+<strong>2</strong> - Definir as dimensões e granularidade do Data Warehouse;
 
-<strong>#3</strong> - 
+<strong>3</strong> - Desenvolver um chat em tempo real com capacidade de até 1000 usuários simultâneos, capaz de gerar log das mensagens;
 
-<strong>#4</strong> - 
+<strong>4</strong> - Definir ferramentas para o pipeline ETL;
 
 #### :white_medium_square: Sprint 2
 
 
-<strong>#5</strong> - 
+<strong>5</strong> - Refatorar a plataforma de  LMS desenvolvida pela turma do 3º semestre de banco de dados (no primeiro semestre de 2021), para armazenar os dados do chatbot em um banco de dados não-relacional;
 
-<strong>#6</strong> - 
+<strong>6</strong> - Criar rotinas para extrair os dados da plataforma e transformar os dados para posteriormente serem inseridos no Data Warehouse (a parte de carregamento dos dados será trabalhada na última sprint);
 
 ####  :white_medium_square: Sprint 3
 
-<strong>#7</strong> - 
+<strong>7</strong> - Definir os gráficos para visualização dos Dashboards;
 
-<strong>#8</strong> - 
+<strong>8</strong> - Criar um sistema OLAP com visualizações (com dados de testes) diferentes para os 3 tipos de usuário (Tutor, Gestor e ADM);
+
+<strong>9</strong> - Integrar o sistema OLAP com o Data Warehouse.
+
+<strong>10</strong> - Refatorar a plataforma de  LMS desenvolvida pela turma do 3º semestre de banco de dados (no primeiro semestre de 2021), para armazenar os dados dos logs em um banco de dados não-relacional;
 
 #### :white_medium_square: Sprint 4
 
-<strong>#9</strong> - 
+<strong>11</strong> - Reestruturar os logs da aplicação de acordo com as métricas esperadas no Data Warehouse ( Ativação, Engajamento, Desempenho, Participação, Avaliação de reação, Registro do tempo de participação no curso)
 
-<strong>#10</strong> - 
+<strong>12</strong> - Criar rotinas para carregar os dados no Data Warehouse.
 
 ### :white_square_button: Requisitos não Funcionais
 
