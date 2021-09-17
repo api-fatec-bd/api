@@ -4,20 +4,56 @@ from conexaoMongoDB import selectBanco
 
 #CRIAÇÃO DE FILTTROS PARA IMPLEMENTAR O BANCO QUE SERÁ ENVIADO AO DW
 
-#COLLECTION STATISTICS
-def selectCollectionStatistics():
-    statistics = selectBanco().rocketchat_statistics
+################################################ rocketchat.rocketchat_message #####################################################################
 
-    #CRIAR FILTROS AQUI
-
-    return statistics
-
-
-#COLLECTION CRON HISTORY
-def selectCollectionCronHistory():
-    cron_history = selectBanco().rocketchat_cron_history
+#TOTAL DE MENSAGENS
+def countMessages():
+    messages = selectBanco().rocketchat_message
+    count_messages = messages.count_documents({})
+    return count_messages
 
 
-    #CRIAR FILTROS AQUI
+################################################ rocketchat.rocketchat_sessions #####################################################################
 
-    return cron_history
+#TOTAL DE SESSÕES
+def countSessions():
+    sessions = selectBanco().rocketchat_sessions
+    count_sessions = sessions.count_documents({})
+    return count_sessions
+
+
+################################################ rocketchat.rocketchat_room #####################################################################
+
+#TOTAL DE ROOM'S
+def countRooms():
+    rooms = selectBanco().rocketchat_room
+    count_rooms = rooms.count_documents({})
+    return count_rooms
+
+#TOTAL DE MENSAGENS POR SALA
+def totalMessagesRoom():
+    rooms = selectBanco().rocketchat_room
+    messages_room = rooms.find()
+    vetor_messagesRoom = []
+    for message in messages_room:
+        linha_vetor = [message['name'], message['msgs']]
+        vetor_messagesRoom.append(linha_vetor)
+
+    return vetor_messagesRoom
+
+
+################################################ rocketchat.users #####################################################################
+
+#TOTAL DE USUÁRIOS
+def countUsers():
+    users = selectBanco().users
+    count_users = users.find()
+
+    count = 0
+    for user in count_users:
+        if user['type'] == "user":
+            count = count + 1
+
+    return count
+
+countUsers()

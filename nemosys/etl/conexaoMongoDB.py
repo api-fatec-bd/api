@@ -5,7 +5,7 @@ from pymongo import MongoClient
 
 
 def connectionMongoDB():
-    cliente = MongoClient('mongodb://20.97.1.117:27017/')
+    cliente = MongoClient('mongodb://34.135.95.193:27017/')
     return cliente
 
 def selectBanco():
