@@ -1,5 +1,5 @@
 
-from conexaoMongoDB import selectBanco
+from .conexaoMongoDB import selectBanco
 
 
 #CRIAÇÃO DE FILTTROS PARA IMPLEMENTAR O BANCO QUE SERÁ ENVIADO AO DW
@@ -38,7 +38,6 @@ def totalMessagesRoom():
     for message in messages_room:
         linha_vetor = [message['name'], message['msgs']]
         vetor_messagesRoom.append(linha_vetor)
-
     return vetor_messagesRoom
 
 
@@ -53,7 +52,4 @@ def countUsers():
     for user in count_users:
         if user['type'] == "user":
             count = count + 1
-
     return count
-
-countUsers()

@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+
+
     #BOOTSTRAP
      'bootstrap5',
     #DRF
@@ -45,7 +47,11 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'rest_framework_swagger',
     #APPLICATION
-    'apiv1'
+    'apiv1',
+
+    #ETL
+    'etl',
+
 ]
 
 MIDDLEWARE = [
@@ -85,7 +91,7 @@ WSGI_APPLICATION = 'nemosys.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-
+"""""""""
 DATABASES = {
     'default': {
         'ENGINE': 'mssql',
@@ -97,7 +103,7 @@ DATABASES = {
         'OPTIONS': {'driver': 'ODBC Driver 17 for SQL Server'},
     }
 }
-
+"""""
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
