@@ -83,8 +83,7 @@ CREATE TABLE fact_matricula (
   id_certificado BIGINT NULL,
   numero_certificado VARCHAR(45) NULL,
   status_matricula BIT NOT NULL,
-  quantidade_matriculas_ativa INT NOT NULL,
-  quantidade_matriculas INT NOT NULL
+  quantidade_matricula INT NOT NULL
   )
   GO
 
