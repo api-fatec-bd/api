@@ -1,5 +1,5 @@
 
-from .conexaoMongoDB import selectBanco
+from .conexaoMongoDB import selectBanco, connectionMongoDB
 
 #IMPORT DE TABELAS DO MODELS.PY
 
@@ -15,13 +15,16 @@ def countMessages():
     messages = selectBanco().rocketchat_message
     count_messages = messages.count_documents({})
 
+
     # CADASTRAR DADO NA TABELA tbCountMessages
     tb_count_messages = tbCountMessages()
     tb_count_messages.id = 1
     tb_count_messages.totalMessages = count_messages
     tb_count_messages.save()
 
+    print("Success: Count Messages")
     return count_messages
+
 
 
 ################################################ rocketchat.rocketchat_sessions #####################################################################
@@ -31,11 +34,14 @@ def countSessions():
     sessions = selectBanco().rocketchat_sessions
     count_sessions = sessions.count_documents({})
 
+
     # CADASTRAR DADO NA TABELA tbCountSessions
     tb_count_sessions = tbCountSessions()
     tb_count_sessions.id = 1
     tb_count_sessions.totalSessions = count_sessions
     tb_count_sessions.save()
+
+    print("Success: Count Sessions")
     return count_sessions
 
 
@@ -52,6 +58,7 @@ def countRooms():
     tb_count_rooms.totalRooms = count_rooms
     tb_count_rooms.save()
 
+    print("Success: Count Rooms")
     return count_rooms
 
 #TOTAL DE MENSAGENS POR SALA
@@ -72,7 +79,8 @@ def totalMessagesRoom():
         tb_messages_room.totalMessages = message['msgs']
         tb_messages_room.save()
 
-    return vetor_messagesRoom
+    print("Success: Messages Room")
+
 
 
 ################################################ rocketchat.users #####################################################################
@@ -90,7 +98,10 @@ def countUsers():
     # CADASTRAR DADO NA TABELA tbCountUsers
     tb_count_user = tbCountUsers()
     tb_count_user.id = 1
-    tb_count_user.totalUsers = count_users
+    tb_count_user.totalUsers = count
+    tb_count_user.save()
 
+    print("Success: Count Users")
+    print("Success: Count Users")
     return count
 

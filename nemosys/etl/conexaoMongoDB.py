@@ -5,12 +5,11 @@ from pymongo import MongoClient
 
 
 def connectionMongoDB():
-    cliente = MongoClient('mongodb://34.135.95.193:27017/')
+    cliente = MongoClient('mongodb://157.245.243.16:3002/')
     return cliente
 
 def selectBanco():
-    banco = connectionMongoDB().rocketchat
+    banco = connectionMongoDB()['rocketchat']
     return banco
-
 
 

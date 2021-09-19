@@ -8,8 +8,8 @@ class EtlConfig(AppConfig):
     def ready(self):
         from .taskScheduler import startCountUsers, startCountMessages, startCountSessions, startCountRooms, startTotalMessagesRoom
 
-        startCountMessages()
         startCountUsers()
+        startCountMessages()
         startCountSessions()
         startCountRooms()
         startTotalMessagesRoom()

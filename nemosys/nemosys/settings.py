@@ -91,7 +91,7 @@ WSGI_APPLICATION = 'nemosys.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-"""""""""
+
 DATABASES = {
     'default': {
         'ENGINE': 'mssql',
@@ -103,7 +103,8 @@ DATABASES = {
         'OPTIONS': {'driver': 'ODBC Driver 17 for SQL Server'},
     }
 }
-"""""
+
+
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
