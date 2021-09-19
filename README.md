@@ -10,6 +10,7 @@
             <a href="#arquitetura"><span>:small_blue_diamond:</span>Arquitetura</a>
             <a href="#backlog"><span>:small_blue_diamond:</span>Backlog</a>
             <a href="#bd"><span>:small_blue_diamond:</span>Banco de Dados</a>
+            <a href="#dashboard"><span>:small_blue_diamond:</span>Protótipo Dashboard</a>
             <a href="#equipe"><span>:small_blue_diamond:</span>Equipe</a>
       </p>
 </div>
@@ -143,6 +144,15 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 ## :floppy_disk: 5. Diagrama do Banco de Dados
 
  ![Diagrama do Banco de Dados](/uploads/38e76438de710b0167f9ee21c60b6734/API.png)
+
+<a name="dashboard"></a>
+## :capital_abcd:Protótipo Dashboard
+
+<img src="https://user-images.githubusercontent.com/45483678/133944681-61d8d788-c48c-49a6-8eed-8ad03ec6f983.png" >
+<img src="https://user-images.githubusercontent.com/45483678/133944684-42b16949-7979-4198-b5cd-7acba2689571.png">
+<img src="https://user-images.githubusercontent.com/45483678/133944696-f7b08271-7bed-462e-b184-0eaca8420d7e.png">
+<img src="https://user-images.githubusercontent.com/45483678/133944704-a0f85b76-b9d5-4123-9b76-e417f5be107b.png">
+
 
 <a name="equipe"></a>
 ## :muscle: Equipe
