@@ -153,6 +153,31 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 <img src="https://user-images.githubusercontent.com/45483678/133944696-f7b08271-7bed-462e-b184-0eaca8420d7e.png">
 <img src="https://user-images.githubusercontent.com/45483678/133944704-a0f85b76-b9d5-4123-9b76-e417f5be107b.png">
 
+## Dockerfiles para os serviços utilizados
+
+### Instalando o docker: 
+- Windows: https://docs.docker.com/desktop/windows/install/
+**obs.: Caso possua 2 hds e/ou queira uma melhor customização dos recursos utilizados, recomendo utilizar o Hyper-v no lugar do WSL (https://docs.microsoft.com/pt-br/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)**
+- Linux: https://docs.docker.com/engine/install/ubuntu/  || https://docs.docker.com/compose/install/
+
+### Subindo os containers
+`docker-compose -f <arquivo.yml> up -d`
+
+### Down containers 
+``docker-compose <arquivo.yml> down``
+
+### Executando o sqlSever a partir do docker
+- Pull da imagem:
+`docker pull mcr.microsoft.com/mssql/server`
+- Executando o serviço do sqlSever
+`docker run --name sqlserver -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=<SUA_SENHA>" -p 1433:1433 -d mcr.microsoft.com/mssql/server`
+
+## Endereços importantes:
+
+- Servidor do chat: http://157.245.243.16:3000/ (Importante que seja http por enquanto)
+- Servidor sqlSever: 157.245.243.16:1433
+- Servidor Primary Mongo: 157.245.243.16:3002
+- Portas Mongo Secundary: 3003, 3004
 
 <a name="equipe"></a>
 ## :muscle: Equipe
