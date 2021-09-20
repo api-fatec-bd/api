@@ -7,7 +7,6 @@
       <p>
             <a href="#introducao"><span>:small_blue_diamond:</span>Introdução </a>
             <a href="#comousar"><span>:small_blue_diamond:</span>Como usar</a>
-            <a href="#arquitetura"><span>:small_blue_diamond:</span>Arquitetura</a>
             <a href="#backlog"><span>:small_blue_diamond:</span>Backlog</a>
             <a href="#bd"><span>:small_blue_diamond:</span>Banco de Dados</a>
             <a href="#dashboard"><span>:small_blue_diamond:</span>Protótipo Dashboard</a>
@@ -18,12 +17,9 @@
 <a name="introducao"></a>
 ## :scroll: Introdução
 
-Desenvolver  uma  solução  de  dados  voltada  ao ensino  à  distância  para  a  gestão  e  oferta  de conhecimento,  dando  suporte  às  mais  diversas  arquiteturas  de  aprendizagem,  alinhado  com  os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes.
-
-Iniciamos o  desafio da construção da plataforma na  Fatec e agora precisamos ajustar  o banco de dados pensando em um grande processamento de dados com ganho de escalabilidade e integração contínua  entre  os  ambientes.  Adicionar  na  solução  atual um  banco  de  dados  não  relacional para armazenar os chats e os logs.
-
 ### Visão do Projeto
 
+Desenvolver  uma  solução  de  dados  voltada  ao ensino  à  distância  para  a  gestão  e  oferta  de conhecimento,  dando  suporte  às  mais  diversas  arquiteturas  de  aprendizagem,  alinhado  com  os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes. Fazer a gestão de logs para alimentar um Data Warehouse afim de possibilitar a melhor gestão estratégica do negócio.
 
 
 ### Apresentação da Evolução do Projeto
@@ -44,45 +40,65 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 
 ### Cronograma
 
-- [ ] 16/08/2021 até 22/08/2021 - Kick Off do Projeto
-- [ ] 30/08/2021 até 19/09/2021 - Sprint 1
+- [x] 16/08/2021 até 22/08/2021 - Kick Off do Projeto
+- [x] 30/08/2021 até 19/09/2021 - Sprint 1
 - [ ] 20/09/2021 até 10/10/2021 - Sprint 2
 - [ ] 18/10/2021 até 07/10/2021 - Sprint 3
 - [ ] 08/11/2021 até 28/11/2021 - Sprint 4
 - [ ] 29/11/2021 até xx/12/2021 - Sprint Apresentação Final
 - [ ] xx/xx/2021 até xx/xx/2021 - Sprint Feira de Soluções
 
-### Tecnologias Utilizadas
+### Gitflow
 
-<div align="center">
-      <img src="#">
-</div>
+Aqui é discutido o Gitflow Workflow. Gitflow é um dos muitos estilos de [fluxos de trabalho Git](https://www.atlassian.com/br/git/tutorials/comparing-workflows) que você e sua equipe podem utilizar.
+
+Alguns dos principais aprendizados para saber sobre o Gitflow são:
+
+- O fluxo de trabalho é ótimo para um fluxo de trabalho de software baseado em lançamento.
+- O Gitflow oferece um canal dedicado de hotfixes para produção.
+
+O fluxo geral do Gitflow é:
+
+1. Uma ramificação `development` é criada a partir da `main`
+2. Uma ramificação de `release` é criada a partir da ramificação de `development`
+3. As ramificações de `feature` são criadas a partir da ramificação de `development`
+4. Quando um `feature` é concluído, deve ser aberto um Pull Request para `development`
+5. Para completar o PR é necessário ser homologado pelo PO
+6. Quando a ramificação `release` é feita, é feito o merge dela na ramificação `development` e na `main`
+7. Se for detectado um item na `main`, uma ramificação de `hotfix` vai ser criada a partir da `main`
+8. Depois que o `hotfix` for concluído, existe o mesmo processo de homologação, ele passa por merge para a ramificação `development` e à `main`
 
 <a name="comousar"></a>
 ## :capital_abcd: Como usar
 
-### No seu ambiente
+### Dockerfiles para os serviços utilizados
 
-- a -  Agora acesse através do POSTMAN ou do INSOMNIA a rota: "localhost:8081/nemo/v1/authentication" para se autenticar,
+#### Instalando o docker: 
+- Windows: https://docs.docker.com/desktop/windows/install/
+**obs.: Caso possua 2 hds e/ou queira uma melhor customização dos recursos utilizados, recomendo utilizar o Hyper-v no lugar do WSL (https://docs.microsoft.com/pt-br/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)**
+- Linux: https://docs.docker.com/engine/install/ubuntu/  || https://docs.docker.com/compose/install/
 
-- n - Copie o token e agora insira ele no header da requisição para fazer requisições para as outras rotas da aplicação. 
+#### Subindo os containers
+`docker-compose -f <arquivo.yml> up -d`
 
-### Na cloud do projeto
+#### Down containers 
+``docker-compose <arquivo.yml> down``
 
-- Momentaneamente desativado
+#### Executando o sqlSever a partir do docker
+- Pull da imagem:
+`docker pull mcr.microsoft.com/mssql/server`
+- Executando o serviço do sqlSever
+`docker run --name sqlserver -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=<SUA_SENHA>" -p 1433:1433 -d mcr.microsoft.com/mssql/server`
+
+### Endereços importantes:
+
+- Servidor do chat: http://157.245.243.16:3000/ (Importante que seja http por enquanto)
+- Servidor sqlSever: 157.245.243.16:1433
+- Servidor Primary Mongo: 157.245.243.16:3002
+- Portas Mongo Secundary: 3003, 3004
 
 <a name="arquitetura"></a>
 ## :bookmark_tabs: Arquitetura do Projeto
-
-### Arquitetura do MVP:
-
-![MVP_Architecture](#)
-
-----------------------------------------------------------------------------------------------
-
-### Design da aplicação:
-
-![MVP_System_Design](#)
 
 <a name="backlog"></a>
 ## :memo: Backlog
@@ -146,38 +162,12 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
  ![Diagrama do Banco de Dados](https://github.com/api-fatec-bd/api/blob/main/dw/untitled.png)
 
 <a name="dashboard"></a>
-## :capital_abcd:Protótipo Dashboard
+## :capital_abcd:Protótipo Dashboard (OLAP)
 
 <img src="https://user-images.githubusercontent.com/45483678/133944681-61d8d788-c48c-49a6-8eed-8ad03ec6f983.png" >
 <img src="https://user-images.githubusercontent.com/45483678/133944684-42b16949-7979-4198-b5cd-7acba2689571.png">
 <img src="https://user-images.githubusercontent.com/45483678/133944696-f7b08271-7bed-462e-b184-0eaca8420d7e.png">
 <img src="https://user-images.githubusercontent.com/45483678/133944704-a0f85b76-b9d5-4123-9b76-e417f5be107b.png">
-
-## Dockerfiles para os serviços utilizados
-
-### Instalando o docker: 
-- Windows: https://docs.docker.com/desktop/windows/install/
-**obs.: Caso possua 2 hds e/ou queira uma melhor customização dos recursos utilizados, recomendo utilizar o Hyper-v no lugar do WSL (https://docs.microsoft.com/pt-br/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)**
-- Linux: https://docs.docker.com/engine/install/ubuntu/  || https://docs.docker.com/compose/install/
-
-### Subindo os containers
-`docker-compose -f <arquivo.yml> up -d`
-
-### Down containers 
-``docker-compose <arquivo.yml> down``
-
-### Executando o sqlSever a partir do docker
-- Pull da imagem:
-`docker pull mcr.microsoft.com/mssql/server`
-- Executando o serviço do sqlSever
-`docker run --name sqlserver -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=<SUA_SENHA>" -p 1433:1433 -d mcr.microsoft.com/mssql/server`
-
-## Endereços importantes:
-
-- Servidor do chat: http://157.245.243.16:3000/ (Importante que seja http por enquanto)
-- Servidor sqlSever: 157.245.243.16:1433
-- Servidor Primary Mongo: 157.245.243.16:3002
-- Portas Mongo Secundary: 3003, 3004
 
 <a name="equipe"></a>
 ## :muscle: Equipe
