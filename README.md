@@ -23,7 +23,7 @@ Desenvolver  uma  solução  de  dados  voltada  ao ensino  à  distância  para
 
 
 ### Apresentação da Evolução do Projeto
-:white_large_square: Sprint 1  | :white_large_square: Sprint 2 | :white_large_square: Sprint 3 | :white_large_square:  Sprint 4  
+:white_check_mark: Sprint 1  | :white_large_square: Sprint 2 | :white_large_square: Sprint 3 | :white_large_square:  Sprint 4  
 --------- |--------- |--------- |--------- |
 [Aguarde]() |[Aguarde]() |[Aguarde]() |[Aguarde]() |
 
