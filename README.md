@@ -97,9 +97,6 @@ O fluxo geral do Gitflow é:
 - Servidor Primary Mongo: 157.245.243.16:3002
 - Portas Mongo Secundary: 3003, 3004
 
-<a name="arquitetura"></a>
-## :bookmark_tabs: Arquitetura do Projeto
-
 <a name="backlog"></a>
 ## :memo: Backlog
 
