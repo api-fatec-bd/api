@@ -143,7 +143,7 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 <a name="bd"></a>
 ## :floppy_disk: 5. Diagrama do Banco de Dados
 
- ![Diagrama do Banco de Dados](/uploads/38e76438de710b0167f9ee21c60b6734/API.png)
+ ![Diagrama do Banco de Dados](https://github.com/api-fatec-bd/api/blob/main/dw/untitled.png)
 
 <a name="dashboard"></a>
 ## :capital_abcd:Protótipo Dashboard
