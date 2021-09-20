@@ -126,9 +126,9 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 #### :white_medium_square: Sprint 2
 
 
-<strong>5</strong> - Refatorar a plataforma de  LMS desenvolvida pela turma do 3º semestre de banco de dados (no primeiro semestre de 2021), para armazenar os dados do chatbot em um banco de dados não-relacional;
+<strong>5</strong> - Criar rotinas ETL da plataforma e do chat para alimentar o DW;
 
-<strong>6</strong> - Criar rotinas para extrair os dados da plataforma e transformar os dados para posteriormente serem inseridos no Data Warehouse (a parte de carregamento dos dados será trabalhada na última sprint);
+<strong>6</strong> - Criar os dashboards OLAP com os indicadores requisitados;
 
 ####  :white_medium_square: Sprint 3
 
