@@ -1,0 +1,35 @@
+version: '2'
+networks:
+    chatNetwork:
+        external: true
+services:
+  mongo:
+    image: mongo:4.0
+    restart: unless-stopped
+    command: mongod --smallfiles --oplogSize 128 --replSet rs0 --storageEngine=mmapv1 -port 27017
+    labels:
+      - "traefik.enable=false"
+    ports:
+      - 3002:27017
+    networks:
+      - chatNetwork
+  mongo2:
+    image: mongo:4.0
+    restart: unless-stopped
+    command: mongod --smallfiles --oplogSize 128 --replSet rs0 --storageEngine=mmapv1 -port 27017
+    labels:
+      - "traefik.enable=false"
+    ports:
+      - 3003:27017
+    networks:
+      - chatNetwork
+  mongo3:
+    image: mongo:4.0
+    restart: unless-stopped
+    command: mongod --smallfiles --oplogSize 128 --replSet rs0 --storageEngine=mmapv1 -port 27017
+    labels:
+      - "traefik.enable=false"
+    ports:
+      - 3004:27017
+    networks:
+      - chatNetwork
