@@ -1,8 +1,6 @@
-
 from .conexaoMongoDB import selectBanco, connectionMongoDB
-
+from .dwConnection import connectionDW
 #IMPORT DE TABELAS DO MODELS.PY
-
 from .models import tbCountRooms, tbCountUsers, tbCountMessages, tbMessagesRoom, tbCountSessions
 
 
@@ -10,11 +8,18 @@ from .models import tbCountRooms, tbCountUsers, tbCountMessages, tbMessagesRoom,
 
 ################################################ rocketchat.rocketchat_message #####################################################################
 
+def pocpocpoc():
+    connectionDW().execute(
+        'INSERT INTO sessoes_dia (syear, smonth, sday, sessions) values ({0},{1},{2},{3});'.format(1,
+                                                                                                   2,
+                                                                                                   3,
+                                                                                                   4))
+    print("gg wp")
+
 #TOTAL DE MENSAGENS
 def countMessages():
     messages = selectBanco().rocketchat_message
     count_messages = messages.count_documents({})
-
 
     # CADASTRAR DADO NA TABELA tbCountMessages
     tb_count_messages = tbCountMessages()
