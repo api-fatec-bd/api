@@ -5,24 +5,11 @@ CREATE TABLE dim_usuario (
   id_usuario BIGINT IDENTITY NOT NULL PRIMARY KEY NONCLUSTERED,
   nome_usuario VARCHAR(100) NOT NULL,
   email VARCHAR(100) NOT NULL,
+  codigo_permissao INT NOT NULL,
+  descricao_permissao VARCHAR(50) NOT NULL,
   tel_1 VARCHAR(45) NULL,
   tel_2 VARCHAR(45) NULL
  );
-
--- -----------------------------------------------------
--- Table dim_data
--- -----------------------------------------------------
-CREATE TABLE dim_data (
-  id_data BIGINT IDENTITY NOT NULL PRIMARY KEY NONCLUSTERED,
-  dia INT NOT NULL,
-  ano INT NOT NULL,
-  semestre SMALLINT NOT NULL,
-  trimestre SMALLINT NOT NULL,
-  data DATETIME NOT NULL,
-  hora INT NOT NULL,
-  minuto INT NOT NULL,
-  );
-
 
 -- -----------------------------------------------------
 -- Table dim_turma
@@ -39,8 +26,6 @@ CREATE TABLE dim_turma (
     ON UPDATE NO ACTION)
 	GO
 
-
-
 -- -----------------------------------------------------
 -- Table dim_curso
 -- -----------------------------------------------------
@@ -51,7 +36,6 @@ CREATE TABLE dim_curso (
   duracao INT NOT NULL,
   )
 GO
-
 
 -- -----------------------------------------------------
 -- Table dim_disciplina
@@ -75,15 +59,17 @@ GO
 -- -----------------------------------------------------
 CREATE TABLE fact_matricula (
   id_matricula BIGINT PRIMARY KEY NOT NULL,
-  data_inicio BIGINT NOT NULL REFERENCES dim_data (id_data),
-  data_fim BIGINT NOT NULL REFERENCES dim_data (id_data),
+  data_inicio DATETIME NOT NULL,
+  data_fim DATETIME NOT NULL,
   id_aluno BIGINT NOT NULL REFERENCES dim_usuario (id_usuario),
   id_turma BIGINT NOT NULL REFERENCES dim_turma (id_turma),
   id_disciplina BIGINT NOT NULL REFERENCES dim_disciplina (id_disciplina),
   id_certificado BIGINT NULL,
   numero_certificado VARCHAR(45) NULL,
   status_matricula BIT NOT NULL,
-  quantidade_matricula INT NOT NULL
+  quantidade_matricula INT NOT NULL,
+  INDEX fk_data_inicio_idx (data_inicio ASC),
+  INDEX fk_data_fim_idx (data_fim ASC)
   )
   GO
 
@@ -97,7 +83,9 @@ CREATE TABLE fact_nota (
   nota_avaliacao FLOAT NOT NULL,
   percentual_nota FLOAT NOT NULL,
   id_disciplina BIGINT NOT NULL REFERENCES dim_disciplina (id_disciplina),
-  id_data BIGINT NOT NULL REFERENCES dim_data (id_data)
+  data DATETIME NOT NULL,
+  INDEX fk_id_aluno_idx (id_aluno ASC),
+  INDEX fk_id_disciplina_idx (id_disciplina ASC)
   )
   GO
 
@@ -107,13 +95,13 @@ CREATE TABLE fact_nota (
 -- -----------------------------------------------------
 CREATE TABLE dim_aula (
   id_aula BIGINT PRIMARY KEY NOT NULL,
-  data BIGINT NOT NULL REFERENCES dim_data (id_data),
+  data DATETIME NOT NULL,
   id_disciplina BIGINT NOT NULL REFERENCES dim_disciplina (id_disciplina),
   titulo VARCHAR(45) NULL,
   duracao FLOAT NOT NULL,
   assunto VARCHAR(100) NULL,
   INDEX fk_id_disciplina_idx (id_disciplina ASC),
-  INDEX fk_id_data_idx (data ASC) 
+  INDEX fk_data_idx (data ASC) 
   )
 GO
 
@@ -125,13 +113,13 @@ CREATE TABLE fact_aluno_aula (
   id_aluno_aula BIGINT PRIMARY KEY NOT NULL,
   id_aluno BIGINT NOT NULL REFERENCES dim_usuario (id_usuario),
   reacao_valor FLOAT NULL,
-  data_reacao BIGINT NOT NULL REFERENCES dim_data (id_data),
+  data_reacao DATETIME NOT NULL, 
   id_aula BIGINT NOT NULL REFERENCES dim_aula (id_aula),
   quantidade_msg INT NULL,
   tempo_participacao FLOAT NULL,
   media_reacao FLOAT NULL,
 
-  INDEX fk_id_data_idx (data_reacao ASC),
+  INDEX fk_data_idx (data_reacao ASC),
   INDEX fk_id_aula_idx (id_aula ASC),
   INDEX fk_id_aluno_idx (id_aluno ASC)
   )
@@ -143,8 +131,10 @@ CREATE TABLE fact_aluno_aula (
 -- -----------------------------------------------------
 CREATE TABLE fact_login_plataforma (
   id_usuario BIGINT NOT NULL PRIMARY KEY REFERENCES dim_usuario (id_usuario),
-  data_acesso BIGINT NOT NULL REFERENCES dim_data (id_data),
+  data_login DATETIME NOT NULL,
+  data_logoff  DATETIME NOT NULL,
   quantidade_acesso INT NOT NULL,
-  INDEX fk_id_data_idx (data_acesso ASC)
+  INDEX fk_data_login_idx (data_login ASC),
+  INDEX fk_data_logoff_idx (data_logoff ASC)
 	)
 GO
