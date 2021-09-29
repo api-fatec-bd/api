@@ -1,6 +1,5 @@
 import pyodbc
 
-
 def connectionDW():
     dw_conn = pyodbc.connect('Driver={SQL Server};'
                              'Server=localhost;'

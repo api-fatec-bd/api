@@ -1,21 +1,36 @@
-from .conexaoMongoDB import selectBanco, connectionMongoDB
-from .dwConnection import connectionDW
+from .conexaoMongoDB import connectionChatDB
+from .models import dim_usuario
+
+#from .conexaoMongoDB import selectBanco
+#from .dwConnection import connectionDW
 #IMPORT DE TABELAS DO MODELS.PY
-from .models import tbCountRooms, tbCountUsers, tbCountMessages, tbMessagesRoom, tbCountSessions
+#from .models import tbCountRooms, tbCountUsers, tbCountMessages, tbMessagesRoom, tbCountSessions, dim_usuario
 
 
-#CRIAÇÃO DE FILTTROS PARA IMPLEMENTAR O BANCO QUE SERÁ ENVIADO AO DW
 
-################################################ rocketchat.rocketchat_message #####################################################################
+# from: chatDB.rocketchat.users | to: dwDB.db_nemosys.dim_usuario
+def usersETL():
+    # etl.ETL.usersETL()
+    filters = {}
+    fields = {"username": 1, "type": 1}
 
-def pocpocpoc():
-    connectionDW().execute(
-        'INSERT INTO sessoes_dia (syear, smonth, sday, sessions) values ({0},{1},{2},{3});'.format(1,
-                                                                                                   2,
-                                                                                                   3,
-                                                                                                   4))
+    usersdict = connectionChatDB()['rocketchat']['users'].find(filters, fields)
+
+    for x in usersdict:
+        print(x["_id"])
+        print(x["username"])
+        print(x["type"])
+        newuser = dim_usuario()
+        newuser.id_usuario = x["_id"]
+        newuser.nome_usuario = x["username"]
+        newuser.email = x["username"].lower() + "@gmail.com"
+        newuser.codigo_permissao = 1
+        newuser.descricao_permissao = x["type"]
+        newuser.save()
+        print(x["username"], "ok")
+
     print("gg wp")
-
+'''
 #TOTAL DE MENSAGENS
 def countMessages():
     messages = selectBanco().rocketchat_message
@@ -110,3 +125,4 @@ def countUsers():
     print("Success: Count Users")
     return count
 
+'''

@@ -2,14 +2,12 @@ from pymongo import MongoClient
 
 
 #CONEXÃO COM SERVER MONGO
-
-
-def connectionMongoDB():
-    cliente = MongoClient('mongodb://157.245.243.16:3002/')
-    return cliente
+def connectionChatDB():
+    chat_conn = MongoClient('mongodb://157.245.243.16:3002/')
+    return chat_conn
 
 def selectBanco():
-    banco = connectionMongoDB()['rocketchat']
+    banco = connectionChatDB()['rocketchat']
     return banco
 
 
