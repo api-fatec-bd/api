@@ -30,4 +30,4 @@ jobs:
         pip install -r nemosys/requirements.txt
     - name: Run Tests
       run: |
-        python manage.py test
+        python nemosys/manage.py test
