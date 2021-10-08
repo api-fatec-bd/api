@@ -6,6 +6,6 @@ class EtlConfig(AppConfig):
     name = 'etl'
 
     def ready(self):
-        from .taskScheduler import usersETLschedule
+        from .taskScheduler import ETLschedule
 
-        usersETLschedule()
+        ETLschedule()
