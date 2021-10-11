@@ -98,7 +98,7 @@ No nosso projeto, configuramos o CI para realizar o build da aplicação e valid
 - Servidor sqlSever: 157.245.243.16:1433
 - Servidor Primary Mongo: 157.245.243.16:3002
 - Portas Mongo Secundary: 3003, 3004
-- Pock dataStudio: https://datastudio.google.com/reporting/cf81a7bd-c173-4046-a03e-ed70b5c24b8c/page/QNeaC
+- Olap: <a href="https://datastudio.google.com/reporting/374d6163-7457-42dc-b156-d62e09c1c712">Data Studio</a>
 
 <a name="backlog"></a>
 ## :memo: Backlog
