@@ -23,9 +23,9 @@ Desenvolver  uma  solução  de  dados  voltada  ao ensino  à  distância  para
 
 
 ### Apresentação da Evolução do Projeto
-:white_check_mark: Sprint 1  | :white_large_square: Sprint 2 | :white_large_square: Sprint 3 | :white_large_square:  Sprint 4  
+:white_check_mark: Sprint 1  | :white_check_mark: Sprint 2 | :white_large_square: Sprint 3 | :white_large_square:  Sprint 4  
 --------- |--------- |--------- |--------- |
-[Aguarde]() |[Aguarde]() |[Aguarde]() |[Aguarde]() |
+
 
 ### Planejamento
 
@@ -42,7 +42,7 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 
 - [x] 16/08/2021 até 22/08/2021 - Kick Off do Projeto
 - [x] 30/08/2021 até 19/09/2021 - Sprint 1
-- [ ] 20/09/2021 até 10/10/2021 - Sprint 2
+- [x] 20/09/2021 até 10/10/2021 - Sprint 2
 - [ ] 18/10/2021 até 07/10/2021 - Sprint 3
 - [ ] 08/11/2021 até 28/11/2021 - Sprint 4
 - [ ] 29/11/2021 até xx/12/2021 - Sprint Apresentação Final
@@ -67,6 +67,8 @@ O fluxo geral do Gitflow é:
 6. Quando a ramificação `release` é feita, é feito o merge dela na ramificação `development` e na `main`
 7. Se for detectado um item na `main`, uma ramificação de `hotfix` vai ser criada a partir da `main`
 8. Depois que o `hotfix` for concluído, existe o mesmo processo de homologação, ele passa por merge para a ramificação `development` e à `main`
+
+No nosso projeto, configuramos o CI para realizar o build da aplicação e validar os teste unitários.
 
 <a name="comousar"></a>
 ## :capital_abcd: Como usar
@@ -114,7 +116,7 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 
 ### Requisitos Funcionais
 
-#### :white_medium_square: Sprint 1
+#### :black_medium_square: Sprint 1
 <strong>1</strong> - Definir as tabelas FATO do Data Warehouse;
 
 <strong>2</strong> - Definir as dimensões e granularidade do Data Warehouse;
@@ -123,8 +125,7 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 
 <strong>4</strong> - Definir ferramentas para o pipeline ETL;
 
-#### :white_medium_square: Sprint 2
-
+#### :black_medium_square: Sprint 2
 
 <strong>5</strong> - Criar rotinas ETL da plataforma e do chat para alimentar o DW;
 
