@@ -16,8 +16,8 @@ class DimUsuario(models.Model):
 
 class FactLoginPlataforma(models.Model):
     id_usuario = models.ForeignKey(DimUsuario, db_column='id_usuario', on_delete=models.PROTECT)
-    data_login = models.DateTimeField("data_login", null=False, primary_key=True)
-    data_logoff = models.DateTimeField("data_logoff", null=False, primary_key=True)
+    data_login = models.DateTimeField("data_login", null=False)
+    data_logoff = models.DateTimeField("data_logoff", null=False)
     quantidade_acesso = models.IntegerField("descricao_permissao", null=False)
 
     class Meta:
