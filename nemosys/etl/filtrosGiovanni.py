@@ -98,7 +98,6 @@ def filtroFactUsuarioChat():
             #PRIMEIRA MENSAGEM; ULTIMA MENSAGEM, TEMPO DURACAO; DA ROOM SELECIONADA NO USUÁRIO SELECIONADO
             if mensagens_usuario != []:
                 id_usuario_chat = id_usuario_chat + 1
-                print(mensagens_usuario[0])
                 data_login = mensagens_usuario[0]['ts']
                 data_logoff = mensagens_usuario[-1]['ts']
                 tempo_participacao = (data_logoff - data_login).total_seconds() / 60
@@ -113,4 +112,45 @@ def filtroFactUsuarioChat():
     return vetor_usuario_mensagens_room
 
 
-filtroFactUsuarioChat()
+
+# CRIAR FILTRO PARA ALIMENTAR TABELA FACT_ACESSO
+
+"""""""""
+Campos: ID_USUARIO; ORIGEM; DATA_LOGIN; DATA_LOGOFF;
+"""""""""
+
+def filtroFactAcesso():
+
+    collection_login = mongoConnection()['Logs']['Login']
+
+    vetor_sessao = []
+    for loginLogout in collection_login.find():
+        all_login_user = list(collection_login.find({'iduser': loginLogout['iduser'], 'funcao': 'Login'}))
+        all_logout_user = list(collection_login.find({'iduser': loginLogout['iduser'], 'funcao': 'Logout'}))
+
+        for login_user in all_login_user:
+            data_login = login_user['DateTime']
+            data_logoff = dataHoraLogout(data_login, all_logout_user)
+
+        linha_vetor_sessao = [loginLogout['iduser'], 'P', data_login, data_logoff]
+
+        vetor_sessao.append(linha_vetor_sessao)
+        print("vetor_sessao: ", linha_vetor_sessao)
+
+    #print("vetor_sessao: ", vetor_sessao)
+
+
+def dataHoraLogout(datetimeLogin, listLogoutUser):
+    vetor = []
+    for logoutUser in listLogoutUser:
+        if logoutUser['DateTime'] > datetimeLogin:
+            linha = logoutUser['DateTime']
+            vetor.append(linha)
+    if vetor != []:
+        menorDatetimeLogout = min(vetor)
+        return menorDatetimeLogout
+    else:
+        menorDatetimeLogout = 0
+        return menorDatetimeLogout
+
+filtroFactAcesso()
