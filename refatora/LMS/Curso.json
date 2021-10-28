@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd0e"
+  },
+  "idcurso": 1,
+  "descricao": "ADMINISTRACAO",
+  "graduacao": "TECNOLOGO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd0f"
+  },
+  "idcurso": 2,
+  "descricao": "ENGENHARIA ELETRICA",
+  "graduacao": "BACHARELADO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd10"
+  },
+  "idcurso": 3,
+  "descricao": "REDES DE COMPUTADORES",
+  "graduacao": "MESTRADO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd11"
+  },
+  "idcurso": 4,
+  "descricao": "ENGENHARIA DA COMPUTACAO",
+  "graduacao": "BACHARELADO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd12"
+  },
+  "idcurso": 5,
+  "descricao": "ANALISE E DESENVOLVIMENTO DE SISTEMAS",
+  "graduacao": "BACHARELADO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd13"
+  },
+  "idcurso": 6,
+  "descricao": "ENGENHARIA MECANICA",
+  "graduacao": "BACHARELADO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd14"
+  },
+  "idcurso": 7,
+  "descricao": "LOGISTICA",
+  "graduacao": "MESTRADO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd15"
+  },
+  "idcurso": 8,
+  "descricao": "BANCO DE DADOS",
+  "graduacao": "TECNOLOGO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd16"
+  },
+  "idcurso": 9,
+  "descricao": "RECURSOS HUMANOS",
+  "graduacao": "MESTRADO",
+  "duracao": 10
+},{
+  "_id": {
+    "$oid": "615e5ff0d79f2e40a978fd17"
+  },
+  "idcurso": 10,
+  "descricao": "ENGENHARIA CIVIL",
+  "graduacao": "MESTRADO",
+  "duracao": 10
+}]

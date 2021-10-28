@@ -1,0 +1,9001 @@
+[{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979013c"
+  },
+  "idaluno": 327,
+  "iddisciplina": 408,
+  "data": "2020-05-29",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979013d"
+  },
+  "idaluno": 168,
+  "iddisciplina": 72,
+  "data": "2020-06-25",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979013e"
+  },
+  "idaluno": 149,
+  "iddisciplina": 485,
+  "data": "2019-08-10",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979013f"
+  },
+  "idaluno": 142,
+  "iddisciplina": 134,
+  "data": "2021-07-08",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790140"
+  },
+  "idaluno": 30,
+  "iddisciplina": 62,
+  "data": "2021-06-01",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790141"
+  },
+  "idaluno": 429,
+  "iddisciplina": 24,
+  "data": "2020-05-26",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790142"
+  },
+  "idaluno": 21,
+  "iddisciplina": 463,
+  "data": "2019-11-22",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790143"
+  },
+  "idaluno": 332,
+  "iddisciplina": 109,
+  "data": "2020-07-22",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790144"
+  },
+  "idaluno": 222,
+  "iddisciplina": 40,
+  "data": "2021-02-28",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790145"
+  },
+  "idaluno": 331,
+  "iddisciplina": 293,
+  "data": "2020-04-29",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790146"
+  },
+  "idaluno": 351,
+  "iddisciplina": 207,
+  "data": "2021-05-15",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790147"
+  },
+  "idaluno": 102,
+  "iddisciplina": 109,
+  "data": "2020-07-02",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790148"
+  },
+  "idaluno": 175,
+  "iddisciplina": 445,
+  "data": "2020-04-24",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790149"
+  },
+  "idaluno": 83,
+  "iddisciplina": 141,
+  "data": "2020-06-07",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979014a"
+  },
+  "idaluno": 446,
+  "iddisciplina": 286,
+  "data": "2019-11-30",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979014b"
+  },
+  "idaluno": 89,
+  "iddisciplina": 420,
+  "data": "2019-11-17",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979014c"
+  },
+  "idaluno": 167,
+  "iddisciplina": 221,
+  "data": "2020-09-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979014d"
+  },
+  "idaluno": 56,
+  "iddisciplina": 425,
+  "data": "2021-03-04",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979014e"
+  },
+  "idaluno": 191,
+  "iddisciplina": 130,
+  "data": "2020-05-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979014f"
+  },
+  "idaluno": 416,
+  "iddisciplina": 413,
+  "data": "2020-09-02",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790150"
+  },
+  "idaluno": 196,
+  "iddisciplina": 374,
+  "data": "2021-06-22",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790151"
+  },
+  "idaluno": 97,
+  "iddisciplina": 423,
+  "data": "2021-09-28",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790152"
+  },
+  "idaluno": 261,
+  "iddisciplina": 260,
+  "data": "2019-12-16",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790153"
+  },
+  "idaluno": 247,
+  "iddisciplina": 83,
+  "data": "2020-09-07",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790154"
+  },
+  "idaluno": 112,
+  "iddisciplina": 407,
+  "data": "2019-07-30",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790155"
+  },
+  "idaluno": 395,
+  "iddisciplina": 44,
+  "data": "2021-07-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790156"
+  },
+  "idaluno": 327,
+  "iddisciplina": 125,
+  "data": "2021-09-30",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790157"
+  },
+  "idaluno": 395,
+  "iddisciplina": 311,
+  "data": "2020-05-11",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790158"
+  },
+  "idaluno": 367,
+  "iddisciplina": 353,
+  "data": "2021-04-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790159"
+  },
+  "idaluno": 442,
+  "iddisciplina": 338,
+  "data": "2019-12-26",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979015a"
+  },
+  "idaluno": 94,
+  "iddisciplina": 348,
+  "data": "2019-09-17",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979015b"
+  },
+  "idaluno": 308,
+  "iddisciplina": 312,
+  "data": "2020-07-25",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979015c"
+  },
+  "idaluno": 150,
+  "iddisciplina": 108,
+  "data": "2020-10-06",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979015d"
+  },
+  "idaluno": 232,
+  "iddisciplina": 124,
+  "data": "2021-02-16",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979015e"
+  },
+  "idaluno": 206,
+  "iddisciplina": 294,
+  "data": "2019-08-28",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979015f"
+  },
+  "idaluno": 64,
+  "iddisciplina": 452,
+  "data": "2021-02-12",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790160"
+  },
+  "idaluno": 72,
+  "iddisciplina": 334,
+  "data": "2020-03-03",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790161"
+  },
+  "idaluno": 88,
+  "iddisciplina": 64,
+  "data": "2019-12-01",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790162"
+  },
+  "idaluno": 257,
+  "iddisciplina": 101,
+  "data": "2020-11-17",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790163"
+  },
+  "idaluno": 102,
+  "iddisciplina": 189,
+  "data": "2021-02-06",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790164"
+  },
+  "idaluno": 372,
+  "iddisciplina": 385,
+  "data": "2021-02-10",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790165"
+  },
+  "idaluno": 201,
+  "iddisciplina": 275,
+  "data": "2019-07-24",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790166"
+  },
+  "idaluno": 296,
+  "iddisciplina": 258,
+  "data": "2019-09-16",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790167"
+  },
+  "idaluno": 370,
+  "iddisciplina": 194,
+  "data": "2020-11-03",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790168"
+  },
+  "idaluno": 201,
+  "iddisciplina": 60,
+  "data": "2020-08-19",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790169"
+  },
+  "idaluno": 139,
+  "iddisciplina": 346,
+  "data": "2020-03-15",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979016a"
+  },
+  "idaluno": 360,
+  "iddisciplina": 217,
+  "data": "2021-03-27",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979016b"
+  },
+  "idaluno": 339,
+  "iddisciplina": 452,
+  "data": "2020-07-10",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979016c"
+  },
+  "idaluno": 143,
+  "iddisciplina": 245,
+  "data": "2021-04-13",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979016d"
+  },
+  "idaluno": 173,
+  "iddisciplina": 348,
+  "data": "2020-08-03",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979016e"
+  },
+  "idaluno": 321,
+  "iddisciplina": 418,
+  "data": "2021-05-05",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979016f"
+  },
+  "idaluno": 325,
+  "iddisciplina": 157,
+  "data": "2021-08-17",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790170"
+  },
+  "idaluno": 10,
+  "iddisciplina": 136,
+  "data": "2020-06-05",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790171"
+  },
+  "idaluno": 199,
+  "iddisciplina": 495,
+  "data": "2020-03-21",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790172"
+  },
+  "idaluno": 58,
+  "iddisciplina": 281,
+  "data": "2019-09-02",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790173"
+  },
+  "idaluno": 125,
+  "iddisciplina": 10,
+  "data": "2021-01-19",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790174"
+  },
+  "idaluno": 207,
+  "iddisciplina": 486,
+  "data": "2019-09-14",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790175"
+  },
+  "idaluno": 22,
+  "iddisciplina": 441,
+  "data": "2021-05-20",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790176"
+  },
+  "idaluno": 286,
+  "iddisciplina": 349,
+  "data": "2019-07-10",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790177"
+  },
+  "idaluno": 134,
+  "iddisciplina": 135,
+  "data": "2019-12-01",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790178"
+  },
+  "idaluno": 184,
+  "iddisciplina": 206,
+  "data": "2019-09-13",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790179"
+  },
+  "idaluno": 302,
+  "iddisciplina": 238,
+  "data": "2019-08-12",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979017a"
+  },
+  "idaluno": 248,
+  "iddisciplina": 104,
+  "data": "2021-10-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979017b"
+  },
+  "idaluno": 309,
+  "iddisciplina": 336,
+  "data": "2020-06-01",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979017c"
+  },
+  "idaluno": 434,
+  "iddisciplina": 493,
+  "data": "2019-11-06",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979017d"
+  },
+  "idaluno": 188,
+  "iddisciplina": 156,
+  "data": "2019-07-10",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979017e"
+  },
+  "idaluno": 251,
+  "iddisciplina": 346,
+  "data": "2020-06-11",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979017f"
+  },
+  "idaluno": 75,
+  "iddisciplina": 331,
+  "data": "2019-08-16",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790180"
+  },
+  "idaluno": 106,
+  "iddisciplina": 145,
+  "data": "2020-10-19",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790181"
+  },
+  "idaluno": 400,
+  "iddisciplina": 337,
+  "data": "2021-06-24",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790182"
+  },
+  "idaluno": 312,
+  "iddisciplina": 470,
+  "data": "2019-06-28",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790183"
+  },
+  "idaluno": 104,
+  "iddisciplina": 102,
+  "data": "2020-12-05",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790184"
+  },
+  "idaluno": 289,
+  "iddisciplina": 172,
+  "data": "2020-12-17",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790185"
+  },
+  "idaluno": 219,
+  "iddisciplina": 54,
+  "data": "2020-08-24",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790186"
+  },
+  "idaluno": 130,
+  "iddisciplina": 218,
+  "data": "2020-01-15",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790187"
+  },
+  "idaluno": 336,
+  "iddisciplina": 76,
+  "data": "2021-06-03",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790188"
+  },
+  "idaluno": 89,
+  "iddisciplina": 447,
+  "data": "2019-12-26",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790189"
+  },
+  "idaluno": 447,
+  "iddisciplina": 380,
+  "data": "2021-08-17",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979018a"
+  },
+  "idaluno": 127,
+  "iddisciplina": 430,
+  "data": "2021-06-17",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979018b"
+  },
+  "idaluno": 228,
+  "iddisciplina": 147,
+  "data": "2021-03-06",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979018c"
+  },
+  "idaluno": 412,
+  "iddisciplina": 312,
+  "data": "2019-09-23",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979018d"
+  },
+  "idaluno": 373,
+  "iddisciplina": 369,
+  "data": "2020-07-10",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979018e"
+  },
+  "idaluno": 62,
+  "iddisciplina": 326,
+  "data": "2019-08-10",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979018f"
+  },
+  "idaluno": 222,
+  "iddisciplina": 334,
+  "data": "2020-03-27",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790190"
+  },
+  "idaluno": 96,
+  "iddisciplina": 388,
+  "data": "2021-07-25",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790191"
+  },
+  "idaluno": 391,
+  "iddisciplina": 41,
+  "data": "2019-08-05",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790192"
+  },
+  "idaluno": 377,
+  "iddisciplina": 316,
+  "data": "2021-05-16",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790193"
+  },
+  "idaluno": 386,
+  "iddisciplina": 327,
+  "data": "2019-12-20",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790194"
+  },
+  "idaluno": 348,
+  "iddisciplina": 385,
+  "data": "2019-07-14",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790195"
+  },
+  "idaluno": 324,
+  "iddisciplina": 395,
+  "data": "2020-08-01",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790196"
+  },
+  "idaluno": 204,
+  "iddisciplina": 492,
+  "data": "2021-03-26",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790197"
+  },
+  "idaluno": 56,
+  "iddisciplina": 30,
+  "data": "2019-09-25",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790198"
+  },
+  "idaluno": 263,
+  "iddisciplina": 304,
+  "data": "2020-09-30",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790199"
+  },
+  "idaluno": 79,
+  "iddisciplina": 225,
+  "data": "2020-03-01",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979019a"
+  },
+  "idaluno": 433,
+  "iddisciplina": 239,
+  "data": "2020-09-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979019b"
+  },
+  "idaluno": 375,
+  "iddisciplina": 259,
+  "data": "2020-11-29",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979019c"
+  },
+  "idaluno": 360,
+  "iddisciplina": 444,
+  "data": "2020-01-16",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979019d"
+  },
+  "idaluno": 271,
+  "iddisciplina": 124,
+  "data": "2021-08-21",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979019e"
+  },
+  "idaluno": 249,
+  "iddisciplina": 34,
+  "data": "2020-12-10",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979019f"
+  },
+  "idaluno": 160,
+  "iddisciplina": 25,
+  "data": "2019-08-28",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a0"
+  },
+  "idaluno": 255,
+  "iddisciplina": 164,
+  "data": "2021-01-08",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a1"
+  },
+  "idaluno": 377,
+  "iddisciplina": 109,
+  "data": "2021-05-04",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a2"
+  },
+  "idaluno": 357,
+  "iddisciplina": 472,
+  "data": "2021-02-04",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a3"
+  },
+  "idaluno": 298,
+  "iddisciplina": 92,
+  "data": "2020-10-23",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a4"
+  },
+  "idaluno": 70,
+  "iddisciplina": 170,
+  "data": "2021-05-19",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a5"
+  },
+  "idaluno": 169,
+  "iddisciplina": 460,
+  "data": "2020-02-21",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a6"
+  },
+  "idaluno": 418,
+  "iddisciplina": 76,
+  "data": "2020-01-08",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a7"
+  },
+  "idaluno": 9,
+  "iddisciplina": 6,
+  "data": "2020-03-06",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a8"
+  },
+  "idaluno": 11,
+  "iddisciplina": 229,
+  "data": "2020-03-31",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901a9"
+  },
+  "idaluno": 153,
+  "iddisciplina": 379,
+  "data": "2019-10-25",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901aa"
+  },
+  "idaluno": 407,
+  "iddisciplina": 268,
+  "data": "2020-06-02",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ab"
+  },
+  "idaluno": 393,
+  "iddisciplina": 192,
+  "data": "2020-04-19",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ac"
+  },
+  "idaluno": 96,
+  "iddisciplina": 39,
+  "data": "2021-06-24",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ad"
+  },
+  "idaluno": 198,
+  "iddisciplina": 241,
+  "data": "2019-11-26",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ae"
+  },
+  "idaluno": 230,
+  "iddisciplina": 356,
+  "data": "2019-11-11",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901af"
+  },
+  "idaluno": 59,
+  "iddisciplina": 477,
+  "data": "2019-09-15",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b0"
+  },
+  "idaluno": 221,
+  "iddisciplina": 98,
+  "data": "2021-03-10",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b1"
+  },
+  "idaluno": 184,
+  "iddisciplina": 449,
+  "data": "2019-07-04",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b2"
+  },
+  "idaluno": 361,
+  "iddisciplina": 379,
+  "data": "2021-08-19",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b3"
+  },
+  "idaluno": 192,
+  "iddisciplina": 5,
+  "data": "2019-08-27",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b4"
+  },
+  "idaluno": 389,
+  "iddisciplina": 295,
+  "data": "2021-06-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b5"
+  },
+  "idaluno": 317,
+  "iddisciplina": 391,
+  "data": "2020-07-03",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b6"
+  },
+  "idaluno": 374,
+  "iddisciplina": 148,
+  "data": "2019-12-07",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b7"
+  },
+  "idaluno": 445,
+  "iddisciplina": 70,
+  "data": "2021-04-27",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b8"
+  },
+  "idaluno": 24,
+  "iddisciplina": 110,
+  "data": "2021-06-27",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901b9"
+  },
+  "idaluno": 279,
+  "iddisciplina": 34,
+  "data": "2021-04-22",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ba"
+  },
+  "idaluno": 316,
+  "iddisciplina": 446,
+  "data": "2020-07-13",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901bb"
+  },
+  "idaluno": 271,
+  "iddisciplina": 87,
+  "data": "2019-10-06",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901bc"
+  },
+  "idaluno": 176,
+  "iddisciplina": 82,
+  "data": "2021-02-22",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901bd"
+  },
+  "idaluno": 276,
+  "iddisciplina": 294,
+  "data": "2021-07-28",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901be"
+  },
+  "idaluno": 179,
+  "iddisciplina": 385,
+  "data": "2020-12-22",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901bf"
+  },
+  "idaluno": 237,
+  "iddisciplina": 17,
+  "data": "2019-10-17",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c0"
+  },
+  "idaluno": 445,
+  "iddisciplina": 117,
+  "data": "2021-04-19",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c1"
+  },
+  "idaluno": 117,
+  "iddisciplina": 370,
+  "data": "2020-04-24",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c2"
+  },
+  "idaluno": 392,
+  "iddisciplina": 458,
+  "data": "2020-06-12",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c3"
+  },
+  "idaluno": 185,
+  "iddisciplina": 217,
+  "data": "2020-01-30",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c4"
+  },
+  "idaluno": 225,
+  "iddisciplina": 49,
+  "data": "2020-03-04",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c5"
+  },
+  "idaluno": 66,
+  "iddisciplina": 354,
+  "data": "2021-05-08",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c6"
+  },
+  "idaluno": 428,
+  "iddisciplina": 237,
+  "data": "2021-10-04",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c7"
+  },
+  "idaluno": 134,
+  "iddisciplina": 255,
+  "data": "2020-01-16",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c8"
+  },
+  "idaluno": 368,
+  "iddisciplina": 203,
+  "data": "2021-06-13",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901c9"
+  },
+  "idaluno": 25,
+  "iddisciplina": 205,
+  "data": "2019-09-27",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ca"
+  },
+  "idaluno": 160,
+  "iddisciplina": 315,
+  "data": "2019-08-29",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901cb"
+  },
+  "idaluno": 283,
+  "iddisciplina": 110,
+  "data": "2021-07-17",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901cc"
+  },
+  "idaluno": 349,
+  "iddisciplina": 431,
+  "data": "2021-06-03",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901cd"
+  },
+  "idaluno": 85,
+  "iddisciplina": 465,
+  "data": "2020-12-16",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ce"
+  },
+  "idaluno": 199,
+  "iddisciplina": 287,
+  "data": "2020-06-05",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901cf"
+  },
+  "idaluno": 393,
+  "iddisciplina": 134,
+  "data": "2019-11-07",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d0"
+  },
+  "idaluno": 403,
+  "iddisciplina": 78,
+  "data": "2021-05-29",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d1"
+  },
+  "idaluno": 107,
+  "iddisciplina": 124,
+  "data": "2020-08-02",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d2"
+  },
+  "idaluno": 5,
+  "iddisciplina": 68,
+  "data": "2019-09-10",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d3"
+  },
+  "idaluno": 252,
+  "iddisciplina": 290,
+  "data": "2020-09-02",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d4"
+  },
+  "idaluno": 87,
+  "iddisciplina": 145,
+  "data": "2020-07-22",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d5"
+  },
+  "idaluno": 212,
+  "iddisciplina": 264,
+  "data": "2019-06-24",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d6"
+  },
+  "idaluno": 68,
+  "iddisciplina": 57,
+  "data": "2021-07-10",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d7"
+  },
+  "idaluno": 201,
+  "iddisciplina": 370,
+  "data": "2021-05-16",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d8"
+  },
+  "idaluno": 174,
+  "iddisciplina": 3,
+  "data": "2021-08-29",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901d9"
+  },
+  "idaluno": 214,
+  "iddisciplina": 393,
+  "data": "2019-09-02",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901da"
+  },
+  "idaluno": 408,
+  "iddisciplina": 322,
+  "data": "2020-08-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901db"
+  },
+  "idaluno": 431,
+  "iddisciplina": 236,
+  "data": "2020-08-09",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901dc"
+  },
+  "idaluno": 27,
+  "iddisciplina": 354,
+  "data": "2021-02-19",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901dd"
+  },
+  "idaluno": 338,
+  "iddisciplina": 113,
+  "data": "2021-05-14",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901de"
+  },
+  "idaluno": 200,
+  "iddisciplina": 435,
+  "data": "2020-12-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901df"
+  },
+  "idaluno": 309,
+  "iddisciplina": 112,
+  "data": "2019-08-11",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e0"
+  },
+  "idaluno": 124,
+  "iddisciplina": 479,
+  "data": "2021-04-02",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e1"
+  },
+  "idaluno": 379,
+  "iddisciplina": 398,
+  "data": "2020-09-09",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e2"
+  },
+  "idaluno": 59,
+  "iddisciplina": 67,
+  "data": "2021-03-17",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e3"
+  },
+  "idaluno": 153,
+  "iddisciplina": 465,
+  "data": "2021-08-20",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e4"
+  },
+  "idaluno": 417,
+  "iddisciplina": 234,
+  "data": "2020-12-18",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e5"
+  },
+  "idaluno": 53,
+  "iddisciplina": 71,
+  "data": "2020-10-28",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e6"
+  },
+  "idaluno": 19,
+  "iddisciplina": 42,
+  "data": "2021-05-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e7"
+  },
+  "idaluno": 423,
+  "iddisciplina": 273,
+  "data": "2021-07-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e8"
+  },
+  "idaluno": 166,
+  "iddisciplina": 207,
+  "data": "2020-12-05",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901e9"
+  },
+  "idaluno": 59,
+  "iddisciplina": 251,
+  "data": "2020-07-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ea"
+  },
+  "idaluno": 115,
+  "iddisciplina": 223,
+  "data": "2020-03-22",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901eb"
+  },
+  "idaluno": 351,
+  "iddisciplina": 376,
+  "data": "2020-01-25",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ec"
+  },
+  "idaluno": 429,
+  "iddisciplina": 437,
+  "data": "2021-05-18",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ed"
+  },
+  "idaluno": 121,
+  "iddisciplina": 229,
+  "data": "2020-10-16",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ee"
+  },
+  "idaluno": 195,
+  "iddisciplina": 177,
+  "data": "2021-05-31",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ef"
+  },
+  "idaluno": 164,
+  "iddisciplina": 66,
+  "data": "2021-01-26",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f0"
+  },
+  "idaluno": 145,
+  "iddisciplina": 441,
+  "data": "2020-11-13",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f1"
+  },
+  "idaluno": 330,
+  "iddisciplina": 176,
+  "data": "2019-07-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f2"
+  },
+  "idaluno": 132,
+  "iddisciplina": 127,
+  "data": "2019-06-13",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f3"
+  },
+  "idaluno": 216,
+  "iddisciplina": 159,
+  "data": "2019-10-11",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f4"
+  },
+  "idaluno": 194,
+  "iddisciplina": 23,
+  "data": "2019-07-03",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f5"
+  },
+  "idaluno": 289,
+  "iddisciplina": 94,
+  "data": "2020-01-23",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f6"
+  },
+  "idaluno": 343,
+  "iddisciplina": 381,
+  "data": "2020-12-12",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f7"
+  },
+  "idaluno": 73,
+  "iddisciplina": 451,
+  "data": "2020-05-15",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f8"
+  },
+  "idaluno": 324,
+  "iddisciplina": 294,
+  "data": "2020-06-04",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901f9"
+  },
+  "idaluno": 346,
+  "iddisciplina": 182,
+  "data": "2020-12-21",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901fa"
+  },
+  "idaluno": 174,
+  "iddisciplina": 88,
+  "data": "2021-01-26",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901fb"
+  },
+  "idaluno": 281,
+  "iddisciplina": 2,
+  "data": "2021-02-09",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901fc"
+  },
+  "idaluno": 446,
+  "iddisciplina": 414,
+  "data": "2020-03-25",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901fd"
+  },
+  "idaluno": 305,
+  "iddisciplina": 498,
+  "data": "2019-10-18",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901fe"
+  },
+  "idaluno": 223,
+  "iddisciplina": 39,
+  "data": "2019-12-01",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97901ff"
+  },
+  "idaluno": 268,
+  "iddisciplina": 361,
+  "data": "2019-10-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790200"
+  },
+  "idaluno": 385,
+  "iddisciplina": 41,
+  "data": "2020-10-23",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790201"
+  },
+  "idaluno": 204,
+  "iddisciplina": 183,
+  "data": "2021-06-07",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790202"
+  },
+  "idaluno": 201,
+  "iddisciplina": 492,
+  "data": "2020-07-25",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790203"
+  },
+  "idaluno": 287,
+  "iddisciplina": 27,
+  "data": "2019-12-31",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790204"
+  },
+  "idaluno": 55,
+  "iddisciplina": 359,
+  "data": "2020-07-08",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790205"
+  },
+  "idaluno": 161,
+  "iddisciplina": 360,
+  "data": "2021-02-11",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790206"
+  },
+  "idaluno": 405,
+  "iddisciplina": 59,
+  "data": "2021-07-04",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790207"
+  },
+  "idaluno": 319,
+  "iddisciplina": 80,
+  "data": "2020-06-05",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790208"
+  },
+  "idaluno": 66,
+  "iddisciplina": 238,
+  "data": "2020-08-14",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790209"
+  },
+  "idaluno": 450,
+  "iddisciplina": 440,
+  "data": "2019-12-15",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979020a"
+  },
+  "idaluno": 415,
+  "iddisciplina": 416,
+  "data": "2021-03-17",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979020b"
+  },
+  "idaluno": 112,
+  "iddisciplina": 155,
+  "data": "2021-02-17",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979020c"
+  },
+  "idaluno": 64,
+  "iddisciplina": 74,
+  "data": "2019-09-27",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979020d"
+  },
+  "idaluno": 281,
+  "iddisciplina": 364,
+  "data": "2019-11-04",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979020e"
+  },
+  "idaluno": 175,
+  "iddisciplina": 228,
+  "data": "2020-11-28",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979020f"
+  },
+  "idaluno": 49,
+  "iddisciplina": 118,
+  "data": "2020-06-06",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790210"
+  },
+  "idaluno": 29,
+  "iddisciplina": 26,
+  "data": "2020-08-06",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790211"
+  },
+  "idaluno": 288,
+  "iddisciplina": 393,
+  "data": "2021-06-12",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790212"
+  },
+  "idaluno": 208,
+  "iddisciplina": 77,
+  "data": "2020-07-11",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790213"
+  },
+  "idaluno": 332,
+  "iddisciplina": 171,
+  "data": "2020-12-12",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790214"
+  },
+  "idaluno": 33,
+  "iddisciplina": 354,
+  "data": "2020-04-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790215"
+  },
+  "idaluno": 412,
+  "iddisciplina": 120,
+  "data": "2019-11-12",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790216"
+  },
+  "idaluno": 422,
+  "iddisciplina": 275,
+  "data": "2020-03-03",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790217"
+  },
+  "idaluno": 128,
+  "iddisciplina": 476,
+  "data": "2019-06-18",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790218"
+  },
+  "idaluno": 261,
+  "iddisciplina": 170,
+  "data": "2019-09-05",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790219"
+  },
+  "idaluno": 420,
+  "iddisciplina": 353,
+  "data": "2021-01-11",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979021a"
+  },
+  "idaluno": 374,
+  "iddisciplina": 360,
+  "data": "2021-08-20",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979021b"
+  },
+  "idaluno": 207,
+  "iddisciplina": 42,
+  "data": "2021-07-18",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979021c"
+  },
+  "idaluno": 183,
+  "iddisciplina": 467,
+  "data": "2020-08-08",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979021d"
+  },
+  "idaluno": 446,
+  "iddisciplina": 101,
+  "data": "2021-08-24",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979021e"
+  },
+  "idaluno": 193,
+  "iddisciplina": 336,
+  "data": "2021-02-15",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979021f"
+  },
+  "idaluno": 26,
+  "iddisciplina": 259,
+  "data": "2021-01-07",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790220"
+  },
+  "idaluno": 113,
+  "iddisciplina": 252,
+  "data": "2020-08-28",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790221"
+  },
+  "idaluno": 132,
+  "iddisciplina": 477,
+  "data": "2020-05-28",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790222"
+  },
+  "idaluno": 58,
+  "iddisciplina": 10,
+  "data": "2019-12-08",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790223"
+  },
+  "idaluno": 413,
+  "iddisciplina": 99,
+  "data": "2020-09-30",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790224"
+  },
+  "idaluno": 90,
+  "iddisciplina": 339,
+  "data": "2019-08-29",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790225"
+  },
+  "idaluno": 104,
+  "iddisciplina": 203,
+  "data": "2020-12-03",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790226"
+  },
+  "idaluno": 169,
+  "iddisciplina": 332,
+  "data": "2020-01-07",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790227"
+  },
+  "idaluno": 191,
+  "iddisciplina": 66,
+  "data": "2019-09-27",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790228"
+  },
+  "idaluno": 342,
+  "iddisciplina": 478,
+  "data": "2021-06-10",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790229"
+  },
+  "idaluno": 318,
+  "iddisciplina": 207,
+  "data": "2020-06-28",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979022a"
+  },
+  "idaluno": 392,
+  "iddisciplina": 368,
+  "data": "2021-02-23",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979022b"
+  },
+  "idaluno": 102,
+  "iddisciplina": 210,
+  "data": "2021-04-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979022c"
+  },
+  "idaluno": 116,
+  "iddisciplina": 465,
+  "data": "2020-12-05",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979022d"
+  },
+  "idaluno": 347,
+  "iddisciplina": 174,
+  "data": "2020-04-12",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979022e"
+  },
+  "idaluno": 242,
+  "iddisciplina": 155,
+  "data": "2021-08-02",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979022f"
+  },
+  "idaluno": 433,
+  "iddisciplina": 494,
+  "data": "2020-12-26",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790230"
+  },
+  "idaluno": 400,
+  "iddisciplina": 241,
+  "data": "2020-09-23",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790231"
+  },
+  "idaluno": 394,
+  "iddisciplina": 9,
+  "data": "2021-07-17",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790232"
+  },
+  "idaluno": 140,
+  "iddisciplina": 46,
+  "data": "2019-08-19",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790233"
+  },
+  "idaluno": 393,
+  "iddisciplina": 122,
+  "data": "2021-06-11",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790234"
+  },
+  "idaluno": 76,
+  "iddisciplina": 111,
+  "data": "2021-04-07",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790235"
+  },
+  "idaluno": 330,
+  "iddisciplina": 486,
+  "data": "2020-10-06",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790236"
+  },
+  "idaluno": 254,
+  "iddisciplina": 290,
+  "data": "2019-08-04",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790237"
+  },
+  "idaluno": 432,
+  "iddisciplina": 190,
+  "data": "2020-09-18",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790238"
+  },
+  "idaluno": 85,
+  "iddisciplina": 61,
+  "data": "2020-06-01",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790239"
+  },
+  "idaluno": 303,
+  "iddisciplina": 85,
+  "data": "2021-01-18",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979023a"
+  },
+  "idaluno": 24,
+  "iddisciplina": 189,
+  "data": "2020-06-13",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979023b"
+  },
+  "idaluno": 94,
+  "iddisciplina": 327,
+  "data": "2020-02-26",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979023c"
+  },
+  "idaluno": 109,
+  "iddisciplina": 46,
+  "data": "2020-05-13",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979023d"
+  },
+  "idaluno": 435,
+  "iddisciplina": 432,
+  "data": "2020-12-15",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979023e"
+  },
+  "idaluno": 137,
+  "iddisciplina": 104,
+  "data": "2019-07-13",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979023f"
+  },
+  "idaluno": 13,
+  "iddisciplina": 345,
+  "data": "2021-06-07",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790240"
+  },
+  "idaluno": 145,
+  "iddisciplina": 101,
+  "data": "2019-06-17",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790241"
+  },
+  "idaluno": 165,
+  "iddisciplina": 3,
+  "data": "2020-09-04",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790242"
+  },
+  "idaluno": 143,
+  "iddisciplina": 186,
+  "data": "2021-06-20",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790243"
+  },
+  "idaluno": 92,
+  "iddisciplina": 125,
+  "data": "2020-11-26",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790244"
+  },
+  "idaluno": 262,
+  "iddisciplina": 292,
+  "data": "2020-07-13",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790245"
+  },
+  "idaluno": 411,
+  "iddisciplina": 470,
+  "data": "2020-11-14",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790246"
+  },
+  "idaluno": 404,
+  "iddisciplina": 111,
+  "data": "2019-06-24",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790247"
+  },
+  "idaluno": 352,
+  "iddisciplina": 283,
+  "data": "2020-12-15",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790248"
+  },
+  "idaluno": 173,
+  "iddisciplina": 160,
+  "data": "2021-02-02",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790249"
+  },
+  "idaluno": 48,
+  "iddisciplina": 377,
+  "data": "2020-10-16",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979024a"
+  },
+  "idaluno": 18,
+  "iddisciplina": 305,
+  "data": "2019-11-20",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979024b"
+  },
+  "idaluno": 46,
+  "iddisciplina": 3,
+  "data": "2020-03-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979024c"
+  },
+  "idaluno": 221,
+  "iddisciplina": 111,
+  "data": "2019-09-01",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979024d"
+  },
+  "idaluno": 236,
+  "iddisciplina": 219,
+  "data": "2020-08-17",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979024e"
+  },
+  "idaluno": 367,
+  "iddisciplina": 178,
+  "data": "2021-05-21",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979024f"
+  },
+  "idaluno": 167,
+  "iddisciplina": 436,
+  "data": "2019-06-22",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790250"
+  },
+  "idaluno": 264,
+  "iddisciplina": 386,
+  "data": "2019-12-15",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790251"
+  },
+  "idaluno": 79,
+  "iddisciplina": 461,
+  "data": "2019-06-06",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790252"
+  },
+  "idaluno": 227,
+  "iddisciplina": 263,
+  "data": "2020-04-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790253"
+  },
+  "idaluno": 411,
+  "iddisciplina": 85,
+  "data": "2019-12-12",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790254"
+  },
+  "idaluno": 46,
+  "iddisciplina": 483,
+  "data": "2021-07-14",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790255"
+  },
+  "idaluno": 178,
+  "iddisciplina": 461,
+  "data": "2020-09-23",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790256"
+  },
+  "idaluno": 326,
+  "iddisciplina": 75,
+  "data": "2021-04-15",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790257"
+  },
+  "idaluno": 250,
+  "iddisciplina": 475,
+  "data": "2020-01-23",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790258"
+  },
+  "idaluno": 247,
+  "iddisciplina": 359,
+  "data": "2020-06-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790259"
+  },
+  "idaluno": 255,
+  "iddisciplina": 164,
+  "data": "2020-12-28",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979025a"
+  },
+  "idaluno": 346,
+  "iddisciplina": 373,
+  "data": "2020-12-18",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979025b"
+  },
+  "idaluno": 121,
+  "iddisciplina": 381,
+  "data": "2019-07-04",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979025c"
+  },
+  "idaluno": 241,
+  "iddisciplina": 198,
+  "data": "2021-06-30",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979025d"
+  },
+  "idaluno": 259,
+  "iddisciplina": 219,
+  "data": "2020-04-16",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979025e"
+  },
+  "idaluno": 225,
+  "iddisciplina": 471,
+  "data": "2019-12-09",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979025f"
+  },
+  "idaluno": 269,
+  "iddisciplina": 36,
+  "data": "2019-11-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790260"
+  },
+  "idaluno": 76,
+  "iddisciplina": 207,
+  "data": "2019-07-11",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790261"
+  },
+  "idaluno": 298,
+  "iddisciplina": 97,
+  "data": "2020-12-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790262"
+  },
+  "idaluno": 214,
+  "iddisciplina": 444,
+  "data": "2020-03-03",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790263"
+  },
+  "idaluno": 380,
+  "iddisciplina": 254,
+  "data": "2021-09-03",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790264"
+  },
+  "idaluno": 70,
+  "iddisciplina": 286,
+  "data": "2020-03-18",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790265"
+  },
+  "idaluno": 204,
+  "iddisciplina": 41,
+  "data": "2021-06-13",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790266"
+  },
+  "idaluno": 327,
+  "iddisciplina": 35,
+  "data": "2021-03-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790267"
+  },
+  "idaluno": 37,
+  "iddisciplina": 473,
+  "data": "2021-08-14",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790268"
+  },
+  "idaluno": 270,
+  "iddisciplina": 86,
+  "data": "2021-09-27",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790269"
+  },
+  "idaluno": 371,
+  "iddisciplina": 345,
+  "data": "2020-10-03",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979026a"
+  },
+  "idaluno": 213,
+  "iddisciplina": 191,
+  "data": "2020-08-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979026b"
+  },
+  "idaluno": 50,
+  "iddisciplina": 418,
+  "data": "2019-07-30",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979026c"
+  },
+  "idaluno": 215,
+  "iddisciplina": 291,
+  "data": "2021-04-23",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979026d"
+  },
+  "idaluno": 113,
+  "iddisciplina": 285,
+  "data": "2021-04-29",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979026e"
+  },
+  "idaluno": 334,
+  "iddisciplina": 432,
+  "data": "2019-06-24",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979026f"
+  },
+  "idaluno": 438,
+  "iddisciplina": 189,
+  "data": "2020-08-12",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790270"
+  },
+  "idaluno": 318,
+  "iddisciplina": 400,
+  "data": "2020-07-11",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790271"
+  },
+  "idaluno": 116,
+  "iddisciplina": 234,
+  "data": "2020-06-06",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790272"
+  },
+  "idaluno": 278,
+  "iddisciplina": 433,
+  "data": "2021-03-04",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790273"
+  },
+  "idaluno": 340,
+  "iddisciplina": 94,
+  "data": "2021-08-23",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790274"
+  },
+  "idaluno": 443,
+  "iddisciplina": 409,
+  "data": "2021-05-09",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790275"
+  },
+  "idaluno": 156,
+  "iddisciplina": 59,
+  "data": "2020-11-10",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790276"
+  },
+  "idaluno": 264,
+  "iddisciplina": 108,
+  "data": "2020-11-27",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790277"
+  },
+  "idaluno": 262,
+  "iddisciplina": 223,
+  "data": "2020-04-27",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790278"
+  },
+  "idaluno": 443,
+  "iddisciplina": 50,
+  "data": "2020-10-30",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790279"
+  },
+  "idaluno": 60,
+  "iddisciplina": 217,
+  "data": "2020-04-17",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979027a"
+  },
+  "idaluno": 362,
+  "iddisciplina": 6,
+  "data": "2021-05-02",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979027b"
+  },
+  "idaluno": 195,
+  "iddisciplina": 21,
+  "data": "2020-01-11",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979027c"
+  },
+  "idaluno": 29,
+  "iddisciplina": 176,
+  "data": "2021-05-12",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979027d"
+  },
+  "idaluno": 442,
+  "iddisciplina": 88,
+  "data": "2021-01-01",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979027e"
+  },
+  "idaluno": 238,
+  "iddisciplina": 3,
+  "data": "2020-09-16",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979027f"
+  },
+  "idaluno": 349,
+  "iddisciplina": 363,
+  "data": "2020-02-01",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790280"
+  },
+  "idaluno": 42,
+  "iddisciplina": 141,
+  "data": "2021-02-21",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790281"
+  },
+  "idaluno": 156,
+  "iddisciplina": 366,
+  "data": "2020-02-02",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790282"
+  },
+  "idaluno": 12,
+  "iddisciplina": 294,
+  "data": "2019-08-21",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790283"
+  },
+  "idaluno": 84,
+  "iddisciplina": 469,
+  "data": "2020-02-02",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790284"
+  },
+  "idaluno": 200,
+  "iddisciplina": 383,
+  "data": "2019-11-14",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790285"
+  },
+  "idaluno": 156,
+  "iddisciplina": 141,
+  "data": "2019-09-14",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790286"
+  },
+  "idaluno": 140,
+  "iddisciplina": 471,
+  "data": "2021-05-17",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790287"
+  },
+  "idaluno": 74,
+  "iddisciplina": 288,
+  "data": "2020-10-10",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790288"
+  },
+  "idaluno": 73,
+  "iddisciplina": 1,
+  "data": "2021-08-17",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790289"
+  },
+  "idaluno": 40,
+  "iddisciplina": 26,
+  "data": "2020-11-05",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979028a"
+  },
+  "idaluno": 231,
+  "iddisciplina": 474,
+  "data": "2019-11-24",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979028b"
+  },
+  "idaluno": 140,
+  "iddisciplina": 231,
+  "data": "2019-10-27",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979028c"
+  },
+  "idaluno": 202,
+  "iddisciplina": 101,
+  "data": "2021-08-12",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979028d"
+  },
+  "idaluno": 381,
+  "iddisciplina": 264,
+  "data": "2020-03-30",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979028e"
+  },
+  "idaluno": 102,
+  "iddisciplina": 177,
+  "data": "2019-12-26",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979028f"
+  },
+  "idaluno": 250,
+  "iddisciplina": 128,
+  "data": "2020-03-10",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790290"
+  },
+  "idaluno": 229,
+  "iddisciplina": 118,
+  "data": "2021-09-07",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790291"
+  },
+  "idaluno": 109,
+  "iddisciplina": 53,
+  "data": "2021-02-03",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790292"
+  },
+  "idaluno": 37,
+  "iddisciplina": 217,
+  "data": "2020-06-02",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790293"
+  },
+  "idaluno": 263,
+  "iddisciplina": 369,
+  "data": "2020-05-29",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790294"
+  },
+  "idaluno": 27,
+  "iddisciplina": 443,
+  "data": "2020-04-06",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790295"
+  },
+  "idaluno": 397,
+  "iddisciplina": 477,
+  "data": "2021-01-23",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790296"
+  },
+  "idaluno": 348,
+  "iddisciplina": 19,
+  "data": "2020-03-28",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790297"
+  },
+  "idaluno": 30,
+  "iddisciplina": 18,
+  "data": "2019-07-05",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790298"
+  },
+  "idaluno": 362,
+  "iddisciplina": 401,
+  "data": "2021-06-08",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790299"
+  },
+  "idaluno": 96,
+  "iddisciplina": 453,
+  "data": "2020-04-27",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979029a"
+  },
+  "idaluno": 353,
+  "iddisciplina": 81,
+  "data": "2021-08-25",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979029b"
+  },
+  "idaluno": 21,
+  "iddisciplina": 82,
+  "data": "2020-02-28",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979029c"
+  },
+  "idaluno": 358,
+  "iddisciplina": 109,
+  "data": "2020-08-08",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979029d"
+  },
+  "idaluno": 117,
+  "iddisciplina": 181,
+  "data": "2020-03-31",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979029e"
+  },
+  "idaluno": 252,
+  "iddisciplina": 283,
+  "data": "2020-11-18",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979029f"
+  },
+  "idaluno": 356,
+  "iddisciplina": 83,
+  "data": "2019-09-14",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a0"
+  },
+  "idaluno": 392,
+  "iddisciplina": 171,
+  "data": "2020-09-19",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a1"
+  },
+  "idaluno": 77,
+  "iddisciplina": 29,
+  "data": "2020-02-13",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a2"
+  },
+  "idaluno": 229,
+  "iddisciplina": 408,
+  "data": "2019-08-09",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a3"
+  },
+  "idaluno": 406,
+  "iddisciplina": 42,
+  "data": "2020-06-06",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a4"
+  },
+  "idaluno": 398,
+  "iddisciplina": 477,
+  "data": "2020-05-21",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a5"
+  },
+  "idaluno": 93,
+  "iddisciplina": 169,
+  "data": "2021-03-04",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a6"
+  },
+  "idaluno": 359,
+  "iddisciplina": 48,
+  "data": "2021-07-31",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a7"
+  },
+  "idaluno": 347,
+  "iddisciplina": 353,
+  "data": "2019-06-28",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a8"
+  },
+  "idaluno": 310,
+  "iddisciplina": 425,
+  "data": "2021-02-13",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902a9"
+  },
+  "idaluno": 180,
+  "iddisciplina": 285,
+  "data": "2020-03-21",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902aa"
+  },
+  "idaluno": 408,
+  "iddisciplina": 79,
+  "data": "2020-11-09",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ab"
+  },
+  "idaluno": 278,
+  "iddisciplina": 305,
+  "data": "2020-09-24",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ac"
+  },
+  "idaluno": 241,
+  "iddisciplina": 309,
+  "data": "2020-08-19",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ad"
+  },
+  "idaluno": 83,
+  "iddisciplina": 392,
+  "data": "2020-08-10",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ae"
+  },
+  "idaluno": 1,
+  "iddisciplina": 434,
+  "data": "2021-08-31",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902af"
+  },
+  "idaluno": 70,
+  "iddisciplina": 292,
+  "data": "2020-12-25",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b0"
+  },
+  "idaluno": 242,
+  "iddisciplina": 274,
+  "data": "2021-07-20",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b1"
+  },
+  "idaluno": 92,
+  "iddisciplina": 197,
+  "data": "2021-08-31",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b2"
+  },
+  "idaluno": 209,
+  "iddisciplina": 50,
+  "data": "2021-07-14",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b3"
+  },
+  "idaluno": 175,
+  "iddisciplina": 303,
+  "data": "2020-04-20",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b4"
+  },
+  "idaluno": 241,
+  "iddisciplina": 42,
+  "data": "2019-08-17",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b5"
+  },
+  "idaluno": 103,
+  "iddisciplina": 379,
+  "data": "2020-12-28",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b6"
+  },
+  "idaluno": 6,
+  "iddisciplina": 229,
+  "data": "2019-12-28",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b7"
+  },
+  "idaluno": 430,
+  "iddisciplina": 274,
+  "data": "2021-04-03",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b8"
+  },
+  "idaluno": 119,
+  "iddisciplina": 350,
+  "data": "2021-09-03",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902b9"
+  },
+  "idaluno": 9,
+  "iddisciplina": 373,
+  "data": "2020-04-11",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ba"
+  },
+  "idaluno": 444,
+  "iddisciplina": 46,
+  "data": "2021-05-29",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902bb"
+  },
+  "idaluno": 131,
+  "iddisciplina": 79,
+  "data": "2019-09-30",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902bc"
+  },
+  "idaluno": 137,
+  "iddisciplina": 415,
+  "data": "2021-07-22",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902bd"
+  },
+  "idaluno": 72,
+  "iddisciplina": 444,
+  "data": "2020-01-09",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902be"
+  },
+  "idaluno": 285,
+  "iddisciplina": 44,
+  "data": "2019-12-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902bf"
+  },
+  "idaluno": 101,
+  "iddisciplina": 51,
+  "data": "2020-06-28",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c0"
+  },
+  "idaluno": 154,
+  "iddisciplina": 385,
+  "data": "2020-12-17",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c1"
+  },
+  "idaluno": 145,
+  "iddisciplina": 180,
+  "data": "2020-10-18",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c2"
+  },
+  "idaluno": 110,
+  "iddisciplina": 75,
+  "data": "2020-06-18",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c3"
+  },
+  "idaluno": 247,
+  "iddisciplina": 217,
+  "data": "2021-08-19",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c4"
+  },
+  "idaluno": 236,
+  "iddisciplina": 308,
+  "data": "2019-07-27",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c5"
+  },
+  "idaluno": 251,
+  "iddisciplina": 321,
+  "data": "2021-08-01",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c6"
+  },
+  "idaluno": 19,
+  "iddisciplina": 151,
+  "data": "2020-01-02",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c7"
+  },
+  "idaluno": 401,
+  "iddisciplina": 129,
+  "data": "2020-09-14",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c8"
+  },
+  "idaluno": 32,
+  "iddisciplina": 106,
+  "data": "2019-08-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902c9"
+  },
+  "idaluno": 437,
+  "iddisciplina": 170,
+  "data": "2019-09-03",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ca"
+  },
+  "idaluno": 245,
+  "iddisciplina": 72,
+  "data": "2019-11-16",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902cb"
+  },
+  "idaluno": 345,
+  "iddisciplina": 117,
+  "data": "2021-08-16",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902cc"
+  },
+  "idaluno": 77,
+  "iddisciplina": 151,
+  "data": "2020-08-17",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902cd"
+  },
+  "idaluno": 376,
+  "iddisciplina": 57,
+  "data": "2020-12-17",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ce"
+  },
+  "idaluno": 189,
+  "iddisciplina": 449,
+  "data": "2020-12-08",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902cf"
+  },
+  "idaluno": 237,
+  "iddisciplina": 75,
+  "data": "2020-11-15",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d0"
+  },
+  "idaluno": 417,
+  "iddisciplina": 238,
+  "data": "2020-05-27",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d1"
+  },
+  "idaluno": 240,
+  "iddisciplina": 360,
+  "data": "2020-04-22",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d2"
+  },
+  "idaluno": 11,
+  "iddisciplina": 474,
+  "data": "2020-01-01",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d3"
+  },
+  "idaluno": 347,
+  "iddisciplina": 436,
+  "data": "2019-12-19",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d4"
+  },
+  "idaluno": 421,
+  "iddisciplina": 454,
+  "data": "2021-03-15",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d5"
+  },
+  "idaluno": 368,
+  "iddisciplina": 77,
+  "data": "2020-07-18",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d6"
+  },
+  "idaluno": 261,
+  "iddisciplina": 167,
+  "data": "2021-08-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d7"
+  },
+  "idaluno": 208,
+  "iddisciplina": 353,
+  "data": "2020-10-26",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d8"
+  },
+  "idaluno": 310,
+  "iddisciplina": 203,
+  "data": "2020-08-15",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902d9"
+  },
+  "idaluno": 246,
+  "iddisciplina": 7,
+  "data": "2019-12-16",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902da"
+  },
+  "idaluno": 233,
+  "iddisciplina": 346,
+  "data": "2019-08-05",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902db"
+  },
+  "idaluno": 137,
+  "iddisciplina": 391,
+  "data": "2019-09-03",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902dc"
+  },
+  "idaluno": 136,
+  "iddisciplina": 178,
+  "data": "2021-06-10",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902dd"
+  },
+  "idaluno": 310,
+  "iddisciplina": 6,
+  "data": "2021-04-08",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902de"
+  },
+  "idaluno": 336,
+  "iddisciplina": 138,
+  "data": "2019-09-07",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902df"
+  },
+  "idaluno": 85,
+  "iddisciplina": 63,
+  "data": "2019-11-24",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e0"
+  },
+  "idaluno": 368,
+  "iddisciplina": 202,
+  "data": "2020-06-22",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e1"
+  },
+  "idaluno": 230,
+  "iddisciplina": 368,
+  "data": "2019-06-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e2"
+  },
+  "idaluno": 106,
+  "iddisciplina": 121,
+  "data": "2021-04-10",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e3"
+  },
+  "idaluno": 108,
+  "iddisciplina": 155,
+  "data": "2021-10-02",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e4"
+  },
+  "idaluno": 358,
+  "iddisciplina": 336,
+  "data": "2020-05-31",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e5"
+  },
+  "idaluno": 421,
+  "iddisciplina": 192,
+  "data": "2020-07-07",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e6"
+  },
+  "idaluno": 306,
+  "iddisciplina": 96,
+  "data": "2020-12-15",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e7"
+  },
+  "idaluno": 370,
+  "iddisciplina": 250,
+  "data": "2020-07-26",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e8"
+  },
+  "idaluno": 424,
+  "iddisciplina": 153,
+  "data": "2019-06-21",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902e9"
+  },
+  "idaluno": 210,
+  "iddisciplina": 277,
+  "data": "2019-12-09",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ea"
+  },
+  "idaluno": 395,
+  "iddisciplina": 293,
+  "data": "2020-10-03",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902eb"
+  },
+  "idaluno": 298,
+  "iddisciplina": 201,
+  "data": "2020-11-22",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ec"
+  },
+  "idaluno": 387,
+  "iddisciplina": 136,
+  "data": "2020-08-26",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ed"
+  },
+  "idaluno": 444,
+  "iddisciplina": 386,
+  "data": "2020-08-30",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ee"
+  },
+  "idaluno": 386,
+  "iddisciplina": 92,
+  "data": "2020-04-17",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ef"
+  },
+  "idaluno": 391,
+  "iddisciplina": 124,
+  "data": "2020-08-29",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f0"
+  },
+  "idaluno": 291,
+  "iddisciplina": 283,
+  "data": "2021-08-30",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f1"
+  },
+  "idaluno": 136,
+  "iddisciplina": 230,
+  "data": "2020-06-01",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f2"
+  },
+  "idaluno": 319,
+  "iddisciplina": 86,
+  "data": "2019-12-18",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f3"
+  },
+  "idaluno": 290,
+  "iddisciplina": 151,
+  "data": "2020-05-16",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f4"
+  },
+  "idaluno": 367,
+  "iddisciplina": 298,
+  "data": "2021-04-26",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f5"
+  },
+  "idaluno": 21,
+  "iddisciplina": 359,
+  "data": "2021-08-07",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f6"
+  },
+  "idaluno": 388,
+  "iddisciplina": 178,
+  "data": "2020-09-25",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f7"
+  },
+  "idaluno": 288,
+  "iddisciplina": 252,
+  "data": "2021-04-01",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f8"
+  },
+  "idaluno": 28,
+  "iddisciplina": 404,
+  "data": "2020-01-06",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902f9"
+  },
+  "idaluno": 347,
+  "iddisciplina": 301,
+  "data": "2020-03-16",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902fa"
+  },
+  "idaluno": 323,
+  "iddisciplina": 168,
+  "data": "2020-07-21",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902fb"
+  },
+  "idaluno": 93,
+  "iddisciplina": 364,
+  "data": "2020-10-19",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902fc"
+  },
+  "idaluno": 397,
+  "iddisciplina": 47,
+  "data": "2020-08-17",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902fd"
+  },
+  "idaluno": 155,
+  "iddisciplina": 265,
+  "data": "2019-08-04",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902fe"
+  },
+  "idaluno": 209,
+  "iddisciplina": 59,
+  "data": "2019-06-04",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97902ff"
+  },
+  "idaluno": 277,
+  "iddisciplina": 399,
+  "data": "2020-09-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790300"
+  },
+  "idaluno": 424,
+  "iddisciplina": 276,
+  "data": "2019-06-14",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790301"
+  },
+  "idaluno": 164,
+  "iddisciplina": 422,
+  "data": "2021-02-22",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790302"
+  },
+  "idaluno": 376,
+  "iddisciplina": 339,
+  "data": "2019-07-07",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790303"
+  },
+  "idaluno": 119,
+  "iddisciplina": 240,
+  "data": "2021-05-03",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790304"
+  },
+  "idaluno": 442,
+  "iddisciplina": 141,
+  "data": "2020-03-25",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790305"
+  },
+  "idaluno": 124,
+  "iddisciplina": 191,
+  "data": "2020-10-04",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790306"
+  },
+  "idaluno": 15,
+  "iddisciplina": 443,
+  "data": "2021-01-09",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790307"
+  },
+  "idaluno": 242,
+  "iddisciplina": 191,
+  "data": "2020-05-05",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790308"
+  },
+  "idaluno": 380,
+  "iddisciplina": 326,
+  "data": "2021-08-05",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790309"
+  },
+  "idaluno": 52,
+  "iddisciplina": 446,
+  "data": "2019-08-28",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979030a"
+  },
+  "idaluno": 147,
+  "iddisciplina": 83,
+  "data": "2021-01-24",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979030b"
+  },
+  "idaluno": 358,
+  "iddisciplina": 351,
+  "data": "2021-04-27",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979030c"
+  },
+  "idaluno": 89,
+  "iddisciplina": 365,
+  "data": "2020-12-11",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979030d"
+  },
+  "idaluno": 315,
+  "iddisciplina": 297,
+  "data": "2021-04-27",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979030e"
+  },
+  "idaluno": 284,
+  "iddisciplina": 489,
+  "data": "2020-07-15",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979030f"
+  },
+  "idaluno": 7,
+  "iddisciplina": 80,
+  "data": "2021-05-07",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790310"
+  },
+  "idaluno": 294,
+  "iddisciplina": 39,
+  "data": "2020-09-22",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790311"
+  },
+  "idaluno": 33,
+  "iddisciplina": 352,
+  "data": "2021-08-03",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790312"
+  },
+  "idaluno": 277,
+  "iddisciplina": 82,
+  "data": "2020-03-16",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790313"
+  },
+  "idaluno": 432,
+  "iddisciplina": 383,
+  "data": "2020-04-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790314"
+  },
+  "idaluno": 209,
+  "iddisciplina": 434,
+  "data": "2021-04-02",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790315"
+  },
+  "idaluno": 362,
+  "iddisciplina": 350,
+  "data": "2020-02-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790316"
+  },
+  "idaluno": 378,
+  "iddisciplina": 264,
+  "data": "2020-01-28",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790317"
+  },
+  "idaluno": 170,
+  "iddisciplina": 270,
+  "data": "2020-03-15",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790318"
+  },
+  "idaluno": 27,
+  "iddisciplina": 250,
+  "data": "2020-02-14",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790319"
+  },
+  "idaluno": 339,
+  "iddisciplina": 392,
+  "data": "2021-03-23",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979031a"
+  },
+  "idaluno": 201,
+  "iddisciplina": 239,
+  "data": "2020-05-31",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979031b"
+  },
+  "idaluno": 330,
+  "iddisciplina": 169,
+  "data": "2021-07-30",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979031c"
+  },
+  "idaluno": 256,
+  "iddisciplina": 124,
+  "data": "2020-01-17",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979031d"
+  },
+  "idaluno": 264,
+  "iddisciplina": 143,
+  "data": "2020-06-03",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979031e"
+  },
+  "idaluno": 5,
+  "iddisciplina": 32,
+  "data": "2020-12-14",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979031f"
+  },
+  "idaluno": 271,
+  "iddisciplina": 389,
+  "data": "2021-06-26",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790320"
+  },
+  "idaluno": 366,
+  "iddisciplina": 180,
+  "data": "2019-10-24",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790321"
+  },
+  "idaluno": 210,
+  "iddisciplina": 193,
+  "data": "2020-10-04",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790322"
+  },
+  "idaluno": 113,
+  "iddisciplina": 59,
+  "data": "2020-07-26",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790323"
+  },
+  "idaluno": 369,
+  "iddisciplina": 155,
+  "data": "2020-11-19",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790324"
+  },
+  "idaluno": 51,
+  "iddisciplina": 128,
+  "data": "2019-12-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790325"
+  },
+  "idaluno": 3,
+  "iddisciplina": 304,
+  "data": "2019-09-11",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790326"
+  },
+  "idaluno": 166,
+  "iddisciplina": 221,
+  "data": "2021-05-16",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790327"
+  },
+  "idaluno": 287,
+  "iddisciplina": 310,
+  "data": "2021-09-14",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790328"
+  },
+  "idaluno": 413,
+  "iddisciplina": 417,
+  "data": "2020-07-01",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790329"
+  },
+  "idaluno": 63,
+  "iddisciplina": 475,
+  "data": "2020-08-21",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979032a"
+  },
+  "idaluno": 100,
+  "iddisciplina": 184,
+  "data": "2019-09-27",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979032b"
+  },
+  "idaluno": 83,
+  "iddisciplina": 142,
+  "data": "2021-01-11",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979032c"
+  },
+  "idaluno": 232,
+  "iddisciplina": 342,
+  "data": "2020-12-03",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979032d"
+  },
+  "idaluno": 223,
+  "iddisciplina": 434,
+  "data": "2021-06-14",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979032e"
+  },
+  "idaluno": 333,
+  "iddisciplina": 28,
+  "data": "2021-08-30",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979032f"
+  },
+  "idaluno": 76,
+  "iddisciplina": 224,
+  "data": "2021-08-23",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790330"
+  },
+  "idaluno": 267,
+  "iddisciplina": 73,
+  "data": "2021-04-18",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790331"
+  },
+  "idaluno": 35,
+  "iddisciplina": 322,
+  "data": "2020-06-04",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790332"
+  },
+  "idaluno": 149,
+  "iddisciplina": 478,
+  "data": "2019-07-21",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790333"
+  },
+  "idaluno": 251,
+  "iddisciplina": 387,
+  "data": "2020-01-05",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790334"
+  },
+  "idaluno": 352,
+  "iddisciplina": 133,
+  "data": "2021-05-07",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790335"
+  },
+  "idaluno": 127,
+  "iddisciplina": 123,
+  "data": "2019-06-13",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790336"
+  },
+  "idaluno": 442,
+  "iddisciplina": 146,
+  "data": "2020-10-08",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790337"
+  },
+  "idaluno": 226,
+  "iddisciplina": 380,
+  "data": "2020-10-05",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790338"
+  },
+  "idaluno": 199,
+  "iddisciplina": 83,
+  "data": "2020-02-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790339"
+  },
+  "idaluno": 331,
+  "iddisciplina": 384,
+  "data": "2021-04-22",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979033a"
+  },
+  "idaluno": 99,
+  "iddisciplina": 16,
+  "data": "2021-08-16",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979033b"
+  },
+  "idaluno": 40,
+  "iddisciplina": 428,
+  "data": "2020-10-23",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979033c"
+  },
+  "idaluno": 195,
+  "iddisciplina": 238,
+  "data": "2020-10-22",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979033d"
+  },
+  "idaluno": 326,
+  "iddisciplina": 65,
+  "data": "2020-11-07",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979033e"
+  },
+  "idaluno": 278,
+  "iddisciplina": 4,
+  "data": "2020-03-11",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979033f"
+  },
+  "idaluno": 94,
+  "iddisciplina": 236,
+  "data": "2021-07-21",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790340"
+  },
+  "idaluno": 80,
+  "iddisciplina": 434,
+  "data": "2020-03-13",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790341"
+  },
+  "idaluno": 288,
+  "iddisciplina": 101,
+  "data": "2021-09-07",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790342"
+  },
+  "idaluno": 269,
+  "iddisciplina": 436,
+  "data": "2020-01-25",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790343"
+  },
+  "idaluno": 255,
+  "iddisciplina": 367,
+  "data": "2020-09-29",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790344"
+  },
+  "idaluno": 260,
+  "iddisciplina": 50,
+  "data": "2021-01-26",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790345"
+  },
+  "idaluno": 144,
+  "iddisciplina": 347,
+  "data": "2020-07-27",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790346"
+  },
+  "idaluno": 283,
+  "iddisciplina": 197,
+  "data": "2021-02-26",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790347"
+  },
+  "idaluno": 307,
+  "iddisciplina": 155,
+  "data": "2020-01-09",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790348"
+  },
+  "idaluno": 342,
+  "iddisciplina": 313,
+  "data": "2020-12-23",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790349"
+  },
+  "idaluno": 128,
+  "iddisciplina": 53,
+  "data": "2021-06-08",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979034a"
+  },
+  "idaluno": 328,
+  "iddisciplina": 482,
+  "data": "2019-06-13",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979034b"
+  },
+  "idaluno": 94,
+  "iddisciplina": 189,
+  "data": "2021-08-24",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979034c"
+  },
+  "idaluno": 376,
+  "iddisciplina": 334,
+  "data": "2021-06-19",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979034d"
+  },
+  "idaluno": 401,
+  "iddisciplina": 68,
+  "data": "2019-10-30",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979034e"
+  },
+  "idaluno": 320,
+  "iddisciplina": 110,
+  "data": "2020-08-04",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979034f"
+  },
+  "idaluno": 43,
+  "iddisciplina": 100,
+  "data": "2020-03-07",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790350"
+  },
+  "idaluno": 149,
+  "iddisciplina": 24,
+  "data": "2020-04-01",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790351"
+  },
+  "idaluno": 398,
+  "iddisciplina": 496,
+  "data": "2020-12-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790352"
+  },
+  "idaluno": 229,
+  "iddisciplina": 64,
+  "data": "2021-02-09",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790353"
+  },
+  "idaluno": 410,
+  "iddisciplina": 60,
+  "data": "2021-01-13",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790354"
+  },
+  "idaluno": 107,
+  "iddisciplina": 193,
+  "data": "2020-08-08",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790355"
+  },
+  "idaluno": 390,
+  "iddisciplina": 270,
+  "data": "2019-11-21",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790356"
+  },
+  "idaluno": 57,
+  "iddisciplina": 56,
+  "data": "2019-11-03",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790357"
+  },
+  "idaluno": 354,
+  "iddisciplina": 11,
+  "data": "2021-06-05",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790358"
+  },
+  "idaluno": 182,
+  "iddisciplina": 213,
+  "data": "2020-12-25",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790359"
+  },
+  "idaluno": 416,
+  "iddisciplina": 125,
+  "data": "2020-05-12",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979035a"
+  },
+  "idaluno": 21,
+  "iddisciplina": 64,
+  "data": "2020-11-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979035b"
+  },
+  "idaluno": 231,
+  "iddisciplina": 287,
+  "data": "2019-08-24",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979035c"
+  },
+  "idaluno": 322,
+  "iddisciplina": 13,
+  "data": "2019-10-08",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979035d"
+  },
+  "idaluno": 216,
+  "iddisciplina": 290,
+  "data": "2020-04-26",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979035e"
+  },
+  "idaluno": 56,
+  "iddisciplina": 488,
+  "data": "2020-06-19",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979035f"
+  },
+  "idaluno": 388,
+  "iddisciplina": 33,
+  "data": "2021-09-06",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790360"
+  },
+  "idaluno": 266,
+  "iddisciplina": 76,
+  "data": "2020-10-16",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790361"
+  },
+  "idaluno": 347,
+  "iddisciplina": 109,
+  "data": "2019-06-02",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790362"
+  },
+  "idaluno": 77,
+  "iddisciplina": 236,
+  "data": "2021-03-08",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790363"
+  },
+  "idaluno": 360,
+  "iddisciplina": 320,
+  "data": "2019-06-22",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790364"
+  },
+  "idaluno": 99,
+  "iddisciplina": 443,
+  "data": "2020-08-19",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790365"
+  },
+  "idaluno": 340,
+  "iddisciplina": 206,
+  "data": "2020-06-13",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790366"
+  },
+  "idaluno": 49,
+  "iddisciplina": 484,
+  "data": "2020-08-21",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790367"
+  },
+  "idaluno": 214,
+  "iddisciplina": 352,
+  "data": "2020-09-02",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790368"
+  },
+  "idaluno": 121,
+  "iddisciplina": 417,
+  "data": "2020-12-10",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790369"
+  },
+  "idaluno": 369,
+  "iddisciplina": 388,
+  "data": "2019-08-20",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979036a"
+  },
+  "idaluno": 419,
+  "iddisciplina": 407,
+  "data": "2021-04-01",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979036b"
+  },
+  "idaluno": 331,
+  "iddisciplina": 328,
+  "data": "2020-09-11",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979036c"
+  },
+  "idaluno": 194,
+  "iddisciplina": 364,
+  "data": "2021-05-31",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979036d"
+  },
+  "idaluno": 346,
+  "iddisciplina": 90,
+  "data": "2020-01-30",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979036e"
+  },
+  "idaluno": 221,
+  "iddisciplina": 240,
+  "data": "2020-06-13",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979036f"
+  },
+  "idaluno": 430,
+  "iddisciplina": 479,
+  "data": "2019-09-11",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790370"
+  },
+  "idaluno": 218,
+  "iddisciplina": 211,
+  "data": "2021-06-12",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790371"
+  },
+  "idaluno": 10,
+  "iddisciplina": 241,
+  "data": "2019-10-08",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790372"
+  },
+  "idaluno": 222,
+  "iddisciplina": 195,
+  "data": "2020-03-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790373"
+  },
+  "idaluno": 43,
+  "iddisciplina": 315,
+  "data": "2020-10-05",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790374"
+  },
+  "idaluno": 307,
+  "iddisciplina": 109,
+  "data": "2021-09-28",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790375"
+  },
+  "idaluno": 283,
+  "iddisciplina": 377,
+  "data": "2020-09-10",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790376"
+  },
+  "idaluno": 40,
+  "iddisciplina": 53,
+  "data": "2021-03-11",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790377"
+  },
+  "idaluno": 299,
+  "iddisciplina": 254,
+  "data": "2020-09-01",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790378"
+  },
+  "idaluno": 60,
+  "iddisciplina": 6,
+  "data": "2020-05-29",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790379"
+  },
+  "idaluno": 86,
+  "iddisciplina": 321,
+  "data": "2020-09-30",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979037a"
+  },
+  "idaluno": 424,
+  "iddisciplina": 188,
+  "data": "2020-12-02",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979037b"
+  },
+  "idaluno": 14,
+  "iddisciplina": 455,
+  "data": "2020-09-25",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979037c"
+  },
+  "idaluno": 170,
+  "iddisciplina": 282,
+  "data": "2020-09-18",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979037d"
+  },
+  "idaluno": 188,
+  "iddisciplina": 224,
+  "data": "2019-09-24",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979037e"
+  },
+  "idaluno": 418,
+  "iddisciplina": 447,
+  "data": "2021-08-09",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979037f"
+  },
+  "idaluno": 230,
+  "iddisciplina": 99,
+  "data": "2020-03-21",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790380"
+  },
+  "idaluno": 173,
+  "iddisciplina": 77,
+  "data": "2019-12-06",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790381"
+  },
+  "idaluno": 114,
+  "iddisciplina": 26,
+  "data": "2019-11-19",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790382"
+  },
+  "idaluno": 316,
+  "iddisciplina": 87,
+  "data": "2020-12-27",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790383"
+  },
+  "idaluno": 352,
+  "iddisciplina": 437,
+  "data": "2020-10-27",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790384"
+  },
+  "idaluno": 215,
+  "iddisciplina": 33,
+  "data": "2020-12-18",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790385"
+  },
+  "idaluno": 222,
+  "iddisciplina": 326,
+  "data": "2020-05-18",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790386"
+  },
+  "idaluno": 203,
+  "iddisciplina": 420,
+  "data": "2021-07-23",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790387"
+  },
+  "idaluno": 441,
+  "iddisciplina": 426,
+  "data": "2021-09-10",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790388"
+  },
+  "idaluno": 127,
+  "iddisciplina": 318,
+  "data": "2020-01-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790389"
+  },
+  "idaluno": 384,
+  "iddisciplina": 396,
+  "data": "2020-12-25",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979038a"
+  },
+  "idaluno": 329,
+  "iddisciplina": 354,
+  "data": "2019-11-30",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979038b"
+  },
+  "idaluno": 377,
+  "iddisciplina": 69,
+  "data": "2021-05-30",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979038c"
+  },
+  "idaluno": 202,
+  "iddisciplina": 60,
+  "data": "2020-08-20",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979038d"
+  },
+  "idaluno": 123,
+  "iddisciplina": 392,
+  "data": "2020-12-26",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979038e"
+  },
+  "idaluno": 401,
+  "iddisciplina": 78,
+  "data": "2019-12-19",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979038f"
+  },
+  "idaluno": 137,
+  "iddisciplina": 411,
+  "data": "2020-01-09",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790390"
+  },
+  "idaluno": 396,
+  "iddisciplina": 441,
+  "data": "2021-02-12",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790391"
+  },
+  "idaluno": 313,
+  "iddisciplina": 426,
+  "data": "2020-08-01",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790392"
+  },
+  "idaluno": 71,
+  "iddisciplina": 412,
+  "data": "2020-03-06",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790393"
+  },
+  "idaluno": 389,
+  "iddisciplina": 346,
+  "data": "2019-08-29",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790394"
+  },
+  "idaluno": 17,
+  "iddisciplina": 163,
+  "data": "2019-12-03",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790395"
+  },
+  "idaluno": 258,
+  "iddisciplina": 90,
+  "data": "2020-02-06",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790396"
+  },
+  "idaluno": 222,
+  "iddisciplina": 394,
+  "data": "2019-10-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790397"
+  },
+  "idaluno": 53,
+  "iddisciplina": 294,
+  "data": "2019-06-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790398"
+  },
+  "idaluno": 113,
+  "iddisciplina": 246,
+  "data": "2021-07-22",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790399"
+  },
+  "idaluno": 263,
+  "iddisciplina": 263,
+  "data": "2020-05-30",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979039a"
+  },
+  "idaluno": 364,
+  "iddisciplina": 124,
+  "data": "2020-04-16",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979039b"
+  },
+  "idaluno": 241,
+  "iddisciplina": 112,
+  "data": "2020-07-11",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979039c"
+  },
+  "idaluno": 353,
+  "iddisciplina": 291,
+  "data": "2020-01-19",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979039d"
+  },
+  "idaluno": 16,
+  "iddisciplina": 487,
+  "data": "2019-08-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979039e"
+  },
+  "idaluno": 109,
+  "iddisciplina": 440,
+  "data": "2020-12-27",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979039f"
+  },
+  "idaluno": 185,
+  "iddisciplina": 280,
+  "data": "2019-06-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a0"
+  },
+  "idaluno": 133,
+  "iddisciplina": 165,
+  "data": "2019-08-12",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a1"
+  },
+  "idaluno": 89,
+  "iddisciplina": 238,
+  "data": "2020-08-26",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a2"
+  },
+  "idaluno": 370,
+  "iddisciplina": 41,
+  "data": "2020-11-15",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a3"
+  },
+  "idaluno": 17,
+  "iddisciplina": 189,
+  "data": "2021-04-30",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a4"
+  },
+  "idaluno": 333,
+  "iddisciplina": 235,
+  "data": "2021-09-21",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a5"
+  },
+  "idaluno": 82,
+  "iddisciplina": 339,
+  "data": "2019-06-19",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a6"
+  },
+  "idaluno": 433,
+  "iddisciplina": 359,
+  "data": "2020-04-11",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a7"
+  },
+  "idaluno": 58,
+  "iddisciplina": 440,
+  "data": "2020-08-04",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a8"
+  },
+  "idaluno": 288,
+  "iddisciplina": 196,
+  "data": "2020-07-23",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903a9"
+  },
+  "idaluno": 380,
+  "iddisciplina": 408,
+  "data": "2020-07-27",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903aa"
+  },
+  "idaluno": 159,
+  "iddisciplina": 443,
+  "data": "2021-08-13",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ab"
+  },
+  "idaluno": 143,
+  "iddisciplina": 108,
+  "data": "2021-02-16",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ac"
+  },
+  "idaluno": 101,
+  "iddisciplina": 140,
+  "data": "2021-05-31",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ad"
+  },
+  "idaluno": 17,
+  "iddisciplina": 7,
+  "data": "2021-09-30",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ae"
+  },
+  "idaluno": 413,
+  "iddisciplina": 170,
+  "data": "2019-11-22",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903af"
+  },
+  "idaluno": 449,
+  "iddisciplina": 231,
+  "data": "2021-06-24",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b0"
+  },
+  "idaluno": 379,
+  "iddisciplina": 356,
+  "data": "2019-08-06",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b1"
+  },
+  "idaluno": 408,
+  "iddisciplina": 173,
+  "data": "2019-12-27",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b2"
+  },
+  "idaluno": 51,
+  "iddisciplina": 258,
+  "data": "2019-06-18",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b3"
+  },
+  "idaluno": 342,
+  "iddisciplina": 487,
+  "data": "2021-05-14",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b4"
+  },
+  "idaluno": 127,
+  "iddisciplina": 95,
+  "data": "2020-04-20",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b5"
+  },
+  "idaluno": 195,
+  "iddisciplina": 405,
+  "data": "2019-12-13",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b6"
+  },
+  "idaluno": 184,
+  "iddisciplina": 330,
+  "data": "2019-06-22",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b7"
+  },
+  "idaluno": 359,
+  "iddisciplina": 392,
+  "data": "2019-11-23",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b8"
+  },
+  "idaluno": 268,
+  "iddisciplina": 99,
+  "data": "2019-09-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903b9"
+  },
+  "idaluno": 304,
+  "iddisciplina": 336,
+  "data": "2020-05-21",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ba"
+  },
+  "idaluno": 159,
+  "iddisciplina": 381,
+  "data": "2020-09-28",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903bb"
+  },
+  "idaluno": 168,
+  "iddisciplina": 483,
+  "data": "2019-06-15",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903bc"
+  },
+  "idaluno": 40,
+  "iddisciplina": 33,
+  "data": "2021-03-19",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903bd"
+  },
+  "idaluno": 121,
+  "iddisciplina": 242,
+  "data": "2021-01-17",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903be"
+  },
+  "idaluno": 64,
+  "iddisciplina": 259,
+  "data": "2021-05-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903bf"
+  },
+  "idaluno": 430,
+  "iddisciplina": 392,
+  "data": "2020-10-05",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c0"
+  },
+  "idaluno": 20,
+  "iddisciplina": 65,
+  "data": "2020-05-09",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c1"
+  },
+  "idaluno": 442,
+  "iddisciplina": 22,
+  "data": "2019-08-06",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c2"
+  },
+  "idaluno": 266,
+  "iddisciplina": 222,
+  "data": "2020-12-28",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c3"
+  },
+  "idaluno": 78,
+  "iddisciplina": 226,
+  "data": "2020-09-09",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c4"
+  },
+  "idaluno": 412,
+  "iddisciplina": 367,
+  "data": "2019-11-05",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c5"
+  },
+  "idaluno": 217,
+  "iddisciplina": 215,
+  "data": "2021-05-20",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c6"
+  },
+  "idaluno": 178,
+  "iddisciplina": 430,
+  "data": "2020-04-15",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c7"
+  },
+  "idaluno": 207,
+  "iddisciplina": 41,
+  "data": "2020-06-26",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c8"
+  },
+  "idaluno": 182,
+  "iddisciplina": 145,
+  "data": "2019-09-13",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903c9"
+  },
+  "idaluno": 141,
+  "iddisciplina": 11,
+  "data": "2020-09-29",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ca"
+  },
+  "idaluno": 284,
+  "iddisciplina": 273,
+  "data": "2020-01-10",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903cb"
+  },
+  "idaluno": 154,
+  "iddisciplina": 39,
+  "data": "2019-09-06",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903cc"
+  },
+  "idaluno": 296,
+  "iddisciplina": 399,
+  "data": "2021-03-24",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903cd"
+  },
+  "idaluno": 228,
+  "iddisciplina": 499,
+  "data": "2020-02-03",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ce"
+  },
+  "idaluno": 99,
+  "iddisciplina": 140,
+  "data": "2021-05-02",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903cf"
+  },
+  "idaluno": 1,
+  "iddisciplina": 90,
+  "data": "2020-04-23",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d0"
+  },
+  "idaluno": 399,
+  "iddisciplina": 272,
+  "data": "2019-07-20",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d1"
+  },
+  "idaluno": 3,
+  "iddisciplina": 389,
+  "data": "2021-09-15",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d2"
+  },
+  "idaluno": 383,
+  "iddisciplina": 21,
+  "data": "2019-07-02",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d3"
+  },
+  "idaluno": 33,
+  "iddisciplina": 471,
+  "data": "2019-10-28",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d4"
+  },
+  "idaluno": 164,
+  "iddisciplina": 220,
+  "data": "2021-02-15",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d5"
+  },
+  "idaluno": 153,
+  "iddisciplina": 420,
+  "data": "2020-06-06",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d6"
+  },
+  "idaluno": 304,
+  "iddisciplina": 162,
+  "data": "2021-03-29",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d7"
+  },
+  "idaluno": 77,
+  "iddisciplina": 288,
+  "data": "2021-01-27",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d8"
+  },
+  "idaluno": 399,
+  "iddisciplina": 76,
+  "data": "2021-06-17",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903d9"
+  },
+  "idaluno": 22,
+  "iddisciplina": 38,
+  "data": "2020-12-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903da"
+  },
+  "idaluno": 123,
+  "iddisciplina": 402,
+  "data": "2019-09-24",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903db"
+  },
+  "idaluno": 444,
+  "iddisciplina": 190,
+  "data": "2021-06-30",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903dc"
+  },
+  "idaluno": 434,
+  "iddisciplina": 212,
+  "data": "2020-04-07",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903dd"
+  },
+  "idaluno": 60,
+  "iddisciplina": 373,
+  "data": "2020-09-30",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903de"
+  },
+  "idaluno": 110,
+  "iddisciplina": 404,
+  "data": "2019-06-23",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903df"
+  },
+  "idaluno": 429,
+  "iddisciplina": 447,
+  "data": "2020-06-20",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e0"
+  },
+  "idaluno": 395,
+  "iddisciplina": 475,
+  "data": "2021-06-02",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e1"
+  },
+  "idaluno": 332,
+  "iddisciplina": 244,
+  "data": "2021-09-16",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e2"
+  },
+  "idaluno": 12,
+  "iddisciplina": 5,
+  "data": "2020-07-20",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e3"
+  },
+  "idaluno": 62,
+  "iddisciplina": 180,
+  "data": "2020-11-06",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e4"
+  },
+  "idaluno": 269,
+  "iddisciplina": 406,
+  "data": "2019-06-21",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e5"
+  },
+  "idaluno": 190,
+  "iddisciplina": 39,
+  "data": "2021-05-12",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e6"
+  },
+  "idaluno": 38,
+  "iddisciplina": 109,
+  "data": "2020-09-20",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e7"
+  },
+  "idaluno": 105,
+  "iddisciplina": 207,
+  "data": "2021-04-23",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e8"
+  },
+  "idaluno": 313,
+  "iddisciplina": 160,
+  "data": "2021-10-03",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903e9"
+  },
+  "idaluno": 207,
+  "iddisciplina": 277,
+  "data": "2021-01-26",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ea"
+  },
+  "idaluno": 354,
+  "iddisciplina": 138,
+  "data": "2020-01-07",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903eb"
+  },
+  "idaluno": 30,
+  "iddisciplina": 146,
+  "data": "2020-08-12",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ec"
+  },
+  "idaluno": 83,
+  "iddisciplina": 290,
+  "data": "2020-06-12",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ed"
+  },
+  "idaluno": 195,
+  "iddisciplina": 151,
+  "data": "2021-01-19",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ee"
+  },
+  "idaluno": 2,
+  "iddisciplina": 401,
+  "data": "2021-06-06",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ef"
+  },
+  "idaluno": 406,
+  "iddisciplina": 278,
+  "data": "2020-02-05",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f0"
+  },
+  "idaluno": 179,
+  "iddisciplina": 493,
+  "data": "2020-10-25",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f1"
+  },
+  "idaluno": 190,
+  "iddisciplina": 127,
+  "data": "2019-09-01",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f2"
+  },
+  "idaluno": 124,
+  "iddisciplina": 453,
+  "data": "2021-03-04",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f3"
+  },
+  "idaluno": 111,
+  "iddisciplina": 11,
+  "data": "2020-09-07",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f4"
+  },
+  "idaluno": 298,
+  "iddisciplina": 290,
+  "data": "2020-01-23",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f5"
+  },
+  "idaluno": 439,
+  "iddisciplina": 441,
+  "data": "2019-11-10",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f6"
+  },
+  "idaluno": 154,
+  "iddisciplina": 430,
+  "data": "2020-11-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f7"
+  },
+  "idaluno": 284,
+  "iddisciplina": 95,
+  "data": "2021-08-28",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f8"
+  },
+  "idaluno": 411,
+  "iddisciplina": 133,
+  "data": "2021-07-04",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903f9"
+  },
+  "idaluno": 246,
+  "iddisciplina": 312,
+  "data": "2019-08-22",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903fa"
+  },
+  "idaluno": 22,
+  "iddisciplina": 35,
+  "data": "2020-11-29",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903fb"
+  },
+  "idaluno": 132,
+  "iddisciplina": 419,
+  "data": "2019-11-13",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903fc"
+  },
+  "idaluno": 66,
+  "iddisciplina": 422,
+  "data": "2020-11-23",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903fd"
+  },
+  "idaluno": 120,
+  "iddisciplina": 80,
+  "data": "2021-06-16",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903fe"
+  },
+  "idaluno": 85,
+  "iddisciplina": 410,
+  "data": "2020-04-07",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97903ff"
+  },
+  "idaluno": 449,
+  "iddisciplina": 332,
+  "data": "2020-02-09",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790400"
+  },
+  "idaluno": 53,
+  "iddisciplina": 221,
+  "data": "2020-08-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790401"
+  },
+  "idaluno": 296,
+  "iddisciplina": 161,
+  "data": "2020-10-23",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790402"
+  },
+  "idaluno": 7,
+  "iddisciplina": 457,
+  "data": "2021-08-25",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790403"
+  },
+  "idaluno": 72,
+  "iddisciplina": 51,
+  "data": "2021-05-12",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790404"
+  },
+  "idaluno": 112,
+  "iddisciplina": 72,
+  "data": "2021-05-04",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790405"
+  },
+  "idaluno": 243,
+  "iddisciplina": 118,
+  "data": "2021-09-28",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790406"
+  },
+  "idaluno": 425,
+  "iddisciplina": 374,
+  "data": "2020-05-24",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790407"
+  },
+  "idaluno": 192,
+  "iddisciplina": 150,
+  "data": "2021-07-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790408"
+  },
+  "idaluno": 14,
+  "iddisciplina": 280,
+  "data": "2020-12-18",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790409"
+  },
+  "idaluno": 103,
+  "iddisciplina": 370,
+  "data": "2021-01-05",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979040a"
+  },
+  "idaluno": 440,
+  "iddisciplina": 469,
+  "data": "2020-01-02",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979040b"
+  },
+  "idaluno": 247,
+  "iddisciplina": 473,
+  "data": "2020-03-28",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979040c"
+  },
+  "idaluno": 98,
+  "iddisciplina": 298,
+  "data": "2020-04-08",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979040d"
+  },
+  "idaluno": 259,
+  "iddisciplina": 335,
+  "data": "2020-04-25",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979040e"
+  },
+  "idaluno": 227,
+  "iddisciplina": 53,
+  "data": "2019-10-06",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979040f"
+  },
+  "idaluno": 325,
+  "iddisciplina": 186,
+  "data": "2021-05-22",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790410"
+  },
+  "idaluno": 160,
+  "iddisciplina": 219,
+  "data": "2020-07-27",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790411"
+  },
+  "idaluno": 446,
+  "iddisciplina": 481,
+  "data": "2020-02-01",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790412"
+  },
+  "idaluno": 327,
+  "iddisciplina": 165,
+  "data": "2020-12-24",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790413"
+  },
+  "idaluno": 5,
+  "iddisciplina": 184,
+  "data": "2020-09-10",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790414"
+  },
+  "idaluno": 362,
+  "iddisciplina": 399,
+  "data": "2019-07-20",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790415"
+  },
+  "idaluno": 45,
+  "iddisciplina": 470,
+  "data": "2020-05-01",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790416"
+  },
+  "idaluno": 25,
+  "iddisciplina": 389,
+  "data": "2021-04-08",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790417"
+  },
+  "idaluno": 233,
+  "iddisciplina": 267,
+  "data": "2019-08-15",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790418"
+  },
+  "idaluno": 392,
+  "iddisciplina": 218,
+  "data": "2020-09-10",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790419"
+  },
+  "idaluno": 352,
+  "iddisciplina": 236,
+  "data": "2021-05-17",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979041a"
+  },
+  "idaluno": 203,
+  "iddisciplina": 50,
+  "data": "2020-07-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979041b"
+  },
+  "idaluno": 293,
+  "iddisciplina": 332,
+  "data": "2020-07-05",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979041c"
+  },
+  "idaluno": 133,
+  "iddisciplina": 366,
+  "data": "2019-11-17",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979041d"
+  },
+  "idaluno": 153,
+  "iddisciplina": 148,
+  "data": "2021-08-24",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979041e"
+  },
+  "idaluno": 367,
+  "iddisciplina": 203,
+  "data": "2020-12-30",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979041f"
+  },
+  "idaluno": 212,
+  "iddisciplina": 383,
+  "data": "2020-11-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790420"
+  },
+  "idaluno": 249,
+  "iddisciplina": 151,
+  "data": "2019-10-27",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790421"
+  },
+  "idaluno": 67,
+  "iddisciplina": 111,
+  "data": "2020-03-26",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790422"
+  },
+  "idaluno": 327,
+  "iddisciplina": 217,
+  "data": "2021-01-24",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790423"
+  },
+  "idaluno": 120,
+  "iddisciplina": 327,
+  "data": "2021-05-24",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790424"
+  },
+  "idaluno": 239,
+  "iddisciplina": 338,
+  "data": "2020-09-19",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790425"
+  },
+  "idaluno": 262,
+  "iddisciplina": 175,
+  "data": "2021-03-28",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790426"
+  },
+  "idaluno": 94,
+  "iddisciplina": 489,
+  "data": "2019-09-12",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790427"
+  },
+  "idaluno": 119,
+  "iddisciplina": 175,
+  "data": "2021-06-06",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790428"
+  },
+  "idaluno": 118,
+  "iddisciplina": 114,
+  "data": "2020-05-12",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790429"
+  },
+  "idaluno": 245,
+  "iddisciplina": 494,
+  "data": "2020-07-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979042a"
+  },
+  "idaluno": 225,
+  "iddisciplina": 309,
+  "data": "2020-04-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979042b"
+  },
+  "idaluno": 190,
+  "iddisciplina": 352,
+  "data": "2019-09-28",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979042c"
+  },
+  "idaluno": 374,
+  "iddisciplina": 222,
+  "data": "2021-01-11",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979042d"
+  },
+  "idaluno": 363,
+  "iddisciplina": 299,
+  "data": "2020-05-17",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979042e"
+  },
+  "idaluno": 46,
+  "iddisciplina": 77,
+  "data": "2021-04-14",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979042f"
+  },
+  "idaluno": 31,
+  "iddisciplina": 125,
+  "data": "2021-08-21",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790430"
+  },
+  "idaluno": 80,
+  "iddisciplina": 467,
+  "data": "2021-07-31",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790431"
+  },
+  "idaluno": 177,
+  "iddisciplina": 424,
+  "data": "2019-10-03",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790432"
+  },
+  "idaluno": 337,
+  "iddisciplina": 303,
+  "data": "2019-09-21",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790433"
+  },
+  "idaluno": 439,
+  "iddisciplina": 134,
+  "data": "2021-03-09",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790434"
+  },
+  "idaluno": 64,
+  "iddisciplina": 133,
+  "data": "2021-09-06",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790435"
+  },
+  "idaluno": 17,
+  "iddisciplina": 97,
+  "data": "2021-06-14",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790436"
+  },
+  "idaluno": 380,
+  "iddisciplina": 194,
+  "data": "2021-08-27",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790437"
+  },
+  "idaluno": 320,
+  "iddisciplina": 154,
+  "data": "2019-06-19",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790438"
+  },
+  "idaluno": 371,
+  "iddisciplina": 318,
+  "data": "2020-05-22",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790439"
+  },
+  "idaluno": 364,
+  "iddisciplina": 490,
+  "data": "2021-02-26",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979043a"
+  },
+  "idaluno": 284,
+  "iddisciplina": 442,
+  "data": "2020-02-08",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979043b"
+  },
+  "idaluno": 111,
+  "iddisciplina": 163,
+  "data": "2019-08-24",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979043c"
+  },
+  "idaluno": 301,
+  "iddisciplina": 451,
+  "data": "2020-07-19",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979043d"
+  },
+  "idaluno": 201,
+  "iddisciplina": 13,
+  "data": "2021-09-17",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979043e"
+  },
+  "idaluno": 47,
+  "iddisciplina": 39,
+  "data": "2021-06-15",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979043f"
+  },
+  "idaluno": 378,
+  "iddisciplina": 19,
+  "data": "2020-04-16",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790440"
+  },
+  "idaluno": 15,
+  "iddisciplina": 171,
+  "data": "2019-06-16",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790441"
+  },
+  "idaluno": 276,
+  "iddisciplina": 309,
+  "data": "2020-09-06",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790442"
+  },
+  "idaluno": 255,
+  "iddisciplina": 79,
+  "data": "2019-07-27",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790443"
+  },
+  "idaluno": 77,
+  "iddisciplina": 303,
+  "data": "2020-09-20",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790444"
+  },
+  "idaluno": 444,
+  "iddisciplina": 223,
+  "data": "2020-02-08",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790445"
+  },
+  "idaluno": 371,
+  "iddisciplina": 449,
+  "data": "2020-09-03",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790446"
+  },
+  "idaluno": 356,
+  "iddisciplina": 286,
+  "data": "2020-02-19",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790447"
+  },
+  "idaluno": 349,
+  "iddisciplina": 418,
+  "data": "2021-03-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790448"
+  },
+  "idaluno": 43,
+  "iddisciplina": 47,
+  "data": "2020-08-24",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790449"
+  },
+  "idaluno": 4,
+  "iddisciplina": 393,
+  "data": "2019-09-20",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979044a"
+  },
+  "idaluno": 97,
+  "iddisciplina": 198,
+  "data": "2020-03-12",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979044b"
+  },
+  "idaluno": 166,
+  "iddisciplina": 427,
+  "data": "2020-12-29",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979044c"
+  },
+  "idaluno": 65,
+  "iddisciplina": 385,
+  "data": "2019-12-19",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979044d"
+  },
+  "idaluno": 142,
+  "iddisciplina": 364,
+  "data": "2020-03-18",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979044e"
+  },
+  "idaluno": 252,
+  "iddisciplina": 364,
+  "data": "2019-09-14",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979044f"
+  },
+  "idaluno": 116,
+  "iddisciplina": 158,
+  "data": "2019-07-08",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790450"
+  },
+  "idaluno": 294,
+  "iddisciplina": 141,
+  "data": "2020-11-04",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790451"
+  },
+  "idaluno": 68,
+  "iddisciplina": 49,
+  "data": "2019-08-27",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790452"
+  },
+  "idaluno": 214,
+  "iddisciplina": 33,
+  "data": "2019-06-06",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790453"
+  },
+  "idaluno": 445,
+  "iddisciplina": 101,
+  "data": "2020-12-21",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790454"
+  },
+  "idaluno": 186,
+  "iddisciplina": 353,
+  "data": "2019-08-16",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790455"
+  },
+  "idaluno": 38,
+  "iddisciplina": 93,
+  "data": "2019-06-14",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790456"
+  },
+  "idaluno": 302,
+  "iddisciplina": 373,
+  "data": "2019-07-15",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790457"
+  },
+  "idaluno": 269,
+  "iddisciplina": 229,
+  "data": "2020-10-10",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790458"
+  },
+  "idaluno": 44,
+  "iddisciplina": 302,
+  "data": "2021-04-11",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790459"
+  },
+  "idaluno": 178,
+  "iddisciplina": 216,
+  "data": "2021-01-24",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979045a"
+  },
+  "idaluno": 7,
+  "iddisciplina": 312,
+  "data": "2020-07-19",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979045b"
+  },
+  "idaluno": 295,
+  "iddisciplina": 300,
+  "data": "2020-01-22",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979045c"
+  },
+  "idaluno": 9,
+  "iddisciplina": 136,
+  "data": "2019-08-11",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979045d"
+  },
+  "idaluno": 28,
+  "iddisciplina": 179,
+  "data": "2020-03-24",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979045e"
+  },
+  "idaluno": 124,
+  "iddisciplina": 239,
+  "data": "2021-03-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979045f"
+  },
+  "idaluno": 296,
+  "iddisciplina": 358,
+  "data": "2021-05-07",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790460"
+  },
+  "idaluno": 202,
+  "iddisciplina": 452,
+  "data": "2021-07-18",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790461"
+  },
+  "idaluno": 306,
+  "iddisciplina": 285,
+  "data": "2019-07-11",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790462"
+  },
+  "idaluno": 37,
+  "iddisciplina": 92,
+  "data": "2021-07-24",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790463"
+  },
+  "idaluno": 34,
+  "iddisciplina": 364,
+  "data": "2021-02-14",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790464"
+  },
+  "idaluno": 147,
+  "iddisciplina": 7,
+  "data": "2021-09-01",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790465"
+  },
+  "idaluno": 81,
+  "iddisciplina": 323,
+  "data": "2020-04-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790466"
+  },
+  "idaluno": 167,
+  "iddisciplina": 218,
+  "data": "2019-09-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790467"
+  },
+  "idaluno": 318,
+  "iddisciplina": 55,
+  "data": "2021-01-31",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790468"
+  },
+  "idaluno": 278,
+  "iddisciplina": 152,
+  "data": "2021-01-04",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790469"
+  },
+  "idaluno": 6,
+  "iddisciplina": 122,
+  "data": "2020-12-01",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979046a"
+  },
+  "idaluno": 130,
+  "iddisciplina": 315,
+  "data": "2020-04-08",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979046b"
+  },
+  "idaluno": 217,
+  "iddisciplina": 71,
+  "data": "2021-04-14",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979046c"
+  },
+  "idaluno": 211,
+  "iddisciplina": 386,
+  "data": "2019-12-25",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979046d"
+  },
+  "idaluno": 229,
+  "iddisciplina": 477,
+  "data": "2021-07-19",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979046e"
+  },
+  "idaluno": 190,
+  "iddisciplina": 59,
+  "data": "2021-01-19",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979046f"
+  },
+  "idaluno": 379,
+  "iddisciplina": 174,
+  "data": "2021-05-20",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790470"
+  },
+  "idaluno": 316,
+  "iddisciplina": 500,
+  "data": "2019-09-18",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790471"
+  },
+  "idaluno": 133,
+  "iddisciplina": 461,
+  "data": "2019-09-27",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790472"
+  },
+  "idaluno": 141,
+  "iddisciplina": 137,
+  "data": "2021-09-14",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790473"
+  },
+  "idaluno": 427,
+  "iddisciplina": 311,
+  "data": "2019-06-14",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790474"
+  },
+  "idaluno": 234,
+  "iddisciplina": 307,
+  "data": "2019-09-13",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790475"
+  },
+  "idaluno": 319,
+  "iddisciplina": 351,
+  "data": "2019-12-23",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790476"
+  },
+  "idaluno": 366,
+  "iddisciplina": 379,
+  "data": "2021-01-26",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790477"
+  },
+  "idaluno": 101,
+  "iddisciplina": 157,
+  "data": "2021-07-22",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790478"
+  },
+  "idaluno": 28,
+  "iddisciplina": 423,
+  "data": "2020-09-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790479"
+  },
+  "idaluno": 48,
+  "iddisciplina": 494,
+  "data": "2020-12-28",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979047a"
+  },
+  "idaluno": 107,
+  "iddisciplina": 31,
+  "data": "2021-05-10",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979047b"
+  },
+  "idaluno": 5,
+  "iddisciplina": 142,
+  "data": "2021-07-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979047c"
+  },
+  "idaluno": 366,
+  "iddisciplina": 357,
+  "data": "2020-01-12",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979047d"
+  },
+  "idaluno": 138,
+  "iddisciplina": 5,
+  "data": "2019-08-20",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979047e"
+  },
+  "idaluno": 72,
+  "iddisciplina": 177,
+  "data": "2020-04-01",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979047f"
+  },
+  "idaluno": 408,
+  "iddisciplina": 353,
+  "data": "2020-12-04",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790480"
+  },
+  "idaluno": 116,
+  "iddisciplina": 212,
+  "data": "2020-05-21",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790481"
+  },
+  "idaluno": 326,
+  "iddisciplina": 458,
+  "data": "2020-06-28",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790482"
+  },
+  "idaluno": 103,
+  "iddisciplina": 464,
+  "data": "2020-01-19",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790483"
+  },
+  "idaluno": 28,
+  "iddisciplina": 411,
+  "data": "2021-09-05",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790484"
+  },
+  "idaluno": 441,
+  "iddisciplina": 84,
+  "data": "2020-06-15",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790485"
+  },
+  "idaluno": 180,
+  "iddisciplina": 207,
+  "data": "2021-01-20",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790486"
+  },
+  "idaluno": 165,
+  "iddisciplina": 84,
+  "data": "2019-09-22",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790487"
+  },
+  "idaluno": 405,
+  "iddisciplina": 195,
+  "data": "2020-03-14",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790488"
+  },
+  "idaluno": 22,
+  "iddisciplina": 9,
+  "data": "2019-07-04",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790489"
+  },
+  "idaluno": 230,
+  "iddisciplina": 123,
+  "data": "2020-05-19",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979048a"
+  },
+  "idaluno": 67,
+  "iddisciplina": 383,
+  "data": "2020-05-15",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979048b"
+  },
+  "idaluno": 164,
+  "iddisciplina": 295,
+  "data": "2020-01-08",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979048c"
+  },
+  "idaluno": 257,
+  "iddisciplina": 185,
+  "data": "2019-07-05",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979048d"
+  },
+  "idaluno": 253,
+  "iddisciplina": 312,
+  "data": "2021-08-06",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979048e"
+  },
+  "idaluno": 403,
+  "iddisciplina": 422,
+  "data": "2019-06-28",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979048f"
+  },
+  "idaluno": 262,
+  "iddisciplina": 125,
+  "data": "2021-09-28",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790490"
+  },
+  "idaluno": 336,
+  "iddisciplina": 437,
+  "data": "2019-07-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790491"
+  },
+  "idaluno": 336,
+  "iddisciplina": 252,
+  "data": "2021-03-23",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790492"
+  },
+  "idaluno": 338,
+  "iddisciplina": 300,
+  "data": "2021-03-27",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790493"
+  },
+  "idaluno": 2,
+  "iddisciplina": 243,
+  "data": "2021-04-07",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790494"
+  },
+  "idaluno": 102,
+  "iddisciplina": 468,
+  "data": "2020-07-14",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790495"
+  },
+  "idaluno": 20,
+  "iddisciplina": 220,
+  "data": "2021-06-08",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790496"
+  },
+  "idaluno": 421,
+  "iddisciplina": 491,
+  "data": "2021-01-13",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790497"
+  },
+  "idaluno": 140,
+  "iddisciplina": 389,
+  "data": "2021-09-03",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790498"
+  },
+  "idaluno": 269,
+  "iddisciplina": 362,
+  "data": "2021-08-08",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790499"
+  },
+  "idaluno": 10,
+  "iddisciplina": 441,
+  "data": "2020-10-26",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979049a"
+  },
+  "idaluno": 156,
+  "iddisciplina": 366,
+  "data": "2020-11-02",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979049b"
+  },
+  "idaluno": 229,
+  "iddisciplina": 465,
+  "data": "2020-10-26",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979049c"
+  },
+  "idaluno": 203,
+  "iddisciplina": 23,
+  "data": "2020-03-03",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979049d"
+  },
+  "idaluno": 43,
+  "iddisciplina": 117,
+  "data": "2021-08-09",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979049e"
+  },
+  "idaluno": 276,
+  "iddisciplina": 6,
+  "data": "2019-12-01",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979049f"
+  },
+  "idaluno": 187,
+  "iddisciplina": 299,
+  "data": "2020-08-13",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a0"
+  },
+  "idaluno": 309,
+  "iddisciplina": 98,
+  "data": "2021-09-07",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a1"
+  },
+  "idaluno": 322,
+  "iddisciplina": 231,
+  "data": "2020-11-12",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a2"
+  },
+  "idaluno": 370,
+  "iddisciplina": 367,
+  "data": "2021-05-24",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a3"
+  },
+  "idaluno": 206,
+  "iddisciplina": 177,
+  "data": "2019-09-05",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a4"
+  },
+  "idaluno": 259,
+  "iddisciplina": 499,
+  "data": "2020-05-19",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a5"
+  },
+  "idaluno": 399,
+  "iddisciplina": 288,
+  "data": "2021-05-29",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a6"
+  },
+  "idaluno": 450,
+  "iddisciplina": 297,
+  "data": "2020-12-31",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a7"
+  },
+  "idaluno": 417,
+  "iddisciplina": 160,
+  "data": "2020-12-27",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a8"
+  },
+  "idaluno": 327,
+  "iddisciplina": 467,
+  "data": "2021-08-26",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904a9"
+  },
+  "idaluno": 370,
+  "iddisciplina": 494,
+  "data": "2019-07-29",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904aa"
+  },
+  "idaluno": 262,
+  "iddisciplina": 335,
+  "data": "2019-10-27",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ab"
+  },
+  "idaluno": 346,
+  "iddisciplina": 25,
+  "data": "2020-11-15",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ac"
+  },
+  "idaluno": 428,
+  "iddisciplina": 349,
+  "data": "2020-02-21",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ad"
+  },
+  "idaluno": 78,
+  "iddisciplina": 399,
+  "data": "2020-10-11",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ae"
+  },
+  "idaluno": 384,
+  "iddisciplina": 100,
+  "data": "2019-09-05",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904af"
+  },
+  "idaluno": 439,
+  "iddisciplina": 92,
+  "data": "2020-09-23",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b0"
+  },
+  "idaluno": 149,
+  "iddisciplina": 427,
+  "data": "2020-02-14",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b1"
+  },
+  "idaluno": 104,
+  "iddisciplina": 40,
+  "data": "2019-07-11",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b2"
+  },
+  "idaluno": 345,
+  "iddisciplina": 149,
+  "data": "2020-06-12",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b3"
+  },
+  "idaluno": 84,
+  "iddisciplina": 109,
+  "data": "2020-11-09",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b4"
+  },
+  "idaluno": 202,
+  "iddisciplina": 444,
+  "data": "2020-02-21",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b5"
+  },
+  "idaluno": 29,
+  "iddisciplina": 52,
+  "data": "2019-08-17",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b6"
+  },
+  "idaluno": 346,
+  "iddisciplina": 110,
+  "data": "2019-11-19",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b7"
+  },
+  "idaluno": 411,
+  "iddisciplina": 29,
+  "data": "2020-02-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b8"
+  },
+  "idaluno": 221,
+  "iddisciplina": 387,
+  "data": "2020-08-27",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904b9"
+  },
+  "idaluno": 415,
+  "iddisciplina": 154,
+  "data": "2021-10-03",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ba"
+  },
+  "idaluno": 253,
+  "iddisciplina": 400,
+  "data": "2019-11-15",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904bb"
+  },
+  "idaluno": 2,
+  "iddisciplina": 431,
+  "data": "2021-09-04",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904bc"
+  },
+  "idaluno": 380,
+  "iddisciplina": 257,
+  "data": "2020-12-22",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904bd"
+  },
+  "idaluno": 44,
+  "iddisciplina": 394,
+  "data": "2020-03-12",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904be"
+  },
+  "idaluno": 210,
+  "iddisciplina": 98,
+  "data": "2021-03-03",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904bf"
+  },
+  "idaluno": 353,
+  "iddisciplina": 134,
+  "data": "2019-10-08",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c0"
+  },
+  "idaluno": 150,
+  "iddisciplina": 439,
+  "data": "2021-03-26",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c1"
+  },
+  "idaluno": 302,
+  "iddisciplina": 353,
+  "data": "2020-09-04",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c2"
+  },
+  "idaluno": 156,
+  "iddisciplina": 149,
+  "data": "2021-09-15",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c3"
+  },
+  "idaluno": 165,
+  "iddisciplina": 376,
+  "data": "2020-02-26",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c4"
+  },
+  "idaluno": 325,
+  "iddisciplina": 227,
+  "data": "2020-01-30",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c5"
+  },
+  "idaluno": 1,
+  "iddisciplina": 398,
+  "data": "2019-07-16",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c6"
+  },
+  "idaluno": 324,
+  "iddisciplina": 401,
+  "data": "2020-01-21",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c7"
+  },
+  "idaluno": 149,
+  "iddisciplina": 148,
+  "data": "2019-12-14",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c8"
+  },
+  "idaluno": 199,
+  "iddisciplina": 439,
+  "data": "2020-12-27",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904c9"
+  },
+  "idaluno": 103,
+  "iddisciplina": 427,
+  "data": "2021-09-15",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ca"
+  },
+  "idaluno": 14,
+  "iddisciplina": 457,
+  "data": "2021-05-22",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904cb"
+  },
+  "idaluno": 399,
+  "iddisciplina": 455,
+  "data": "2020-01-27",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904cc"
+  },
+  "idaluno": 405,
+  "iddisciplina": 498,
+  "data": "2021-06-18",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904cd"
+  },
+  "idaluno": 183,
+  "iddisciplina": 408,
+  "data": "2019-07-06",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ce"
+  },
+  "idaluno": 50,
+  "iddisciplina": 146,
+  "data": "2019-09-13",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904cf"
+  },
+  "idaluno": 172,
+  "iddisciplina": 204,
+  "data": "2020-01-05",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d0"
+  },
+  "idaluno": 220,
+  "iddisciplina": 18,
+  "data": "2020-04-22",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d1"
+  },
+  "idaluno": 70,
+  "iddisciplina": 393,
+  "data": "2021-05-02",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d2"
+  },
+  "idaluno": 63,
+  "iddisciplina": 10,
+  "data": "2021-01-21",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d3"
+  },
+  "idaluno": 8,
+  "iddisciplina": 479,
+  "data": "2021-06-08",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d4"
+  },
+  "idaluno": 167,
+  "iddisciplina": 286,
+  "data": "2021-03-30",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d5"
+  },
+  "idaluno": 319,
+  "iddisciplina": 70,
+  "data": "2019-06-06",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d6"
+  },
+  "idaluno": 16,
+  "iddisciplina": 84,
+  "data": "2021-08-24",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d7"
+  },
+  "idaluno": 76,
+  "iddisciplina": 263,
+  "data": "2020-05-24",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d8"
+  },
+  "idaluno": 268,
+  "iddisciplina": 62,
+  "data": "2020-07-03",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904d9"
+  },
+  "idaluno": 121,
+  "iddisciplina": 464,
+  "data": "2021-02-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904da"
+  },
+  "idaluno": 14,
+  "iddisciplina": 243,
+  "data": "2019-12-30",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904db"
+  },
+  "idaluno": 349,
+  "iddisciplina": 421,
+  "data": "2020-04-14",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904dc"
+  },
+  "idaluno": 441,
+  "iddisciplina": 151,
+  "data": "2019-07-10",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904dd"
+  },
+  "idaluno": 348,
+  "iddisciplina": 460,
+  "data": "2019-12-23",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904de"
+  },
+  "idaluno": 258,
+  "iddisciplina": 39,
+  "data": "2020-05-10",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904df"
+  },
+  "idaluno": 283,
+  "iddisciplina": 34,
+  "data": "2021-05-31",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e0"
+  },
+  "idaluno": 289,
+  "iddisciplina": 485,
+  "data": "2020-04-16",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e1"
+  },
+  "idaluno": 381,
+  "iddisciplina": 12,
+  "data": "2020-05-04",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e2"
+  },
+  "idaluno": 407,
+  "iddisciplina": 307,
+  "data": "2021-03-23",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e3"
+  },
+  "idaluno": 273,
+  "iddisciplina": 286,
+  "data": "2020-03-14",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e4"
+  },
+  "idaluno": 290,
+  "iddisciplina": 10,
+  "data": "2021-02-09",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e5"
+  },
+  "idaluno": 27,
+  "iddisciplina": 190,
+  "data": "2019-12-12",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e6"
+  },
+  "idaluno": 367,
+  "iddisciplina": 280,
+  "data": "2020-07-15",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e7"
+  },
+  "idaluno": 434,
+  "iddisciplina": 448,
+  "data": "2020-01-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e8"
+  },
+  "idaluno": 350,
+  "iddisciplina": 400,
+  "data": "2020-08-10",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904e9"
+  },
+  "idaluno": 88,
+  "iddisciplina": 84,
+  "data": "2021-06-24",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ea"
+  },
+  "idaluno": 44,
+  "iddisciplina": 129,
+  "data": "2021-08-07",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904eb"
+  },
+  "idaluno": 77,
+  "iddisciplina": 409,
+  "data": "2020-06-20",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ec"
+  },
+  "idaluno": 101,
+  "iddisciplina": 84,
+  "data": "2021-09-15",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ed"
+  },
+  "idaluno": 201,
+  "iddisciplina": 173,
+  "data": "2021-04-15",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ee"
+  },
+  "idaluno": 66,
+  "iddisciplina": 390,
+  "data": "2019-12-15",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ef"
+  },
+  "idaluno": 51,
+  "iddisciplina": 292,
+  "data": "2020-08-06",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f0"
+  },
+  "idaluno": 131,
+  "iddisciplina": 355,
+  "data": "2020-06-03",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f1"
+  },
+  "idaluno": 60,
+  "iddisciplina": 354,
+  "data": "2021-01-12",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f2"
+  },
+  "idaluno": 115,
+  "iddisciplina": 36,
+  "data": "2020-05-23",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f3"
+  },
+  "idaluno": 136,
+  "iddisciplina": 470,
+  "data": "2020-05-24",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f4"
+  },
+  "idaluno": 183,
+  "iddisciplina": 55,
+  "data": "2019-12-14",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f5"
+  },
+  "idaluno": 212,
+  "iddisciplina": 137,
+  "data": "2020-11-08",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f6"
+  },
+  "idaluno": 419,
+  "iddisciplina": 323,
+  "data": "2020-10-12",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f7"
+  },
+  "idaluno": 61,
+  "iddisciplina": 29,
+  "data": "2020-07-03",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f8"
+  },
+  "idaluno": 324,
+  "iddisciplina": 217,
+  "data": "2020-02-17",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904f9"
+  },
+  "idaluno": 30,
+  "iddisciplina": 112,
+  "data": "2021-07-28",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904fa"
+  },
+  "idaluno": 204,
+  "iddisciplina": 49,
+  "data": "2021-02-16",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904fb"
+  },
+  "idaluno": 85,
+  "iddisciplina": 462,
+  "data": "2020-04-29",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904fc"
+  },
+  "idaluno": 243,
+  "iddisciplina": 70,
+  "data": "2020-04-23",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904fd"
+  },
+  "idaluno": 78,
+  "iddisciplina": 213,
+  "data": "2020-03-26",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904fe"
+  },
+  "idaluno": 171,
+  "iddisciplina": 394,
+  "data": "2021-04-10",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a97904ff"
+  },
+  "idaluno": 131,
+  "iddisciplina": 217,
+  "data": "2021-09-30",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790500"
+  },
+  "idaluno": 67,
+  "iddisciplina": 498,
+  "data": "2020-12-01",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790501"
+  },
+  "idaluno": 112,
+  "iddisciplina": 97,
+  "data": "2019-11-24",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790502"
+  },
+  "idaluno": 106,
+  "iddisciplina": 262,
+  "data": "2020-01-13",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790503"
+  },
+  "idaluno": 65,
+  "iddisciplina": 291,
+  "data": "2019-07-07",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790504"
+  },
+  "idaluno": 272,
+  "iddisciplina": 118,
+  "data": "2020-12-01",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790505"
+  },
+  "idaluno": 71,
+  "iddisciplina": 436,
+  "data": "2020-05-01",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790506"
+  },
+  "idaluno": 242,
+  "iddisciplina": 340,
+  "data": "2019-06-20",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790507"
+  },
+  "idaluno": 257,
+  "iddisciplina": 180,
+  "data": "2020-01-03",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790508"
+  },
+  "idaluno": 5,
+  "iddisciplina": 377,
+  "data": "2019-08-02",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790509"
+  },
+  "idaluno": 53,
+  "iddisciplina": 357,
+  "data": "2021-07-06",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979050a"
+  },
+  "idaluno": 434,
+  "iddisciplina": 112,
+  "data": "2020-04-22",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979050b"
+  },
+  "idaluno": 50,
+  "iddisciplina": 269,
+  "data": "2020-07-04",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979050c"
+  },
+  "idaluno": 51,
+  "iddisciplina": 148,
+  "data": "2021-05-19",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979050d"
+  },
+  "idaluno": 346,
+  "iddisciplina": 149,
+  "data": "2019-09-07",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979050e"
+  },
+  "idaluno": 373,
+  "iddisciplina": 491,
+  "data": "2020-04-08",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979050f"
+  },
+  "idaluno": 406,
+  "iddisciplina": 160,
+  "data": "2019-12-09",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790510"
+  },
+  "idaluno": 130,
+  "iddisciplina": 247,
+  "data": "2020-06-13",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790511"
+  },
+  "idaluno": 205,
+  "iddisciplina": 414,
+  "data": "2019-06-08",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790512"
+  },
+  "idaluno": 356,
+  "iddisciplina": 142,
+  "data": "2021-01-14",
+  "notaAvaliacao": 10,
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790513"
+  },
+  "idaluno": 214,
+  "iddisciplina": 318,
+  "data": "2020-02-25",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790514"
+  },
+  "idaluno": 301,
+  "iddisciplina": 354,
+  "data": "2021-05-29",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790515"
+  },
+  "idaluno": 140,
+  "iddisciplina": 206,
+  "data": "2021-02-20",
+  "notaAvaliacao": 10,
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790516"
+  },
+  "idaluno": 120,
+  "iddisciplina": 97,
+  "data": "2020-01-02",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790517"
+  },
+  "idaluno": 198,
+  "iddisciplina": 413,
+  "data": "2019-10-15",
+  "notaAvaliacao": 10,
+  "nota": 4
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790518"
+  },
+  "idaluno": 391,
+  "iddisciplina": 93,
+  "data": "2019-07-25",
+  "notaAvaliacao": 10,
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790519"
+  },
+  "idaluno": 254,
+  "iddisciplina": 375,
+  "data": "2019-06-13",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979051a"
+  },
+  "idaluno": 53,
+  "iddisciplina": 233,
+  "data": "2021-04-17",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979051b"
+  },
+  "idaluno": 52,
+  "iddisciplina": 250,
+  "data": "2020-05-14",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979051c"
+  },
+  "idaluno": 363,
+  "iddisciplina": 64,
+  "data": "2021-06-22",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979051d"
+  },
+  "idaluno": 176,
+  "iddisciplina": 277,
+  "data": "2020-01-13",
+  "notaAvaliacao": 10,
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979051e"
+  },
+  "idaluno": 263,
+  "iddisciplina": 246,
+  "data": "2020-05-08",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a979051f"
+  },
+  "idaluno": 238,
+  "iddisciplina": 113,
+  "data": "2020-06-01",
+  "notaAvaliacao": 10,
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790520"
+  },
+  "idaluno": 123,
+  "iddisciplina": 126,
+  "data": "2020-09-16",
+  "notaAvaliacao": 10,
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790521"
+  },
+  "idaluno": 418,
+  "iddisciplina": 148,
+  "data": "2020-02-25",
+  "notaAvaliacao": 10,
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790522"
+  },
+  "idaluno": 297,
+  "iddisciplina": 41,
+  "data": "2020-03-22",
+  "notaAvaliacao": 10,
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "615e604cd79f2e40a9790523"
+  },
+  "idaluno": 119,
+  "iddisciplina": 257,
+  "data": "2020-01-15",
+  "notaAvaliacao": 10,
+  "nota": 2
+}]

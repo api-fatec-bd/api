@@ -1,0 +1,5001 @@
+[{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff3a"
+  },
+  "idAula": 1,
+  "DateInicio": "2020-11-26 05:40:19",
+  "dateFim": "2020-10-07 01:34:43",
+  "idDisciplina": 179,
+  "Titulo": "pellentesque at nulla suspendisse potenti",
+  "Assunto": "lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff3b"
+  },
+  "idAula": 2,
+  "DateInicio": "2020-10-21 17:05:53",
+  "dateFim": "2019-06-11 20:14:54",
+  "idDisciplina": 424,
+  "Titulo": "a ipsum integer a nibh",
+  "Assunto": "in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff3c"
+  },
+  "idAula": 3,
+  "DateInicio": "2020-06-24 12:25:03",
+  "dateFim": "2020-07-20 11:34:23",
+  "idDisciplina": 444,
+  "Titulo": "velit donec diam neque vestibulum",
+  "Assunto": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff3d"
+  },
+  "idAula": 4,
+  "DateInicio": "2020-10-29 04:52:27",
+  "dateFim": "2020-10-28 06:30:21",
+  "idDisciplina": 475,
+  "Titulo": "tellus nulla ut erat id",
+  "Assunto": "nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff3e"
+  },
+  "idAula": 5,
+  "DateInicio": "2020-03-09 15:57:16",
+  "dateFim": "2020-06-20 10:11:23",
+  "idDisciplina": 482,
+  "Titulo": "parturient montes nascetur ridiculus mus",
+  "Assunto": "donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff3f"
+  },
+  "idAula": 6,
+  "DateInicio": "2021-03-03 12:52:59",
+  "dateFim": "2021-04-22 23:03:23",
+  "idDisciplina": 165,
+  "Titulo": "diam vitae quam suspendisse potenti",
+  "Assunto": "elementum in hac habitasse platea dictumst morbi vestibulum velit id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff40"
+  },
+  "idAula": 7,
+  "DateInicio": "2020-04-08 11:18:31",
+  "dateFim": "2019-10-28 01:09:57",
+  "idDisciplina": 312,
+  "Titulo": "fusce consequat nulla nisl nunc",
+  "Assunto": "sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff41"
+  },
+  "idAula": 8,
+  "DateInicio": "2019-11-10 15:48:35",
+  "dateFim": "2020-10-03 09:56:05",
+  "idDisciplina": 291,
+  "Titulo": "ac tellus semper interdum mauris",
+  "Assunto": "mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff42"
+  },
+  "idAula": 9,
+  "DateInicio": "2020-11-09 17:49:49",
+  "dateFim": "2021-04-13 13:02:38",
+  "idDisciplina": 99,
+  "Titulo": "etiam vel augue vestibulum rutrum",
+  "Assunto": "praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff43"
+  },
+  "idAula": 10,
+  "DateInicio": "2020-07-28 10:53:49",
+  "dateFim": "2020-09-12 12:39:25",
+  "idDisciplina": 436,
+  "Titulo": "accumsan odio curabitur convallis duis",
+  "Assunto": "morbi non lectus aliquam sit amet diam in magna bibendum imperdiet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff44"
+  },
+  "idAula": 11,
+  "DateInicio": "2019-12-11 12:44:14",
+  "dateFim": "2021-06-06 05:05:46",
+  "idDisciplina": 261,
+  "Titulo": "rutrum ac lobortis vel dapibus",
+  "Assunto": "at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff45"
+  },
+  "idAula": 12,
+  "DateInicio": "2021-01-12 21:06:01",
+  "dateFim": "2020-11-23 23:08:19",
+  "idDisciplina": 253,
+  "Titulo": "aliquet massa id lobortis convallis",
+  "Assunto": "at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff46"
+  },
+  "idAula": 13,
+  "DateInicio": "2021-01-03 09:50:47",
+  "dateFim": "2020-04-17 19:36:47",
+  "idDisciplina": 347,
+  "Titulo": "cubilia curae donec pharetra magna",
+  "Assunto": "urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff47"
+  },
+  "idAula": 14,
+  "DateInicio": "2021-04-18 14:29:00",
+  "dateFim": "2019-07-19 12:20:21",
+  "idDisciplina": 128,
+  "Titulo": "libero nullam sit amet turpis",
+  "Assunto": "potenti cras in purus eu magna vulputate luctus cum sociis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff48"
+  },
+  "idAula": 15,
+  "DateInicio": "2021-05-19 17:45:53",
+  "dateFim": "2021-08-04 11:53:09",
+  "idDisciplina": 37,
+  "Titulo": "platea dictumst aliquam augue quam",
+  "Assunto": "velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff49"
+  },
+  "idAula": 16,
+  "DateInicio": "2020-10-29 16:46:53",
+  "dateFim": "2020-07-16 10:02:09",
+  "idDisciplina": 15,
+  "Titulo": "primis in faucibus orci luctus",
+  "Assunto": "suscipit nulla elit ac nulla sed vel enim sit amet nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff59"
+  },
+  "idAula": 32,
+  "DateInicio": "2019-09-12 13:23:08",
+  "dateFim": "2020-08-05 03:41:36",
+  "idDisciplina": 58,
+  "Titulo": "ligula vehicula consequat morbi a",
+  "Assunto": "augue a suscipit nulla elit ac nulla sed vel enim"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff4a"
+  },
+  "idAula": 17,
+  "DateInicio": "2021-06-03 15:18:21",
+  "dateFim": "2020-06-10 05:14:01",
+  "idDisciplina": 441,
+  "Titulo": "vulputate ut ultrices vel augue",
+  "Assunto": "vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff4b"
+  },
+  "idAula": 18,
+  "DateInicio": "2020-07-02 15:05:19",
+  "dateFim": "2020-06-02 16:45:53",
+  "idDisciplina": 267,
+  "Titulo": "sapien iaculis congue vivamus metus",
+  "Assunto": "libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff4c"
+  },
+  "idAula": 19,
+  "DateInicio": "2019-12-12 17:14:52",
+  "dateFim": "2021-06-04 09:44:35",
+  "idDisciplina": 394,
+  "Titulo": "semper porta volutpat quam pede",
+  "Assunto": "sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff4d"
+  },
+  "idAula": 20,
+  "DateInicio": "2020-05-11 20:37:54",
+  "dateFim": "2021-09-28 01:13:05",
+  "idDisciplina": 421,
+  "Titulo": "semper sapien a libero nam",
+  "Assunto": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff4e"
+  },
+  "idAula": 21,
+  "DateInicio": "2020-01-24 04:01:30",
+  "dateFim": "2021-06-12 12:14:47",
+  "idDisciplina": 228,
+  "Titulo": "posuere nonummy integer non velit",
+  "Assunto": "velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff4f"
+  },
+  "idAula": 22,
+  "DateInicio": "2019-09-17 00:15:27",
+  "dateFim": "2019-12-17 18:10:00",
+  "idDisciplina": 435,
+  "Titulo": "vitae consectetuer eget rutrum at",
+  "Assunto": "consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff50"
+  },
+  "idAula": 23,
+  "DateInicio": "2021-09-19 15:26:39",
+  "dateFim": "2020-01-05 08:03:48",
+  "idDisciplina": 255,
+  "Titulo": "ac consequat metus sapien ut",
+  "Assunto": "pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff51"
+  },
+  "idAula": 24,
+  "DateInicio": "2019-11-25 21:41:38",
+  "dateFim": "2020-12-22 16:31:49",
+  "idDisciplina": 38,
+  "Titulo": "sapien varius ut blandit non",
+  "Assunto": "neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff52"
+  },
+  "idAula": 25,
+  "DateInicio": "2021-06-23 09:37:29",
+  "dateFim": "2021-06-18 16:56:55",
+  "idDisciplina": 215,
+  "Titulo": "quam sapien varius ut blandit",
+  "Assunto": "lectus suspendisse potenti in eleifend quam a odio in hac habitasse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff53"
+  },
+  "idAula": 26,
+  "DateInicio": "2021-09-06 00:35:35",
+  "dateFim": "2020-09-25 01:36:51",
+  "idDisciplina": 211,
+  "Titulo": "etiam vel augue vestibulum rutrum",
+  "Assunto": "urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff54"
+  },
+  "idAula": 27,
+  "DateInicio": "2020-02-17 04:28:43",
+  "dateFim": "2020-09-23 05:28:35",
+  "idDisciplina": 145,
+  "Titulo": "viverra diam vitae quam suspendisse",
+  "Assunto": "et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff55"
+  },
+  "idAula": 28,
+  "DateInicio": "2020-01-17 22:50:58",
+  "dateFim": "2020-11-11 07:04:09",
+  "idDisciplina": 209,
+  "Titulo": "pellentesque ultrices phasellus id sapien",
+  "Assunto": "venenatis lacinia aenean sit amet justo morbi ut odio cras mi"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff56"
+  },
+  "idAula": 29,
+  "DateInicio": "2020-05-10 21:28:36",
+  "dateFim": "2019-11-06 19:46:49",
+  "idDisciplina": 136,
+  "Titulo": "in lectus pellentesque at nulla",
+  "Assunto": "orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff57"
+  },
+  "idAula": 30,
+  "DateInicio": "2020-12-05 18:37:26",
+  "dateFim": "2021-01-21 15:02:33",
+  "idDisciplina": 236,
+  "Titulo": "luctus et ultrices posuere cubilia",
+  "Assunto": "dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff58"
+  },
+  "idAula": 31,
+  "DateInicio": "2020-02-12 01:59:43",
+  "dateFim": "2020-10-20 04:55:01",
+  "idDisciplina": 127,
+  "Titulo": "sapien cursus vestibulum proin eu",
+  "Assunto": "cum sociis natoque penatibus et magnis dis parturient montes nascetur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff5a"
+  },
+  "idAula": 33,
+  "DateInicio": "2020-11-08 08:01:26",
+  "dateFim": "2020-03-01 10:56:38",
+  "idDisciplina": 145,
+  "Titulo": "et ultrices posuere cubilia curae",
+  "Assunto": "consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff5b"
+  },
+  "idAula": 34,
+  "DateInicio": "2019-11-22 06:56:51",
+  "dateFim": "2021-04-01 16:45:00",
+  "idDisciplina": 228,
+  "Titulo": "mauris ullamcorper purus sit amet",
+  "Assunto": "accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff5c"
+  },
+  "idAula": 35,
+  "DateInicio": "2019-06-06 23:34:21",
+  "dateFim": "2019-10-26 18:21:11",
+  "idDisciplina": 132,
+  "Titulo": "in magna bibendum imperdiet nullam",
+  "Assunto": "justo eu massa donec dapibus duis at velit eu est congue elementum in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff5d"
+  },
+  "idAula": 36,
+  "DateInicio": "2021-01-31 18:21:01",
+  "dateFim": "2020-05-24 21:37:57",
+  "idDisciplina": 460,
+  "Titulo": "erat eros viverra eget congue",
+  "Assunto": "pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff5e"
+  },
+  "idAula": 37,
+  "DateInicio": "2021-05-06 06:06:45",
+  "dateFim": "2020-04-11 15:07:39",
+  "idDisciplina": 136,
+  "Titulo": "ultrices posuere cubilia curae donec",
+  "Assunto": "duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff5f"
+  },
+  "idAula": 38,
+  "DateInicio": "2019-11-03 10:53:29",
+  "dateFim": "2021-07-25 10:12:18",
+  "idDisciplina": 91,
+  "Titulo": "gravida sem praesent id massa",
+  "Assunto": "primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff60"
+  },
+  "idAula": 39,
+  "DateInicio": "2020-05-21 03:51:06",
+  "dateFim": "2020-11-09 18:02:52",
+  "idDisciplina": 428,
+  "Titulo": "etiam vel augue vestibulum rutrum",
+  "Assunto": "tellus nisi eu orci mauris lacinia sapien quis libero nullam sit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff61"
+  },
+  "idAula": 40,
+  "DateInicio": "2021-06-03 23:42:49",
+  "dateFim": "2021-10-05 07:07:54",
+  "idDisciplina": 145,
+  "Titulo": "pulvinar nulla pede ullamcorper augue",
+  "Assunto": "eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff62"
+  },
+  "idAula": 41,
+  "DateInicio": "2019-12-01 07:54:42",
+  "dateFim": "2021-07-26 22:04:11",
+  "idDisciplina": 369,
+  "Titulo": "at dolor quis odio consequat",
+  "Assunto": "curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff63"
+  },
+  "idAula": 42,
+  "DateInicio": "2019-08-08 10:05:56",
+  "dateFim": "2020-03-02 21:10:31",
+  "idDisciplina": 100,
+  "Titulo": "nibh fusce lacus purus aliquet",
+  "Assunto": "sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff64"
+  },
+  "idAula": 43,
+  "DateInicio": "2021-05-04 15:46:34",
+  "dateFim": "2020-09-20 02:53:14",
+  "idDisciplina": 218,
+  "Titulo": "in ante vestibulum ante ipsum",
+  "Assunto": "quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff65"
+  },
+  "idAula": 44,
+  "DateInicio": "2021-05-18 05:53:11",
+  "dateFim": "2020-01-10 16:55:06",
+  "idDisciplina": 70,
+  "Titulo": "augue vestibulum ante ipsum primis",
+  "Assunto": "varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff66"
+  },
+  "idAula": 45,
+  "DateInicio": "2020-04-16 13:15:40",
+  "dateFim": "2019-09-21 16:19:26",
+  "idDisciplina": 12,
+  "Titulo": "pharetra magna vestibulum aliquet ultrices",
+  "Assunto": "quis turpis sed ante vivamus tortor duis mattis egestas metus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff67"
+  },
+  "idAula": 46,
+  "DateInicio": "2019-09-02 05:05:36",
+  "dateFim": "2020-09-02 15:52:05",
+  "idDisciplina": 369,
+  "Titulo": "blandit ultrices enim lorem ipsum",
+  "Assunto": "justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff68"
+  },
+  "idAula": 47,
+  "DateInicio": "2019-08-28 13:39:11",
+  "dateFim": "2020-11-14 13:56:26",
+  "idDisciplina": 84,
+  "Titulo": "vivamus vestibulum sagittis sapien cum",
+  "Assunto": "at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff69"
+  },
+  "idAula": 48,
+  "DateInicio": "2019-08-16 22:02:41",
+  "dateFim": "2019-07-09 22:10:37",
+  "idDisciplina": 160,
+  "Titulo": "integer ac neque duis bibendum",
+  "Assunto": "dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff6a"
+  },
+  "idAula": 49,
+  "DateInicio": "2020-05-09 15:54:47",
+  "dateFim": "2020-02-20 20:09:47",
+  "idDisciplina": 452,
+  "Titulo": "sed tincidunt eu felis fusce",
+  "Assunto": "ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff6b"
+  },
+  "idAula": 50,
+  "DateInicio": "2019-12-21 07:33:51",
+  "dateFim": "2019-09-12 16:27:45",
+  "idDisciplina": 207,
+  "Titulo": "odio justo sollicitudin ut suscipit",
+  "Assunto": "venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff6c"
+  },
+  "idAula": 51,
+  "DateInicio": "2020-03-04 00:17:10",
+  "dateFim": "2020-03-05 00:44:52",
+  "idDisciplina": 324,
+  "Titulo": "vel ipsum praesent blandit lacinia",
+  "Assunto": "amet turpis elementum ligula vehicula consequat morbi a ipsum integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff6d"
+  },
+  "idAula": 52,
+  "DateInicio": "2019-07-09 21:39:17",
+  "dateFim": "2019-06-24 11:41:09",
+  "idDisciplina": 441,
+  "Titulo": "lacinia erat vestibulum sed magna",
+  "Assunto": "elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff6e"
+  },
+  "idAula": 53,
+  "DateInicio": "2020-11-04 06:17:47",
+  "dateFim": "2021-03-31 15:10:16",
+  "idDisciplina": 115,
+  "Titulo": "aenean sit amet justo morbi",
+  "Assunto": "in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff6f"
+  },
+  "idAula": 54,
+  "DateInicio": "2020-09-30 11:27:30",
+  "dateFim": "2021-03-13 10:54:56",
+  "idDisciplina": 408,
+  "Titulo": "quam fringilla rhoncus mauris enim",
+  "Assunto": "curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff70"
+  },
+  "idAula": 55,
+  "DateInicio": "2021-03-11 18:43:59",
+  "dateFim": "2020-04-20 12:27:15",
+  "idDisciplina": 314,
+  "Titulo": "tempus semper est quam pharetra",
+  "Assunto": "nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff71"
+  },
+  "idAula": 56,
+  "DateInicio": "2021-08-15 13:43:21",
+  "dateFim": "2021-04-02 19:53:33",
+  "idDisciplina": 21,
+  "Titulo": "maecenas tristique est et tempus",
+  "Assunto": "sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff72"
+  },
+  "idAula": 57,
+  "DateInicio": "2021-05-04 01:41:01",
+  "dateFim": "2021-09-06 14:48:43",
+  "idDisciplina": 285,
+  "Titulo": "purus phasellus in felis donec",
+  "Assunto": "ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff73"
+  },
+  "idAula": 58,
+  "DateInicio": "2020-05-16 02:24:57",
+  "dateFim": "2021-03-25 04:45:23",
+  "idDisciplina": 264,
+  "Titulo": "dui vel sem sed sagittis",
+  "Assunto": "vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff74"
+  },
+  "idAula": 59,
+  "DateInicio": "2021-03-21 19:03:55",
+  "dateFim": "2019-06-10 18:53:29",
+  "idDisciplina": 3,
+  "Titulo": "non sodales sed tincidunt eu",
+  "Assunto": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff75"
+  },
+  "idAula": 60,
+  "DateInicio": "2021-08-24 10:39:43",
+  "dateFim": "2021-03-17 01:42:54",
+  "idDisciplina": 76,
+  "Titulo": "lacus morbi sem mauris laoreet",
+  "Assunto": "at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff76"
+  },
+  "idAula": 61,
+  "DateInicio": "2021-04-23 12:41:17",
+  "dateFim": "2021-09-06 04:36:40",
+  "idDisciplina": 395,
+  "Titulo": "volutpat erat quisque erat eros",
+  "Assunto": "et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff77"
+  },
+  "idAula": 62,
+  "DateInicio": "2020-07-26 10:00:08",
+  "dateFim": "2021-08-19 04:37:20",
+  "idDisciplina": 477,
+  "Titulo": "pede morbi porttitor lorem id",
+  "Assunto": "pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff78"
+  },
+  "idAula": 63,
+  "DateInicio": "2020-12-06 07:29:28",
+  "dateFim": "2019-12-05 00:25:44",
+  "idDisciplina": 170,
+  "Titulo": "ornare imperdiet sapien urna pretium",
+  "Assunto": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff79"
+  },
+  "idAula": 64,
+  "DateInicio": "2021-09-06 12:22:41",
+  "dateFim": "2020-10-06 21:41:22",
+  "idDisciplina": 372,
+  "Titulo": "felis eu sapien cursus vestibulum",
+  "Assunto": "vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff7a"
+  },
+  "idAula": 65,
+  "DateInicio": "2019-12-24 21:43:15",
+  "dateFim": "2021-03-13 16:01:30",
+  "idDisciplina": 159,
+  "Titulo": "imperdiet et commodo vulputate justo",
+  "Assunto": "est phasellus sit amet erat nulla tempus vivamus in felis eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff7b"
+  },
+  "idAula": 66,
+  "DateInicio": "2019-08-08 07:55:17",
+  "dateFim": "2020-08-28 16:48:18",
+  "idDisciplina": 456,
+  "Titulo": "nec nisi volutpat eleifend donec",
+  "Assunto": "pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff7c"
+  },
+  "idAula": 67,
+  "DateInicio": "2021-05-20 19:36:02",
+  "dateFim": "2021-01-12 15:13:02",
+  "idDisciplina": 384,
+  "Titulo": "vitae quam suspendisse potenti nullam",
+  "Assunto": "curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff7d"
+  },
+  "idAula": 68,
+  "DateInicio": "2020-11-30 03:47:07",
+  "dateFim": "2020-07-01 17:15:11",
+  "idDisciplina": 198,
+  "Titulo": "eget congue eget semper rutrum",
+  "Assunto": "justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff7e"
+  },
+  "idAula": 69,
+  "DateInicio": "2021-06-07 17:27:12",
+  "dateFim": "2019-12-05 01:14:04",
+  "idDisciplina": 234,
+  "Titulo": "neque libero convallis eget eleifend",
+  "Assunto": "augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff7f"
+  },
+  "idAula": 70,
+  "DateInicio": "2021-08-08 11:25:59",
+  "dateFim": "2020-07-11 12:48:52",
+  "idDisciplina": 129,
+  "Titulo": "gravida nisi at nibh in",
+  "Assunto": "pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff80"
+  },
+  "idAula": 71,
+  "DateInicio": "2020-01-14 03:30:51",
+  "dateFim": "2021-06-19 03:25:43",
+  "idDisciplina": 145,
+  "Titulo": "ultrices posuere cubilia curae donec",
+  "Assunto": "sit amet eleifend pede libero quis orci nullam molestie nibh in lectus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff81"
+  },
+  "idAula": 72,
+  "DateInicio": "2019-08-10 06:49:47",
+  "dateFim": "2020-06-05 21:02:07",
+  "idDisciplina": 165,
+  "Titulo": "tellus in sagittis dui vel",
+  "Assunto": "ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff82"
+  },
+  "idAula": 73,
+  "DateInicio": "2021-03-09 18:27:43",
+  "dateFim": "2021-04-12 04:13:07",
+  "idDisciplina": 198,
+  "Titulo": "semper porta volutpat quam pede",
+  "Assunto": "duis aliquam convallis nunc proin at turpis a pede posuere"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff83"
+  },
+  "idAula": 74,
+  "DateInicio": "2019-06-17 15:26:52",
+  "dateFim": "2019-07-19 15:28:35",
+  "idDisciplina": 264,
+  "Titulo": "mauris non ligula pellentesque ultrices",
+  "Assunto": "in libero ut massa volutpat convallis morbi odio odio elementum eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff84"
+  },
+  "idAula": 75,
+  "DateInicio": "2021-01-24 08:31:03",
+  "dateFim": "2020-05-26 16:11:23",
+  "idDisciplina": 392,
+  "Titulo": "lorem integer tincidunt ante vel",
+  "Assunto": "quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff85"
+  },
+  "idAula": 76,
+  "DateInicio": "2020-02-20 14:21:56",
+  "dateFim": "2020-07-05 05:27:54",
+  "idDisciplina": 440,
+  "Titulo": "diam cras pellentesque volutpat dui",
+  "Assunto": "non velit donec diam neque vestibulum eget vulputate ut ultrices vel"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff86"
+  },
+  "idAula": 77,
+  "DateInicio": "2021-02-13 14:55:18",
+  "dateFim": "2020-07-03 20:52:49",
+  "idDisciplina": 68,
+  "Titulo": "tempor turpis nec euismod scelerisque",
+  "Assunto": "in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff87"
+  },
+  "idAula": 78,
+  "DateInicio": "2020-11-24 10:56:24",
+  "dateFim": "2020-07-22 17:45:22",
+  "idDisciplina": 317,
+  "Titulo": "et ultrices posuere cubilia curae",
+  "Assunto": "justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff88"
+  },
+  "idAula": 79,
+  "DateInicio": "2021-04-08 04:41:05",
+  "dateFim": "2020-12-19 15:12:21",
+  "idDisciplina": 19,
+  "Titulo": "aliquet pulvinar sed nisl nunc",
+  "Assunto": "amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff89"
+  },
+  "idAula": 80,
+  "DateInicio": "2021-09-29 19:55:46",
+  "dateFim": "2021-05-20 12:30:05",
+  "idDisciplina": 386,
+  "Titulo": "justo maecenas rhoncus aliquam lacus",
+  "Assunto": "eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff8a"
+  },
+  "idAula": 81,
+  "DateInicio": "2019-12-22 22:36:22",
+  "dateFim": "2021-01-18 14:12:39",
+  "idDisciplina": 87,
+  "Titulo": "velit eu est congue elementum",
+  "Assunto": "cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff8b"
+  },
+  "idAula": 82,
+  "DateInicio": "2020-08-01 11:28:32",
+  "dateFim": "2020-03-07 04:27:03",
+  "idDisciplina": 456,
+  "Titulo": "aenean sit amet justo morbi",
+  "Assunto": "nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff8c"
+  },
+  "idAula": 83,
+  "DateInicio": "2020-09-06 02:01:04",
+  "dateFim": "2020-12-07 16:53:25",
+  "idDisciplina": 413,
+  "Titulo": "consequat lectus in est risus",
+  "Assunto": "luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff8d"
+  },
+  "idAula": 84,
+  "DateInicio": "2021-02-02 20:07:08",
+  "dateFim": "2019-09-09 00:21:17",
+  "idDisciplina": 209,
+  "Titulo": "non mi integer ac neque",
+  "Assunto": "orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff8e"
+  },
+  "idAula": 85,
+  "DateInicio": "2021-09-05 13:32:44",
+  "dateFim": "2019-10-16 03:28:13",
+  "idDisciplina": 178,
+  "Titulo": "duis mattis egestas metus aenean",
+  "Assunto": "blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff8f"
+  },
+  "idAula": 86,
+  "DateInicio": "2019-11-08 22:55:34",
+  "dateFim": "2019-12-15 00:48:03",
+  "idDisciplina": 441,
+  "Titulo": "at ipsum ac tellus semper",
+  "Assunto": "fusce congue diam id ornare imperdiet sapien urna pretium nisl"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff90"
+  },
+  "idAula": 87,
+  "DateInicio": "2019-09-12 08:47:42",
+  "dateFim": "2020-04-10 22:20:16",
+  "idDisciplina": 279,
+  "Titulo": "quis turpis sed ante vivamus",
+  "Assunto": "ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff91"
+  },
+  "idAula": 88,
+  "DateInicio": "2019-09-10 13:24:12",
+  "dateFim": "2021-07-31 03:19:46",
+  "idDisciplina": 471,
+  "Titulo": "lacus at turpis donec posuere",
+  "Assunto": "in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff92"
+  },
+  "idAula": 89,
+  "DateInicio": "2020-12-28 05:59:43",
+  "dateFim": "2020-06-02 22:15:31",
+  "idDisciplina": 426,
+  "Titulo": "in ante vestibulum ante ipsum",
+  "Assunto": "justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff93"
+  },
+  "idAula": 90,
+  "DateInicio": "2019-08-11 17:39:22",
+  "dateFim": "2021-05-16 16:38:29",
+  "idDisciplina": 14,
+  "Titulo": "tellus nulla ut erat id",
+  "Assunto": "nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff94"
+  },
+  "idAula": 91,
+  "DateInicio": "2021-01-20 19:38:01",
+  "dateFim": "2021-03-21 21:43:42",
+  "idDisciplina": 277,
+  "Titulo": "ut massa volutpat convallis morbi",
+  "Assunto": "purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff95"
+  },
+  "idAula": 92,
+  "DateInicio": "2020-02-18 09:41:30",
+  "dateFim": "2020-11-04 08:28:22",
+  "idDisciplina": 82,
+  "Titulo": "adipiscing lorem vitae mattis nibh",
+  "Assunto": "vitae mattis nibh ligula nec sem duis aliquam convallis nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff96"
+  },
+  "idAula": 93,
+  "DateInicio": "2021-08-07 15:01:09",
+  "dateFim": "2020-01-07 13:26:24",
+  "idDisciplina": 97,
+  "Titulo": "sit amet eros suspendisse accumsan",
+  "Assunto": "habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff97"
+  },
+  "idAula": 94,
+  "DateInicio": "2020-04-07 01:04:41",
+  "dateFim": "2021-06-25 10:46:49",
+  "idDisciplina": 44,
+  "Titulo": "tristique in tempus sit amet",
+  "Assunto": "vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff98"
+  },
+  "idAula": 95,
+  "DateInicio": "2020-01-23 02:50:11",
+  "dateFim": "2020-09-06 23:11:14",
+  "idDisciplina": 270,
+  "Titulo": "in ante vestibulum ante ipsum",
+  "Assunto": "nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff99"
+  },
+  "idAula": 96,
+  "DateInicio": "2020-03-27 06:19:59",
+  "dateFim": "2021-02-08 14:11:30",
+  "idDisciplina": 453,
+  "Titulo": "non pretium quis lectus suspendisse",
+  "Assunto": "adipiscing elit proin risus praesent lectus vestibulum quam sapien varius"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff9a"
+  },
+  "idAula": 97,
+  "DateInicio": "2019-12-24 14:12:30",
+  "dateFim": "2020-11-24 04:05:55",
+  "idDisciplina": 499,
+  "Titulo": "aliquam convallis nunc proin at",
+  "Assunto": "nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff9b"
+  },
+  "idAula": 98,
+  "DateInicio": "2020-05-23 07:02:54",
+  "dateFim": "2020-04-11 05:47:26",
+  "idDisciplina": 288,
+  "Titulo": "rutrum nulla tellus in sagittis",
+  "Assunto": "vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff9c"
+  },
+  "idAula": 99,
+  "DateInicio": "2020-08-07 13:31:54",
+  "dateFim": "2020-08-22 00:58:55",
+  "idDisciplina": 399,
+  "Titulo": "hendrerit at vulputate vitae nisl",
+  "Assunto": "nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff9d"
+  },
+  "idAula": 100,
+  "DateInicio": "2020-08-17 14:46:01",
+  "dateFim": "2021-03-25 18:52:19",
+  "idDisciplina": 271,
+  "Titulo": "at feugiat non pretium quis",
+  "Assunto": "nisl aenean lectus pellentesque eget nunc donec quis orci eget orci"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff9e"
+  },
+  "idAula": 101,
+  "DateInicio": "2020-07-21 10:48:53",
+  "dateFim": "2021-04-15 02:08:15",
+  "idDisciplina": 404,
+  "Titulo": "justo in hac habitasse platea",
+  "Assunto": "vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ff9f"
+  },
+  "idAula": 102,
+  "DateInicio": "2021-06-10 04:25:26",
+  "dateFim": "2021-08-22 22:34:14",
+  "idDisciplina": 167,
+  "Titulo": "in tempor turpis nec euismod",
+  "Assunto": "consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa0"
+  },
+  "idAula": 103,
+  "DateInicio": "2021-07-23 15:48:05",
+  "dateFim": "2019-12-14 08:53:23",
+  "idDisciplina": 179,
+  "Titulo": "augue a suscipit nulla elit",
+  "Assunto": "a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa1"
+  },
+  "idAula": 104,
+  "DateInicio": "2020-12-13 19:35:27",
+  "dateFim": "2020-07-25 04:30:09",
+  "idDisciplina": 448,
+  "Titulo": "nibh ligula nec sem duis",
+  "Assunto": "turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa2"
+  },
+  "idAula": 105,
+  "DateInicio": "2019-10-27 21:42:41",
+  "dateFim": "2019-12-10 08:45:55",
+  "idDisciplina": 378,
+  "Titulo": "in leo maecenas pulvinar lobortis",
+  "Assunto": "lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa3"
+  },
+  "idAula": 106,
+  "DateInicio": "2020-06-04 14:09:48",
+  "dateFim": "2021-07-03 17:47:13",
+  "idDisciplina": 177,
+  "Titulo": "ut erat id mauris vulputate",
+  "Assunto": "cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa4"
+  },
+  "idAula": 107,
+  "DateInicio": "2020-01-15 15:26:02",
+  "dateFim": "2020-01-30 08:40:48",
+  "idDisciplina": 49,
+  "Titulo": "integer non velit donec diam",
+  "Assunto": "elit proin risus praesent lectus vestibulum quam sapien varius ut"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa5"
+  },
+  "idAula": 108,
+  "DateInicio": "2021-04-08 21:09:42",
+  "dateFim": "2021-03-21 23:10:12",
+  "idDisciplina": 471,
+  "Titulo": "vivamus in felis eu sapien",
+  "Assunto": "porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa6"
+  },
+  "idAula": 109,
+  "DateInicio": "2019-06-23 11:00:49",
+  "dateFim": "2021-05-25 03:42:43",
+  "idDisciplina": 459,
+  "Titulo": "quis orci nullam molestie nibh",
+  "Assunto": "amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa7"
+  },
+  "idAula": 110,
+  "DateInicio": "2021-01-13 13:53:49",
+  "dateFim": "2021-06-20 13:43:53",
+  "idDisciplina": 250,
+  "Titulo": "proin eu mi nulla ac",
+  "Assunto": "nulla suscipit ligula in lacus curabitur at ipsum ac tellus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa8"
+  },
+  "idAula": 111,
+  "DateInicio": "2020-01-05 13:13:13",
+  "dateFim": "2020-04-30 12:59:57",
+  "idDisciplina": 8,
+  "Titulo": "nec sem duis aliquam convallis",
+  "Assunto": "rutrum rutrum neque aenean auctor gravida sem praesent id massa id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffa9"
+  },
+  "idAula": 112,
+  "DateInicio": "2020-07-03 18:01:00",
+  "dateFim": "2021-01-15 23:57:10",
+  "idDisciplina": 167,
+  "Titulo": "eget tincidunt eget tempus vel",
+  "Assunto": "morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffaa"
+  },
+  "idAula": 113,
+  "DateInicio": "2019-09-30 18:22:15",
+  "dateFim": "2020-12-14 02:24:27",
+  "idDisciplina": 380,
+  "Titulo": "ultrices erat tortor sollicitudin mi",
+  "Assunto": "nulla tellus in sagittis dui vel nisl duis ac nibh fusce"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffab"
+  },
+  "idAula": 114,
+  "DateInicio": "2020-04-16 01:54:44",
+  "dateFim": "2020-07-08 10:39:22",
+  "idDisciplina": 387,
+  "Titulo": "maecenas ut massa quis augue",
+  "Assunto": "nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffac"
+  },
+  "idAula": 115,
+  "DateInicio": "2020-03-13 12:01:11",
+  "dateFim": "2020-09-03 21:06:20",
+  "idDisciplina": 282,
+  "Titulo": "elementum nullam varius nulla facilisi",
+  "Assunto": "nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffad"
+  },
+  "idAula": 116,
+  "DateInicio": "2021-02-26 07:04:54",
+  "dateFim": "2020-01-04 00:28:57",
+  "idDisciplina": 402,
+  "Titulo": "vivamus vel nulla eget eros",
+  "Assunto": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffae"
+  },
+  "idAula": 117,
+  "DateInicio": "2021-09-27 20:33:30",
+  "dateFim": "2020-02-11 08:00:35",
+  "idDisciplina": 9,
+  "Titulo": "consequat ut nulla sed accumsan",
+  "Assunto": "mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffaf"
+  },
+  "idAula": 118,
+  "DateInicio": "2020-03-22 21:59:30",
+  "dateFim": "2020-05-14 15:27:28",
+  "idDisciplina": 314,
+  "Titulo": "erat quisque erat eros viverra",
+  "Assunto": "quam sapien varius ut blandit non interdum in ante vestibulum ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb0"
+  },
+  "idAula": 119,
+  "DateInicio": "2020-07-28 07:52:56",
+  "dateFim": "2021-06-19 15:49:48",
+  "idDisciplina": 220,
+  "Titulo": "amet justo morbi ut odio",
+  "Assunto": "sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb1"
+  },
+  "idAula": 120,
+  "DateInicio": "2021-06-27 02:21:57",
+  "dateFim": "2020-06-25 21:17:24",
+  "idDisciplina": 314,
+  "Titulo": "habitasse platea dictumst maecenas ut",
+  "Assunto": "suscipit nulla elit ac nulla sed vel enim sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb2"
+  },
+  "idAula": 121,
+  "DateInicio": "2019-12-23 13:44:14",
+  "dateFim": "2021-01-17 15:40:02",
+  "idDisciplina": 480,
+  "Titulo": "libero rutrum ac lobortis vel",
+  "Assunto": "augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb3"
+  },
+  "idAula": 122,
+  "DateInicio": "2019-06-29 04:08:22",
+  "dateFim": "2020-12-09 00:33:11",
+  "idDisciplina": 265,
+  "Titulo": "rutrum nulla nunc purus phasellus",
+  "Assunto": "tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb4"
+  },
+  "idAula": 123,
+  "DateInicio": "2020-10-26 18:11:29",
+  "dateFim": "2020-09-25 18:18:43",
+  "idDisciplina": 24,
+  "Titulo": "quisque ut erat curabitur gravida",
+  "Assunto": "sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb5"
+  },
+  "idAula": 124,
+  "DateInicio": "2019-06-06 03:05:13",
+  "dateFim": "2020-08-25 13:11:38",
+  "idDisciplina": 230,
+  "Titulo": "faucibus cursus urna ut tellus",
+  "Assunto": "in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb6"
+  },
+  "idAula": 125,
+  "DateInicio": "2019-10-30 10:03:09",
+  "dateFim": "2021-03-02 16:11:11",
+  "idDisciplina": 446,
+  "Titulo": "sit amet consectetuer adipiscing elit",
+  "Assunto": "risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb7"
+  },
+  "idAula": 126,
+  "DateInicio": "2019-07-05 03:51:49",
+  "dateFim": "2020-02-05 02:56:32",
+  "idDisciplina": 458,
+  "Titulo": "et tempus semper est quam",
+  "Assunto": "fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb8"
+  },
+  "idAula": 127,
+  "DateInicio": "2021-03-24 07:23:43",
+  "dateFim": "2020-12-20 01:27:47",
+  "idDisciplina": 2,
+  "Titulo": "lectus in quam fringilla rhoncus",
+  "Assunto": "massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffb9"
+  },
+  "idAula": 128,
+  "DateInicio": "2020-05-07 01:15:15",
+  "dateFim": "2021-04-10 01:44:48",
+  "idDisciplina": 252,
+  "Titulo": "ac neque duis bibendum morbi",
+  "Assunto": "sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffba"
+  },
+  "idAula": 129,
+  "DateInicio": "2021-02-21 20:46:54",
+  "dateFim": "2021-04-20 02:26:52",
+  "idDisciplina": 476,
+  "Titulo": "massa tempor convallis nulla neque",
+  "Assunto": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffbb"
+  },
+  "idAula": 130,
+  "DateInicio": "2020-01-08 13:12:08",
+  "dateFim": "2021-09-01 20:44:16",
+  "idDisciplina": 275,
+  "Titulo": "pharetra magna vestibulum aliquet ultrices",
+  "Assunto": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffbc"
+  },
+  "idAula": 131,
+  "DateInicio": "2021-01-19 11:06:32",
+  "dateFim": "2019-11-08 22:05:26",
+  "idDisciplina": 167,
+  "Titulo": "sapien a libero nam dui",
+  "Assunto": "massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffbd"
+  },
+  "idAula": 132,
+  "DateInicio": "2019-07-28 21:44:40",
+  "dateFim": "2019-09-09 22:27:28",
+  "idDisciplina": 266,
+  "Titulo": "ut odio cras mi pede",
+  "Assunto": "amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffbe"
+  },
+  "idAula": 133,
+  "DateInicio": "2020-03-14 17:49:23",
+  "dateFim": "2020-03-29 03:28:25",
+  "idDisciplina": 226,
+  "Titulo": "nullam orci pede venenatis non",
+  "Assunto": "integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffbf"
+  },
+  "idAula": 134,
+  "DateInicio": "2021-06-09 01:55:33",
+  "dateFim": "2021-08-18 17:14:50",
+  "idDisciplina": 466,
+  "Titulo": "vehicula condimentum curabitur in libero",
+  "Assunto": "blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc0"
+  },
+  "idAula": 135,
+  "DateInicio": "2019-08-15 03:13:08",
+  "dateFim": "2020-04-07 18:55:31",
+  "idDisciplina": 121,
+  "Titulo": "amet eleifend pede libero quis",
+  "Assunto": "ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc1"
+  },
+  "idAula": 136,
+  "DateInicio": "2021-08-05 14:02:33",
+  "dateFim": "2020-04-03 21:26:00",
+  "idDisciplina": 194,
+  "Titulo": "ornare consequat lectus in est",
+  "Assunto": "sed vel enim sit amet nunc viverra dapibus nulla suscipit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc2"
+  },
+  "idAula": 137,
+  "DateInicio": "2019-07-04 23:01:01",
+  "dateFim": "2019-10-30 07:39:11",
+  "idDisciplina": 148,
+  "Titulo": "proin risus praesent lectus vestibulum",
+  "Assunto": "convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc3"
+  },
+  "idAula": 138,
+  "DateInicio": "2019-09-24 12:55:34",
+  "dateFim": "2020-07-16 17:47:17",
+  "idDisciplina": 263,
+  "Titulo": "pulvinar sed nisl nunc rhoncus",
+  "Assunto": "lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc4"
+  },
+  "idAula": 139,
+  "DateInicio": "2020-01-23 18:02:04",
+  "dateFim": "2020-05-10 13:34:13",
+  "idDisciplina": 346,
+  "Titulo": "nulla ultrices aliquet maecenas leo",
+  "Assunto": "adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc5"
+  },
+  "idAula": 140,
+  "DateInicio": "2019-08-15 15:31:23",
+  "dateFim": "2019-07-10 13:37:09",
+  "idDisciplina": 197,
+  "Titulo": "ridiculus mus vivamus vestibulum sagittis",
+  "Assunto": "nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc6"
+  },
+  "idAula": 141,
+  "DateInicio": "2021-02-02 14:45:17",
+  "dateFim": "2019-10-02 10:33:25",
+  "idDisciplina": 172,
+  "Titulo": "bibendum morbi non quam nec",
+  "Assunto": "ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc7"
+  },
+  "idAula": 142,
+  "DateInicio": "2019-11-09 08:42:51",
+  "dateFim": "2020-11-15 05:59:12",
+  "idDisciplina": 285,
+  "Titulo": "ultrices posuere cubilia curae donec",
+  "Assunto": "non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc8"
+  },
+  "idAula": 143,
+  "DateInicio": "2020-11-11 22:34:58",
+  "dateFim": "2019-09-07 01:10:20",
+  "idDisciplina": 74,
+  "Titulo": "donec ut dolor morbi vel",
+  "Assunto": "odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffc9"
+  },
+  "idAula": 144,
+  "DateInicio": "2020-09-06 17:03:35",
+  "dateFim": "2020-02-08 13:56:02",
+  "idDisciplina": 189,
+  "Titulo": "vivamus vestibulum sagittis sapien cum",
+  "Assunto": "faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffca"
+  },
+  "idAula": 145,
+  "DateInicio": "2021-07-02 14:43:05",
+  "dateFim": "2020-02-13 20:38:55",
+  "idDisciplina": 488,
+  "Titulo": "donec quis orci eget orci",
+  "Assunto": "quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffcb"
+  },
+  "idAula": 146,
+  "DateInicio": "2019-09-20 15:36:34",
+  "dateFim": "2019-10-05 07:50:12",
+  "idDisciplina": 395,
+  "Titulo": "donec pharetra magna vestibulum aliquet",
+  "Assunto": "ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffcc"
+  },
+  "idAula": 147,
+  "DateInicio": "2020-06-01 02:46:21",
+  "dateFim": "2021-05-25 00:31:57",
+  "idDisciplina": 88,
+  "Titulo": "neque libero convallis eget eleifend",
+  "Assunto": "leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffcd"
+  },
+  "idAula": 148,
+  "DateInicio": "2019-11-22 23:22:52",
+  "dateFim": "2021-08-04 03:08:07",
+  "idDisciplina": 469,
+  "Titulo": "montes nascetur ridiculus mus vivamus",
+  "Assunto": "dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffce"
+  },
+  "idAula": 149,
+  "DateInicio": "2021-03-11 22:05:59",
+  "dateFim": "2020-04-13 02:46:20",
+  "idDisciplina": 67,
+  "Titulo": "nisi eu orci mauris lacinia",
+  "Assunto": "odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffcf"
+  },
+  "idAula": 150,
+  "DateInicio": "2021-04-01 13:59:54",
+  "dateFim": "2020-03-16 14:51:52",
+  "idDisciplina": 63,
+  "Titulo": "nec sem duis aliquam convallis",
+  "Assunto": "convallis morbi odio odio elementum eu interdum eu tincidunt in leo"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd0"
+  },
+  "idAula": 151,
+  "DateInicio": "2020-03-06 14:39:15",
+  "dateFim": "2020-06-21 09:19:12",
+  "idDisciplina": 417,
+  "Titulo": "fusce congue diam id ornare",
+  "Assunto": "varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd1"
+  },
+  "idAula": 152,
+  "DateInicio": "2020-07-12 23:02:09",
+  "dateFim": "2021-09-21 16:39:09",
+  "idDisciplina": 239,
+  "Titulo": "amet eros suspendisse accumsan tortor",
+  "Assunto": "duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd2"
+  },
+  "idAula": 153,
+  "DateInicio": "2019-09-29 10:29:06",
+  "dateFim": "2020-04-29 09:23:47",
+  "idDisciplina": 410,
+  "Titulo": "et ultrices posuere cubilia curae",
+  "Assunto": "eleifend donec ut dolor morbi vel lectus in quam fringilla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd3"
+  },
+  "idAula": 154,
+  "DateInicio": "2020-03-16 03:20:22",
+  "dateFim": "2021-02-01 09:39:37",
+  "idDisciplina": 67,
+  "Titulo": "etiam justo etiam pretium iaculis",
+  "Assunto": "nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd4"
+  },
+  "idAula": 155,
+  "DateInicio": "2021-10-05 21:58:17",
+  "dateFim": "2020-01-31 23:57:41",
+  "idDisciplina": 360,
+  "Titulo": "praesent blandit nam nulla integer",
+  "Assunto": "aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd5"
+  },
+  "idAula": 156,
+  "DateInicio": "2019-12-13 09:27:21",
+  "dateFim": "2019-06-13 10:47:03",
+  "idDisciplina": 358,
+  "Titulo": "non quam nec dui luctus",
+  "Assunto": "luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd6"
+  },
+  "idAula": 157,
+  "DateInicio": "2021-04-03 20:13:56",
+  "dateFim": "2020-07-23 10:07:40",
+  "idDisciplina": 401,
+  "Titulo": "felis sed lacus morbi sem",
+  "Assunto": "volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd7"
+  },
+  "idAula": 158,
+  "DateInicio": "2020-06-11 07:42:26",
+  "dateFim": "2020-04-15 03:42:54",
+  "idDisciplina": 441,
+  "Titulo": "ultrices erat tortor sollicitudin mi",
+  "Assunto": "at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd8"
+  },
+  "idAula": 159,
+  "DateInicio": "2019-10-19 05:16:01",
+  "dateFim": "2019-07-14 12:25:18",
+  "idDisciplina": 10,
+  "Titulo": "odio justo sollicitudin ut suscipit",
+  "Assunto": "sed sagittis nam congue risus semper porta volutpat quam pede lobortis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffd9"
+  },
+  "idAula": 160,
+  "DateInicio": "2021-01-13 17:05:54",
+  "dateFim": "2019-08-16 15:37:28",
+  "idDisciplina": 448,
+  "Titulo": "est donec odio justo sollicitudin",
+  "Assunto": "nam nulla integer pede justo lacinia eget tincidunt eget tempus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffda"
+  },
+  "idAula": 161,
+  "DateInicio": "2019-10-24 05:45:33",
+  "dateFim": "2019-07-14 17:38:28",
+  "idDisciplina": 39,
+  "Titulo": "volutpat sapien arcu sed augue",
+  "Assunto": "amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffdb"
+  },
+  "idAula": 162,
+  "DateInicio": "2021-06-05 22:56:46",
+  "dateFim": "2021-08-13 06:27:39",
+  "idDisciplina": 209,
+  "Titulo": "ante ipsum primis in faucibus",
+  "Assunto": "sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffdc"
+  },
+  "idAula": 163,
+  "DateInicio": "2021-04-13 20:44:58",
+  "dateFim": "2020-03-09 17:54:48",
+  "idDisciplina": 497,
+  "Titulo": "lorem integer tincidunt ante vel",
+  "Assunto": "in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffdd"
+  },
+  "idAula": 164,
+  "DateInicio": "2020-05-08 04:31:22",
+  "dateFim": "2020-01-23 11:50:13",
+  "idDisciplina": 44,
+  "Titulo": "nisl nunc rhoncus dui vel",
+  "Assunto": "penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffde"
+  },
+  "idAula": 165,
+  "DateInicio": "2020-01-01 06:05:36",
+  "dateFim": "2020-01-27 19:04:13",
+  "idDisciplina": 229,
+  "Titulo": "morbi vestibulum velit id pretium",
+  "Assunto": "dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffdf"
+  },
+  "idAula": 166,
+  "DateInicio": "2020-07-31 18:18:46",
+  "dateFim": "2020-03-07 07:55:57",
+  "idDisciplina": 448,
+  "Titulo": "proin interdum mauris non ligula",
+  "Assunto": "donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe0"
+  },
+  "idAula": 167,
+  "DateInicio": "2019-10-27 04:12:52",
+  "dateFim": "2020-02-13 01:33:04",
+  "idDisciplina": 124,
+  "Titulo": "sit amet sem fusce consequat",
+  "Assunto": "et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe1"
+  },
+  "idAula": 168,
+  "DateInicio": "2021-01-19 02:47:10",
+  "dateFim": "2020-12-17 02:48:31",
+  "idDisciplina": 309,
+  "Titulo": "nunc donec quis orci eget",
+  "Assunto": "convallis nunc proin at turpis a pede posuere nonummy integer non velit donec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe2"
+  },
+  "idAula": 169,
+  "DateInicio": "2020-09-09 12:43:36",
+  "dateFim": "2020-10-18 16:14:46",
+  "idDisciplina": 206,
+  "Titulo": "sociis natoque penatibus et magnis",
+  "Assunto": "nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe3"
+  },
+  "idAula": 170,
+  "DateInicio": "2019-06-15 14:14:16",
+  "dateFim": "2020-10-22 11:40:47",
+  "idDisciplina": 28,
+  "Titulo": "habitasse platea dictumst aliquam augue",
+  "Assunto": "sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe4"
+  },
+  "idAula": 171,
+  "DateInicio": "2019-11-02 01:28:34",
+  "dateFim": "2020-05-02 11:39:48",
+  "idDisciplina": 328,
+  "Titulo": "posuere cubilia curae duis faucibus",
+  "Assunto": "vel ipsum praesent blandit lacinia erat vestibulum sed magna at"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe5"
+  },
+  "idAula": 172,
+  "DateInicio": "2020-06-11 06:47:15",
+  "dateFim": "2021-07-28 01:07:06",
+  "idDisciplina": 262,
+  "Titulo": "massa quis augue luctus tincidunt",
+  "Assunto": "convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe6"
+  },
+  "idAula": 173,
+  "DateInicio": "2020-06-19 06:53:24",
+  "dateFim": "2021-05-03 09:30:00",
+  "idDisciplina": 201,
+  "Titulo": "aliquet maecenas leo odio condimentum",
+  "Assunto": "leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe7"
+  },
+  "idAula": 174,
+  "DateInicio": "2020-01-11 09:13:51",
+  "dateFim": "2019-07-09 22:17:27",
+  "idDisciplina": 212,
+  "Titulo": "luctus nec molestie sed justo",
+  "Assunto": "suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe8"
+  },
+  "idAula": 175,
+  "DateInicio": "2021-10-05 02:09:33",
+  "dateFim": "2021-02-15 15:25:49",
+  "idDisciplina": 330,
+  "Titulo": "elementum in hac habitasse platea",
+  "Assunto": "ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffe9"
+  },
+  "idAula": 176,
+  "DateInicio": "2020-02-18 22:42:57",
+  "dateFim": "2021-07-01 20:50:53",
+  "idDisciplina": 116,
+  "Titulo": "quam sapien varius ut blandit",
+  "Assunto": "non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffea"
+  },
+  "idAula": 177,
+  "DateInicio": "2020-04-18 14:57:09",
+  "dateFim": "2020-01-08 10:15:02",
+  "idDisciplina": 212,
+  "Titulo": "sodales sed tincidunt eu felis",
+  "Assunto": "sollicitudin mi sit amet lobortis sapien sapien non mi integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffeb"
+  },
+  "idAula": 178,
+  "DateInicio": "2020-09-24 10:11:24",
+  "dateFim": "2021-06-23 00:50:16",
+  "idDisciplina": 383,
+  "Titulo": "mauris sit amet eros suspendisse",
+  "Assunto": "quisque erat eros viverra eget congue eget semper rutrum nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffec"
+  },
+  "idAula": 179,
+  "DateInicio": "2020-09-13 04:44:34",
+  "dateFim": "2019-12-12 21:50:43",
+  "idDisciplina": 162,
+  "Titulo": "magna vestibulum aliquet ultrices erat",
+  "Assunto": "vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffed"
+  },
+  "idAula": 180,
+  "DateInicio": "2020-12-08 23:01:09",
+  "dateFim": "2020-05-17 10:44:35",
+  "idDisciplina": 63,
+  "Titulo": "et ultrices posuere cubilia curae",
+  "Assunto": "arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffee"
+  },
+  "idAula": 181,
+  "DateInicio": "2019-10-12 14:48:25",
+  "dateFim": "2019-11-28 00:22:53",
+  "idDisciplina": 285,
+  "Titulo": "montes nascetur ridiculus mus vivamus",
+  "Assunto": "pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffef"
+  },
+  "idAula": 182,
+  "DateInicio": "2020-08-29 04:02:31",
+  "dateFim": "2021-08-13 07:34:50",
+  "idDisciplina": 397,
+  "Titulo": "pharetra magna ac consequat metus",
+  "Assunto": "ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff0"
+  },
+  "idAula": 183,
+  "DateInicio": "2020-07-31 13:18:48",
+  "dateFim": "2020-07-23 09:30:36",
+  "idDisciplina": 332,
+  "Titulo": "magna vulputate luctus cum sociis",
+  "Assunto": "morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff1"
+  },
+  "idAula": 184,
+  "DateInicio": "2020-02-22 19:13:33",
+  "dateFim": "2021-01-17 09:23:38",
+  "idDisciplina": 143,
+  "Titulo": "etiam vel augue vestibulum rutrum",
+  "Assunto": "vehicula consequat morbi a ipsum integer a nibh in quis justo"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff2"
+  },
+  "idAula": 185,
+  "DateInicio": "2019-11-03 19:28:06",
+  "dateFim": "2020-12-31 09:10:39",
+  "idDisciplina": 165,
+  "Titulo": "mi nulla ac enim in",
+  "Assunto": "turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff3"
+  },
+  "idAula": 186,
+  "DateInicio": "2021-02-21 23:43:03",
+  "dateFim": "2021-06-30 20:22:38",
+  "idDisciplina": 13,
+  "Titulo": "nam dui proin leo odio",
+  "Assunto": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff4"
+  },
+  "idAula": 187,
+  "DateInicio": "2020-01-26 12:48:19",
+  "dateFim": "2019-12-12 22:08:28",
+  "idDisciplina": 193,
+  "Titulo": "eleifend luctus ultricies eu nibh",
+  "Assunto": "ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff5"
+  },
+  "idAula": 188,
+  "DateInicio": "2020-02-12 17:40:28",
+  "dateFim": "2019-06-21 09:54:37",
+  "idDisciplina": 251,
+  "Titulo": "donec semper sapien a libero",
+  "Assunto": "a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff6"
+  },
+  "idAula": 189,
+  "DateInicio": "2021-03-05 13:55:48",
+  "dateFim": "2019-08-03 21:13:29",
+  "idDisciplina": 118,
+  "Titulo": "eu interdum eu tincidunt in",
+  "Assunto": "tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff7"
+  },
+  "idAula": 190,
+  "DateInicio": "2020-05-02 07:32:39",
+  "dateFim": "2019-11-24 12:57:19",
+  "idDisciplina": 416,
+  "Titulo": "id lobortis convallis tortor risus",
+  "Assunto": "eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff8"
+  },
+  "idAula": 191,
+  "DateInicio": "2021-01-22 12:47:24",
+  "dateFim": "2020-03-09 19:23:46",
+  "idDisciplina": 426,
+  "Titulo": "libero nam dui proin leo",
+  "Assunto": "quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fff9"
+  },
+  "idAula": 192,
+  "DateInicio": "2020-03-17 05:53:11",
+  "dateFim": "2020-09-22 13:48:29",
+  "idDisciplina": 246,
+  "Titulo": "nulla ultrices aliquet maecenas leo",
+  "Assunto": "sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fffa"
+  },
+  "idAula": 193,
+  "DateInicio": "2021-04-01 22:54:55",
+  "dateFim": "2020-12-01 15:15:08",
+  "idDisciplina": 320,
+  "Titulo": "sapien dignissim vestibulum vestibulum ante",
+  "Assunto": "ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fffb"
+  },
+  "idAula": 194,
+  "DateInicio": "2021-02-16 08:13:32",
+  "dateFim": "2021-02-15 09:45:51",
+  "idDisciplina": 377,
+  "Titulo": "tristique in tempus sit amet",
+  "Assunto": "ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fffc"
+  },
+  "idAula": 195,
+  "DateInicio": "2020-12-16 23:28:00",
+  "dateFim": "2019-08-02 04:06:52",
+  "idDisciplina": 489,
+  "Titulo": "id justo sit amet sapien",
+  "Assunto": "arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fffd"
+  },
+  "idAula": 196,
+  "DateInicio": "2020-12-31 14:46:40",
+  "dateFim": "2020-06-15 05:02:10",
+  "idDisciplina": 189,
+  "Titulo": "sapien non mi integer ac",
+  "Assunto": "risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978fffe"
+  },
+  "idAula": 197,
+  "DateInicio": "2020-11-09 15:24:30",
+  "dateFim": "2021-07-27 01:07:00",
+  "idDisciplina": 332,
+  "Titulo": "ligula pellentesque ultrices phasellus id",
+  "Assunto": "consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a978ffff"
+  },
+  "idAula": 198,
+  "DateInicio": "2020-12-17 12:23:22",
+  "dateFim": "2019-11-18 01:08:01",
+  "idDisciplina": 174,
+  "Titulo": "ac diam cras pellentesque volutpat",
+  "Assunto": "ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790000"
+  },
+  "idAula": 199,
+  "DateInicio": "2020-04-26 11:32:30",
+  "dateFim": "2021-01-12 21:36:02",
+  "idDisciplina": 217,
+  "Titulo": "massa volutpat convallis morbi odio",
+  "Assunto": "eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790001"
+  },
+  "idAula": 200,
+  "DateInicio": "2019-07-30 16:27:13",
+  "dateFim": "2020-07-27 00:01:54",
+  "idDisciplina": 462,
+  "Titulo": "vivamus in felis eu sapien",
+  "Assunto": "accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790002"
+  },
+  "idAula": 201,
+  "DateInicio": "2021-09-05 13:59:24",
+  "dateFim": "2019-12-22 00:57:04",
+  "idDisciplina": 180,
+  "Titulo": "in felis donec semper sapien",
+  "Assunto": "dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790003"
+  },
+  "idAula": 202,
+  "DateInicio": "2019-12-01 21:12:13",
+  "dateFim": "2020-07-25 13:42:10",
+  "idDisciplina": 288,
+  "Titulo": "quam sollicitudin vitae consectetuer eget",
+  "Assunto": "dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790004"
+  },
+  "idAula": 203,
+  "DateInicio": "2021-05-18 11:52:30",
+  "dateFim": "2021-04-01 12:29:46",
+  "idDisciplina": 271,
+  "Titulo": "in est risus auctor sed",
+  "Assunto": "posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790005"
+  },
+  "idAula": 204,
+  "DateInicio": "2020-02-08 15:05:45",
+  "dateFim": "2021-04-28 23:48:35",
+  "idDisciplina": 6,
+  "Titulo": "etiam vel augue vestibulum rutrum",
+  "Assunto": "convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790006"
+  },
+  "idAula": 205,
+  "DateInicio": "2021-06-26 20:37:22",
+  "dateFim": "2021-05-14 06:29:09",
+  "idDisciplina": 22,
+  "Titulo": "in hac habitasse platea dictumst",
+  "Assunto": "sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790007"
+  },
+  "idAula": 206,
+  "DateInicio": "2019-09-06 03:08:35",
+  "dateFim": "2019-09-19 03:59:02",
+  "idDisciplina": 88,
+  "Titulo": "enim sit amet nunc viverra",
+  "Assunto": "vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790008"
+  },
+  "idAula": 207,
+  "DateInicio": "2021-06-13 19:30:13",
+  "dateFim": "2019-06-29 06:32:49",
+  "idDisciplina": 427,
+  "Titulo": "sapien in sapien iaculis congue",
+  "Assunto": "velit vivamus vel nulla eget eros elementum pellentesque quisque porta"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790009"
+  },
+  "idAula": 208,
+  "DateInicio": "2021-07-02 04:27:41",
+  "dateFim": "2020-01-01 05:30:50",
+  "idDisciplina": 133,
+  "Titulo": "dui maecenas tristique est et",
+  "Assunto": "id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979000a"
+  },
+  "idAula": 209,
+  "DateInicio": "2019-12-11 13:51:17",
+  "dateFim": "2020-12-09 01:49:16",
+  "idDisciplina": 35,
+  "Titulo": "lobortis est phasellus sit amet",
+  "Assunto": "nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979000b"
+  },
+  "idAula": 210,
+  "DateInicio": "2020-11-30 12:33:29",
+  "dateFim": "2019-06-16 23:53:45",
+  "idDisciplina": 385,
+  "Titulo": "dis parturient montes nascetur ridiculus",
+  "Assunto": "elementum nullam varius nulla facilisi cras non velit nec nisi vulputate"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979000c"
+  },
+  "idAula": 211,
+  "DateInicio": "2020-10-08 23:16:57",
+  "dateFim": "2021-05-27 06:12:54",
+  "idDisciplina": 221,
+  "Titulo": "arcu libero rutrum ac lobortis",
+  "Assunto": "velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979000d"
+  },
+  "idAula": 212,
+  "DateInicio": "2020-03-23 22:56:35",
+  "dateFim": "2021-02-06 22:11:44",
+  "idDisciplina": 236,
+  "Titulo": "morbi a ipsum integer a",
+  "Assunto": "lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979000e"
+  },
+  "idAula": 213,
+  "DateInicio": "2020-04-29 22:47:12",
+  "dateFim": "2019-11-29 20:31:22",
+  "idDisciplina": 228,
+  "Titulo": "ultrices enim lorem ipsum dolor",
+  "Assunto": "platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979000f"
+  },
+  "idAula": 214,
+  "DateInicio": "2020-07-13 16:46:27",
+  "dateFim": "2021-07-06 10:53:45",
+  "idDisciplina": 29,
+  "Titulo": "condimentum id luctus nec molestie",
+  "Assunto": "tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790010"
+  },
+  "idAula": 215,
+  "DateInicio": "2019-07-05 08:44:04",
+  "dateFim": "2021-03-22 15:59:58",
+  "idDisciplina": 390,
+  "Titulo": "ultrices posuere cubilia curae mauris",
+  "Assunto": "nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790011"
+  },
+  "idAula": 216,
+  "DateInicio": "2020-07-13 00:38:53",
+  "dateFim": "2021-09-04 05:52:27",
+  "idDisciplina": 382,
+  "Titulo": "dapibus at diam nam tristique",
+  "Assunto": "interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790012"
+  },
+  "idAula": 217,
+  "DateInicio": "2019-11-25 05:55:45",
+  "dateFim": "2019-10-04 18:08:43",
+  "idDisciplina": 500,
+  "Titulo": "enim lorem ipsum dolor sit",
+  "Assunto": "justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790013"
+  },
+  "idAula": 218,
+  "DateInicio": "2021-09-20 10:18:06",
+  "dateFim": "2019-06-24 14:04:33",
+  "idDisciplina": 435,
+  "Titulo": "convallis nunc proin at turpis",
+  "Assunto": "ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790014"
+  },
+  "idAula": 219,
+  "DateInicio": "2020-12-20 12:11:17",
+  "dateFim": "2021-01-13 21:25:48",
+  "idDisciplina": 94,
+  "Titulo": "amet sapien dignissim vestibulum vestibulum",
+  "Assunto": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790015"
+  },
+  "idAula": 220,
+  "DateInicio": "2020-01-07 14:08:48",
+  "dateFim": "2021-07-31 01:04:36",
+  "idDisciplina": 237,
+  "Titulo": "tempus vivamus in felis eu",
+  "Assunto": "faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790016"
+  },
+  "idAula": 221,
+  "DateInicio": "2019-09-22 02:32:27",
+  "dateFim": "2020-03-21 17:33:56",
+  "idDisciplina": 456,
+  "Titulo": "elit ac nulla sed vel",
+  "Assunto": "pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790017"
+  },
+  "idAula": 222,
+  "DateInicio": "2019-09-14 05:23:02",
+  "dateFim": "2020-01-10 15:22:48",
+  "idDisciplina": 98,
+  "Titulo": "blandit non interdum in ante",
+  "Assunto": "pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790018"
+  },
+  "idAula": 223,
+  "DateInicio": "2021-02-28 16:44:51",
+  "dateFim": "2020-05-10 21:44:11",
+  "idDisciplina": 40,
+  "Titulo": "enim in tempor turpis nec",
+  "Assunto": "amet sem fusce consequat nulla nisl nunc nisl duis bibendum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790019"
+  },
+  "idAula": 224,
+  "DateInicio": "2019-08-25 02:23:40",
+  "dateFim": "2021-04-19 09:03:09",
+  "idDisciplina": 79,
+  "Titulo": "in faucibus orci luctus et",
+  "Assunto": "nulla sed accumsan felis ut at dolor quis odio consequat varius integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979001a"
+  },
+  "idAula": 225,
+  "DateInicio": "2020-12-17 08:59:46",
+  "dateFim": "2020-01-16 10:24:46",
+  "idDisciplina": 223,
+  "Titulo": "tincidunt lacus at velit vivamus",
+  "Assunto": "massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979001b"
+  },
+  "idAula": 226,
+  "DateInicio": "2019-07-21 15:41:50",
+  "dateFim": "2020-09-12 05:30:15",
+  "idDisciplina": 184,
+  "Titulo": "luctus ultricies eu nibh quisque",
+  "Assunto": "in porttitor pede justo eu massa donec dapibus duis at"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979001c"
+  },
+  "idAula": 227,
+  "DateInicio": "2019-07-26 20:24:30",
+  "dateFim": "2021-05-06 10:47:59",
+  "idDisciplina": 181,
+  "Titulo": "aliquet pulvinar sed nisl nunc",
+  "Assunto": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979001d"
+  },
+  "idAula": 228,
+  "DateInicio": "2019-09-13 11:28:50",
+  "dateFim": "2020-04-25 04:31:03",
+  "idDisciplina": 404,
+  "Titulo": "turpis elementum ligula vehicula consequat",
+  "Assunto": "nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979001e"
+  },
+  "idAula": 229,
+  "DateInicio": "2019-12-11 09:58:06",
+  "dateFim": "2021-07-21 04:22:32",
+  "idDisciplina": 57,
+  "Titulo": "et commodo vulputate justo in",
+  "Assunto": "sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979001f"
+  },
+  "idAula": 230,
+  "DateInicio": "2020-01-11 05:30:23",
+  "dateFim": "2021-07-29 00:56:28",
+  "idDisciplina": 468,
+  "Titulo": "ultrices posuere cubilia curae donec",
+  "Assunto": "velit eu est congue elementum in hac habitasse platea dictumst"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790020"
+  },
+  "idAula": 231,
+  "DateInicio": "2020-03-29 05:50:13",
+  "dateFim": "2019-08-31 07:28:47",
+  "idDisciplina": 240,
+  "Titulo": "mus etiam vel augue vestibulum",
+  "Assunto": "nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790021"
+  },
+  "idAula": 232,
+  "DateInicio": "2019-08-15 06:22:22",
+  "dateFim": "2020-10-03 02:33:40",
+  "idDisciplina": 183,
+  "Titulo": "adipiscing elit proin risus praesent",
+  "Assunto": "eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790022"
+  },
+  "idAula": 233,
+  "DateInicio": "2019-10-01 09:22:35",
+  "dateFim": "2020-07-18 10:59:20",
+  "idDisciplina": 107,
+  "Titulo": "in faucibus orci luctus et",
+  "Assunto": "dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790023"
+  },
+  "idAula": 234,
+  "DateInicio": "2020-01-01 01:42:20",
+  "dateFim": "2021-07-20 14:31:10",
+  "idDisciplina": 420,
+  "Titulo": "ut erat id mauris vulputate",
+  "Assunto": "vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790024"
+  },
+  "idAula": 235,
+  "DateInicio": "2019-10-04 02:44:39",
+  "dateFim": "2020-12-31 01:25:35",
+  "idDisciplina": 425,
+  "Titulo": "etiam pretium iaculis justo in",
+  "Assunto": "vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790025"
+  },
+  "idAula": 236,
+  "DateInicio": "2020-02-19 00:39:10",
+  "dateFim": "2020-03-28 01:42:18",
+  "idDisciplina": 250,
+  "Titulo": "suscipit nulla elit ac nulla",
+  "Assunto": "pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790026"
+  },
+  "idAula": 237,
+  "DateInicio": "2021-02-17 06:00:54",
+  "dateFim": "2019-06-25 03:36:53",
+  "idDisciplina": 47,
+  "Titulo": "ultrices aliquet maecenas leo odio",
+  "Assunto": "magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790027"
+  },
+  "idAula": 238,
+  "DateInicio": "2021-02-06 02:15:38",
+  "dateFim": "2021-09-05 14:45:12",
+  "idDisciplina": 28,
+  "Titulo": "imperdiet sapien urna pretium nisl",
+  "Assunto": "ullamcorper augue a suscipit nulla elit ac nulla sed vel"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790028"
+  },
+  "idAula": 239,
+  "DateInicio": "2021-08-31 05:58:12",
+  "dateFim": "2020-04-22 11:45:09",
+  "idDisciplina": 247,
+  "Titulo": "vel est donec odio justo",
+  "Assunto": "sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790029"
+  },
+  "idAula": 240,
+  "DateInicio": "2020-08-21 08:08:43",
+  "dateFim": "2019-07-06 10:42:57",
+  "idDisciplina": 70,
+  "Titulo": "rutrum neque aenean auctor gravida",
+  "Assunto": "convallis nunc proin at turpis a pede posuere nonummy integer non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979002a"
+  },
+  "idAula": 241,
+  "DateInicio": "2020-07-19 02:42:55",
+  "dateFim": "2021-09-02 10:25:12",
+  "idDisciplina": 101,
+  "Titulo": "lobortis sapien sapien non mi",
+  "Assunto": "ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979002b"
+  },
+  "idAula": 242,
+  "DateInicio": "2021-05-27 09:03:56",
+  "dateFim": "2019-12-28 03:29:20",
+  "idDisciplina": 204,
+  "Titulo": "vulputate luctus cum sociis natoque",
+  "Assunto": "convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979002c"
+  },
+  "idAula": 243,
+  "DateInicio": "2020-08-30 17:02:18",
+  "dateFim": "2021-08-23 22:17:25",
+  "idDisciplina": 412,
+  "Titulo": "amet consectetuer adipiscing elit proin",
+  "Assunto": "erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979002d"
+  },
+  "idAula": 244,
+  "DateInicio": "2021-08-12 08:27:21",
+  "dateFim": "2020-10-24 12:54:01",
+  "idDisciplina": 167,
+  "Titulo": "cursus vestibulum proin eu mi",
+  "Assunto": "ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979002e"
+  },
+  "idAula": 245,
+  "DateInicio": "2020-03-21 07:47:57",
+  "dateFim": "2019-07-23 09:36:57",
+  "idDisciplina": 48,
+  "Titulo": "in blandit ultrices enim lorem",
+  "Assunto": "nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979002f"
+  },
+  "idAula": 246,
+  "DateInicio": "2021-01-21 04:46:24",
+  "dateFim": "2020-10-27 10:22:27",
+  "idDisciplina": 245,
+  "Titulo": "ac nulla sed vel enim",
+  "Assunto": "non mi integer ac neque duis bibendum morbi non quam nec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790030"
+  },
+  "idAula": 247,
+  "DateInicio": "2020-08-20 02:29:19",
+  "dateFim": "2021-09-02 11:45:39",
+  "idDisciplina": 49,
+  "Titulo": "eros elementum pellentesque quisque porta",
+  "Assunto": "integer ac neque duis bibendum morbi non quam nec dui luctus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790031"
+  },
+  "idAula": 248,
+  "DateInicio": "2019-10-09 04:03:06",
+  "dateFim": "2019-09-08 15:21:10",
+  "idDisciplina": 253,
+  "Titulo": "id mauris vulputate elementum nullam",
+  "Assunto": "augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790032"
+  },
+  "idAula": 249,
+  "DateInicio": "2020-12-08 01:34:13",
+  "dateFim": "2019-12-02 09:55:53",
+  "idDisciplina": 125,
+  "Titulo": "quis odio consequat varius integer",
+  "Assunto": "dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790033"
+  },
+  "idAula": 250,
+  "DateInicio": "2019-11-08 04:03:02",
+  "dateFim": "2021-09-13 07:53:33",
+  "idDisciplina": 90,
+  "Titulo": "imperdiet et commodo vulputate justo",
+  "Assunto": "eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790034"
+  },
+  "idAula": 251,
+  "DateInicio": "2020-12-12 02:32:34",
+  "dateFim": "2019-11-23 17:34:01",
+  "idDisciplina": 229,
+  "Titulo": "vestibulum aliquet ultrices erat tortor",
+  "Assunto": "adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790035"
+  },
+  "idAula": 252,
+  "DateInicio": "2021-05-05 20:03:10",
+  "dateFim": "2020-05-18 08:26:43",
+  "idDisciplina": 121,
+  "Titulo": "amet turpis elementum ligula vehicula",
+  "Assunto": "odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790036"
+  },
+  "idAula": 253,
+  "DateInicio": "2019-08-22 23:39:56",
+  "dateFim": "2020-06-12 23:26:02",
+  "idDisciplina": 273,
+  "Titulo": "quisque id justo sit amet",
+  "Assunto": "in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790037"
+  },
+  "idAula": 254,
+  "DateInicio": "2019-08-16 21:46:41",
+  "dateFim": "2020-07-18 11:04:49",
+  "idDisciplina": 8,
+  "Titulo": "parturient montes nascetur ridiculus mus",
+  "Assunto": "suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790038"
+  },
+  "idAula": 255,
+  "DateInicio": "2020-09-26 14:00:02",
+  "dateFim": "2019-06-04 09:36:45",
+  "idDisciplina": 120,
+  "Titulo": "sed ante vivamus tortor duis",
+  "Assunto": "at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790039"
+  },
+  "idAula": 256,
+  "DateInicio": "2019-10-28 12:00:51",
+  "dateFim": "2021-08-13 01:17:34",
+  "idDisciplina": 373,
+  "Titulo": "nulla ultrices aliquet maecenas leo",
+  "Assunto": "augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979003a"
+  },
+  "idAula": 257,
+  "DateInicio": "2019-10-16 02:29:38",
+  "dateFim": "2020-07-21 16:12:17",
+  "idDisciplina": 316,
+  "Titulo": "integer a nibh in quis",
+  "Assunto": "nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979003b"
+  },
+  "idAula": 258,
+  "DateInicio": "2019-09-22 23:50:57",
+  "dateFim": "2019-11-04 12:17:13",
+  "idDisciplina": 218,
+  "Titulo": "suscipit a feugiat et eros",
+  "Assunto": "sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979003c"
+  },
+  "idAula": 259,
+  "DateInicio": "2021-05-19 14:23:09",
+  "dateFim": "2021-04-23 03:50:31",
+  "idDisciplina": 187,
+  "Titulo": "vehicula condimentum curabitur in libero",
+  "Assunto": "ut erat curabitur gravida nisi at nibh in hac habitasse platea"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979003d"
+  },
+  "idAula": 260,
+  "DateInicio": "2021-04-01 05:54:08",
+  "dateFim": "2021-05-31 16:52:31",
+  "idDisciplina": 237,
+  "Titulo": "curabitur in libero ut massa",
+  "Assunto": "odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979003e"
+  },
+  "idAula": 261,
+  "DateInicio": "2020-11-17 03:36:29",
+  "dateFim": "2020-11-23 04:39:43",
+  "idDisciplina": 351,
+  "Titulo": "vulputate luctus cum sociis natoque",
+  "Assunto": "amet justo morbi ut odio cras mi pede malesuada in imperdiet et"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979003f"
+  },
+  "idAula": 262,
+  "DateInicio": "2021-04-08 04:05:28",
+  "dateFim": "2021-07-28 21:00:10",
+  "idDisciplina": 18,
+  "Titulo": "turpis eget elit sodales scelerisque",
+  "Assunto": "nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790040"
+  },
+  "idAula": 263,
+  "DateInicio": "2019-11-12 13:49:14",
+  "dateFim": "2021-05-07 00:00:00",
+  "idDisciplina": 500,
+  "Titulo": "eget vulputate ut ultrices vel",
+  "Assunto": "velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790041"
+  },
+  "idAula": 264,
+  "DateInicio": "2020-02-18 11:54:54",
+  "dateFim": "2021-01-23 17:05:48",
+  "idDisciplina": 439,
+  "Titulo": "sapien quis libero nullam sit",
+  "Assunto": "penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790042"
+  },
+  "idAula": 265,
+  "DateInicio": "2021-04-12 18:05:08",
+  "dateFim": "2021-09-20 20:02:14",
+  "idDisciplina": 48,
+  "Titulo": "nisi venenatis tristique fusce congue",
+  "Assunto": "augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790043"
+  },
+  "idAula": 266,
+  "DateInicio": "2021-03-31 16:15:25",
+  "dateFim": "2019-12-28 10:55:12",
+  "idDisciplina": 499,
+  "Titulo": "est phasellus sit amet erat",
+  "Assunto": "at feugiat non pretium quis lectus suspendisse potenti in eleifend"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790044"
+  },
+  "idAula": 267,
+  "DateInicio": "2021-04-15 16:04:41",
+  "dateFim": "2020-07-23 18:03:17",
+  "idDisciplina": 144,
+  "Titulo": "dictumst maecenas ut massa quis",
+  "Assunto": "magnis dis parturient montes nascetur ridiculus mus etiam vel augue"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790045"
+  },
+  "idAula": 268,
+  "DateInicio": "2019-11-02 05:20:37",
+  "dateFim": "2020-03-27 21:31:22",
+  "idDisciplina": 180,
+  "Titulo": "arcu sed augue aliquam erat",
+  "Assunto": "mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790046"
+  },
+  "idAula": 269,
+  "DateInicio": "2020-02-17 09:37:40",
+  "dateFim": "2021-01-03 15:38:28",
+  "idDisciplina": 417,
+  "Titulo": "nibh in quis justo maecenas",
+  "Assunto": "sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790047"
+  },
+  "idAula": 270,
+  "DateInicio": "2020-01-01 06:22:55",
+  "dateFim": "2019-09-30 07:03:16",
+  "idDisciplina": 69,
+  "Titulo": "arcu sed augue aliquam erat",
+  "Assunto": "pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790048"
+  },
+  "idAula": 271,
+  "DateInicio": "2021-03-26 16:29:20",
+  "dateFim": "2020-03-11 13:27:54",
+  "idDisciplina": 332,
+  "Titulo": "elementum eu interdum eu tincidunt",
+  "Assunto": "condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790049"
+  },
+  "idAula": 272,
+  "DateInicio": "2020-08-09 11:03:24",
+  "dateFim": "2019-12-29 13:11:57",
+  "idDisciplina": 271,
+  "Titulo": "faucibus orci luctus et ultrices",
+  "Assunto": "fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979004a"
+  },
+  "idAula": 273,
+  "DateInicio": "2021-02-15 23:38:47",
+  "dateFim": "2019-06-23 15:17:32",
+  "idDisciplina": 467,
+  "Titulo": "enim sit amet nunc viverra",
+  "Assunto": "ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979004b"
+  },
+  "idAula": 274,
+  "DateInicio": "2019-08-17 22:43:06",
+  "dateFim": "2021-04-20 15:57:11",
+  "idDisciplina": 249,
+  "Titulo": "hac habitasse platea dictumst maecenas",
+  "Assunto": "erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979004c"
+  },
+  "idAula": 275,
+  "DateInicio": "2020-10-07 20:56:18",
+  "dateFim": "2020-06-01 22:40:39",
+  "idDisciplina": 250,
+  "Titulo": "rutrum nulla nunc purus phasellus",
+  "Assunto": "congue eget semper rutrum nulla nunc purus phasellus in felis donec semper"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979004d"
+  },
+  "idAula": 276,
+  "DateInicio": "2020-12-15 05:58:23",
+  "dateFim": "2019-08-12 08:36:58",
+  "idDisciplina": 254,
+  "Titulo": "sem sed sagittis nam congue",
+  "Assunto": "at vulputate vitae nisl aenean lectus pellentesque eget nunc donec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979004e"
+  },
+  "idAula": 277,
+  "DateInicio": "2019-08-01 02:10:19",
+  "dateFim": "2020-04-25 12:22:32",
+  "idDisciplina": 272,
+  "Titulo": "non mauris morbi non lectus",
+  "Assunto": "sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979004f"
+  },
+  "idAula": 278,
+  "DateInicio": "2021-07-29 23:04:21",
+  "dateFim": "2020-12-02 03:20:11",
+  "idDisciplina": 492,
+  "Titulo": "vel nisl duis ac nibh",
+  "Assunto": "pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790050"
+  },
+  "idAula": 279,
+  "DateInicio": "2021-06-18 20:57:53",
+  "dateFim": "2020-02-24 06:09:54",
+  "idDisciplina": 441,
+  "Titulo": "sit amet consectetuer adipiscing elit",
+  "Assunto": "hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790051"
+  },
+  "idAula": 280,
+  "DateInicio": "2020-05-15 21:39:13",
+  "dateFim": "2021-05-26 15:30:59",
+  "idDisciplina": 146,
+  "Titulo": "donec vitae nisi nam ultrices",
+  "Assunto": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790052"
+  },
+  "idAula": 281,
+  "DateInicio": "2021-09-04 02:01:16",
+  "dateFim": "2020-08-29 08:40:22",
+  "idDisciplina": 121,
+  "Titulo": "cursus id turpis integer aliquet",
+  "Assunto": "maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790053"
+  },
+  "idAula": 282,
+  "DateInicio": "2020-11-19 17:07:28",
+  "dateFim": "2021-04-21 09:00:51",
+  "idDisciplina": 223,
+  "Titulo": "sed ante vivamus tortor duis",
+  "Assunto": "eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790054"
+  },
+  "idAula": 283,
+  "DateInicio": "2021-08-10 04:38:10",
+  "dateFim": "2020-10-03 15:39:26",
+  "idDisciplina": 406,
+  "Titulo": "justo sollicitudin ut suscipit a",
+  "Assunto": "primis in faucibus orci luctus et ultrices posuere cubilia curae"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790055"
+  },
+  "idAula": 284,
+  "DateInicio": "2019-06-12 15:52:45",
+  "dateFim": "2021-03-19 02:22:32",
+  "idDisciplina": 207,
+  "Titulo": "tortor id nulla ultrices aliquet",
+  "Assunto": "ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790056"
+  },
+  "idAula": 285,
+  "DateInicio": "2021-05-24 21:59:19",
+  "dateFim": "2019-09-19 22:12:41",
+  "idDisciplina": 49,
+  "Titulo": "ut suscipit a feugiat et",
+  "Assunto": "amet justo morbi ut odio cras mi pede malesuada in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790057"
+  },
+  "idAula": 286,
+  "DateInicio": "2019-10-25 19:25:23",
+  "dateFim": "2020-11-19 21:32:33",
+  "idDisciplina": 320,
+  "Titulo": "lectus in est risus auctor",
+  "Assunto": "platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790058"
+  },
+  "idAula": 287,
+  "DateInicio": "2019-06-30 11:05:38",
+  "dateFim": "2019-09-09 19:23:49",
+  "idDisciplina": 177,
+  "Titulo": "tortor quis turpis sed ante",
+  "Assunto": "nullam sit amet turpis elementum ligula vehicula consequat morbi a"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790059"
+  },
+  "idAula": 288,
+  "DateInicio": "2020-01-17 02:15:47",
+  "dateFim": "2019-07-15 09:36:07",
+  "idDisciplina": 78,
+  "Titulo": "sed sagittis nam congue risus",
+  "Assunto": "suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979005a"
+  },
+  "idAula": 289,
+  "DateInicio": "2020-05-13 13:07:03",
+  "dateFim": "2020-12-06 08:01:36",
+  "idDisciplina": 408,
+  "Titulo": "nulla pede ullamcorper augue a",
+  "Assunto": "augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979005b"
+  },
+  "idAula": 290,
+  "DateInicio": "2019-10-10 03:55:08",
+  "dateFim": "2020-05-31 19:25:47",
+  "idDisciplina": 399,
+  "Titulo": "id massa id nisl venenatis",
+  "Assunto": "sapien sapien non mi integer ac neque duis bibendum morbi non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979005c"
+  },
+  "idAula": 291,
+  "DateInicio": "2020-01-20 10:54:34",
+  "dateFim": "2020-03-23 01:10:20",
+  "idDisciplina": 447,
+  "Titulo": "pede malesuada in imperdiet et",
+  "Assunto": "odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979005d"
+  },
+  "idAula": 292,
+  "DateInicio": "2021-08-21 16:20:22",
+  "dateFim": "2020-04-03 12:33:46",
+  "idDisciplina": 25,
+  "Titulo": "donec odio justo sollicitudin ut",
+  "Assunto": "nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979005e"
+  },
+  "idAula": 293,
+  "DateInicio": "2019-11-06 10:39:36",
+  "dateFim": "2019-08-01 20:35:12",
+  "idDisciplina": 434,
+  "Titulo": "feugiat et eros vestibulum ac",
+  "Assunto": "non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979005f"
+  },
+  "idAula": 294,
+  "DateInicio": "2020-07-07 00:47:05",
+  "dateFim": "2021-06-20 08:45:11",
+  "idDisciplina": 353,
+  "Titulo": "in sapien iaculis congue vivamus",
+  "Assunto": "neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790060"
+  },
+  "idAula": 295,
+  "DateInicio": "2019-12-30 09:09:03",
+  "dateFim": "2020-01-23 12:43:57",
+  "idDisciplina": 94,
+  "Titulo": "auctor gravida sem praesent id",
+  "Assunto": "proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790061"
+  },
+  "idAula": 296,
+  "DateInicio": "2019-10-10 02:17:01",
+  "dateFim": "2020-06-29 12:57:13",
+  "idDisciplina": 214,
+  "Titulo": "metus sapien ut nunc vestibulum",
+  "Assunto": "elementum nullam varius nulla facilisi cras non velit nec nisi vulputate"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790062"
+  },
+  "idAula": 297,
+  "DateInicio": "2019-06-14 23:34:08",
+  "dateFim": "2020-06-17 18:08:37",
+  "idDisciplina": 66,
+  "Titulo": "posuere felis sed lacus morbi",
+  "Assunto": "ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790063"
+  },
+  "idAula": 298,
+  "DateInicio": "2020-11-19 19:48:26",
+  "dateFim": "2021-01-16 05:53:14",
+  "idDisciplina": 33,
+  "Titulo": "amet lobortis sapien sapien non",
+  "Assunto": "cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790064"
+  },
+  "idAula": 299,
+  "DateInicio": "2021-04-02 12:41:32",
+  "dateFim": "2019-11-18 06:08:44",
+  "idDisciplina": 85,
+  "Titulo": "fringilla rhoncus mauris enim leo",
+  "Assunto": "sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790065"
+  },
+  "idAula": 300,
+  "DateInicio": "2021-07-17 15:31:58",
+  "dateFim": "2019-07-20 14:41:36",
+  "idDisciplina": 467,
+  "Titulo": "nisi eu orci mauris lacinia",
+  "Assunto": "amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790066"
+  },
+  "idAula": 301,
+  "DateInicio": "2020-10-18 13:39:59",
+  "dateFim": "2021-07-29 06:23:12",
+  "idDisciplina": 362,
+  "Titulo": "diam in magna bibendum imperdiet",
+  "Assunto": "et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790067"
+  },
+  "idAula": 302,
+  "DateInicio": "2021-08-09 19:09:45",
+  "dateFim": "2020-02-27 21:41:19",
+  "idDisciplina": 217,
+  "Titulo": "consequat morbi a ipsum integer",
+  "Assunto": "tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790068"
+  },
+  "idAula": 303,
+  "DateInicio": "2020-06-08 02:11:36",
+  "dateFim": "2021-02-09 09:12:06",
+  "idDisciplina": 220,
+  "Titulo": "eget semper rutrum nulla nunc",
+  "Assunto": "ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790069"
+  },
+  "idAula": 304,
+  "DateInicio": "2021-04-26 12:38:53",
+  "dateFim": "2020-08-02 04:53:11",
+  "idDisciplina": 107,
+  "Titulo": "tempus vel pede morbi porttitor",
+  "Assunto": "pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979006a"
+  },
+  "idAula": 305,
+  "DateInicio": "2020-07-29 05:34:36",
+  "dateFim": "2020-06-02 13:45:54",
+  "idDisciplina": 400,
+  "Titulo": "ut at dolor quis odio",
+  "Assunto": "in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979006b"
+  },
+  "idAula": 306,
+  "DateInicio": "2021-01-06 10:14:58",
+  "dateFim": "2020-01-07 16:13:03",
+  "idDisciplina": 175,
+  "Titulo": "nullam molestie nibh in lectus",
+  "Assunto": "suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979006c"
+  },
+  "idAula": 307,
+  "DateInicio": "2021-02-15 19:39:56",
+  "dateFim": "2019-11-03 13:45:42",
+  "idDisciplina": 304,
+  "Titulo": "fusce posuere felis sed lacus",
+  "Assunto": "id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979006d"
+  },
+  "idAula": 308,
+  "DateInicio": "2021-08-21 03:41:56",
+  "dateFim": "2020-11-29 06:24:32",
+  "idDisciplina": 277,
+  "Titulo": "ut dolor morbi vel lectus",
+  "Assunto": "maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979006e"
+  },
+  "idAula": 309,
+  "DateInicio": "2021-08-05 12:49:20",
+  "dateFim": "2019-12-09 23:57:40",
+  "idDisciplina": 222,
+  "Titulo": "hac habitasse platea dictumst etiam",
+  "Assunto": "neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979006f"
+  },
+  "idAula": 310,
+  "DateInicio": "2021-06-07 08:29:36",
+  "dateFim": "2021-03-16 11:10:32",
+  "idDisciplina": 202,
+  "Titulo": "tempus sit amet sem fusce",
+  "Assunto": "molestie nibh in lectus pellentesque at nulla suspendisse potenti cras"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790070"
+  },
+  "idAula": 311,
+  "DateInicio": "2020-05-08 22:51:42",
+  "dateFim": "2019-08-20 20:35:18",
+  "idDisciplina": 69,
+  "Titulo": "aliquet ultrices erat tortor sollicitudin",
+  "Assunto": "praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790071"
+  },
+  "idAula": 312,
+  "DateInicio": "2020-04-26 07:58:13",
+  "dateFim": "2019-11-29 14:30:01",
+  "idDisciplina": 308,
+  "Titulo": "pretium iaculis justo in hac",
+  "Assunto": "habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790072"
+  },
+  "idAula": 313,
+  "DateInicio": "2021-07-26 23:48:46",
+  "dateFim": "2019-10-19 14:14:46",
+  "idDisciplina": 434,
+  "Titulo": "posuere cubilia curae donec pharetra",
+  "Assunto": "ut blandit non interdum in ante vestibulum ante ipsum primis in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790073"
+  },
+  "idAula": 314,
+  "DateInicio": "2021-10-05 09:01:51",
+  "dateFim": "2020-04-24 22:43:44",
+  "idDisciplina": 260,
+  "Titulo": "sed vel enim sit amet",
+  "Assunto": "in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790074"
+  },
+  "idAula": 315,
+  "DateInicio": "2021-08-02 15:41:37",
+  "dateFim": "2020-11-08 20:05:44",
+  "idDisciplina": 313,
+  "Titulo": "dui proin leo odio porttitor",
+  "Assunto": "nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790075"
+  },
+  "idAula": 316,
+  "DateInicio": "2021-05-04 03:21:57",
+  "dateFim": "2019-12-22 18:44:52",
+  "idDisciplina": 305,
+  "Titulo": "id ligula suspendisse ornare consequat",
+  "Assunto": "habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790076"
+  },
+  "idAula": 317,
+  "DateInicio": "2020-02-17 22:16:37",
+  "dateFim": "2020-10-31 18:11:15",
+  "idDisciplina": 344,
+  "Titulo": "eu mi nulla ac enim",
+  "Assunto": "urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790077"
+  },
+  "idAula": 318,
+  "DateInicio": "2019-07-16 10:17:10",
+  "dateFim": "2019-07-18 21:33:34",
+  "idDisciplina": 176,
+  "Titulo": "eget tempus vel pede morbi",
+  "Assunto": "felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790078"
+  },
+  "idAula": 319,
+  "DateInicio": "2019-06-01 13:59:31",
+  "dateFim": "2020-03-11 17:53:27",
+  "idDisciplina": 27,
+  "Titulo": "sodales scelerisque mauris sit amet",
+  "Assunto": "at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790079"
+  },
+  "idAula": 320,
+  "DateInicio": "2020-09-23 03:50:34",
+  "dateFim": "2020-02-12 11:54:21",
+  "idDisciplina": 332,
+  "Titulo": "erat curabitur gravida nisi at",
+  "Assunto": "lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979007a"
+  },
+  "idAula": 321,
+  "DateInicio": "2020-12-19 01:34:12",
+  "dateFim": "2020-12-06 17:30:15",
+  "idDisciplina": 382,
+  "Titulo": "maecenas pulvinar lobortis est phasellus",
+  "Assunto": "duis faucibus accumsan odio curabitur convallis duis consequat dui nec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979007b"
+  },
+  "idAula": 322,
+  "DateInicio": "2021-09-10 10:44:27",
+  "dateFim": "2021-02-09 04:20:56",
+  "idDisciplina": 175,
+  "Titulo": "natoque penatibus et magnis dis",
+  "Assunto": "odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979007c"
+  },
+  "idAula": 323,
+  "DateInicio": "2020-08-13 23:43:12",
+  "dateFim": "2020-11-29 03:08:15",
+  "idDisciplina": 288,
+  "Titulo": "quis tortor id nulla ultrices",
+  "Assunto": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979007d"
+  },
+  "idAula": 324,
+  "DateInicio": "2020-09-11 15:45:07",
+  "dateFim": "2019-09-27 18:41:53",
+  "idDisciplina": 44,
+  "Titulo": "sem mauris laoreet ut rhoncus",
+  "Assunto": "non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979007e"
+  },
+  "idAula": 325,
+  "DateInicio": "2019-07-15 21:03:59",
+  "dateFim": "2020-03-26 23:54:25",
+  "idDisciplina": 49,
+  "Titulo": "imperdiet et commodo vulputate justo",
+  "Assunto": "at velit eu est congue elementum in hac habitasse platea"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979007f"
+  },
+  "idAula": 326,
+  "DateInicio": "2020-09-25 19:05:27",
+  "dateFim": "2019-08-06 04:25:34",
+  "idDisciplina": 146,
+  "Titulo": "proin at turpis a pede",
+  "Assunto": "ac diam cras pellentesque volutpat dui maecenas tristique est et"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790080"
+  },
+  "idAula": 327,
+  "DateInicio": "2021-09-20 21:04:48",
+  "dateFim": "2019-11-20 05:43:58",
+  "idDisciplina": 37,
+  "Titulo": "interdum venenatis turpis enim blandit",
+  "Assunto": "eget tincidunt eget tempus vel pede morbi porttitor lorem id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790081"
+  },
+  "idAula": 328,
+  "DateInicio": "2020-08-20 23:24:09",
+  "dateFim": "2020-03-10 05:43:07",
+  "idDisciplina": 130,
+  "Titulo": "lacus curabitur at ipsum ac",
+  "Assunto": "eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790082"
+  },
+  "idAula": 329,
+  "DateInicio": "2021-07-29 14:17:41",
+  "dateFim": "2020-09-29 07:04:04",
+  "idDisciplina": 426,
+  "Titulo": "risus dapibus augue vel accumsan",
+  "Assunto": "in faucibus orci luctus et ultrices posuere cubilia curae donec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790083"
+  },
+  "idAula": 330,
+  "DateInicio": "2020-09-08 10:27:12",
+  "dateFim": "2019-09-16 23:29:21",
+  "idDisciplina": 234,
+  "Titulo": "cubilia curae nulla dapibus dolor",
+  "Assunto": "nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790084"
+  },
+  "idAula": 331,
+  "DateInicio": "2019-08-26 04:49:24",
+  "dateFim": "2020-02-29 09:55:03",
+  "idDisciplina": 140,
+  "Titulo": "risus semper porta volutpat quam",
+  "Assunto": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790085"
+  },
+  "idAula": 332,
+  "DateInicio": "2020-02-22 23:24:42",
+  "dateFim": "2019-11-29 21:26:30",
+  "idDisciplina": 339,
+  "Titulo": "aenean sit amet justo morbi",
+  "Assunto": "tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790086"
+  },
+  "idAula": 333,
+  "DateInicio": "2020-02-03 10:35:57",
+  "dateFim": "2020-11-10 02:53:10",
+  "idDisciplina": 61,
+  "Titulo": "sit amet nulla quisque arcu",
+  "Assunto": "id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790087"
+  },
+  "idAula": 334,
+  "DateInicio": "2020-10-17 17:20:07",
+  "dateFim": "2020-09-11 02:01:42",
+  "idDisciplina": 261,
+  "Titulo": "et magnis dis parturient montes",
+  "Assunto": "erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790088"
+  },
+  "idAula": 335,
+  "DateInicio": "2019-09-11 23:11:50",
+  "dateFim": "2021-07-17 16:59:07",
+  "idDisciplina": 476,
+  "Titulo": "elementum pellentesque quisque porta volutpat",
+  "Assunto": "vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790089"
+  },
+  "idAula": 336,
+  "DateInicio": "2021-02-14 18:53:39",
+  "dateFim": "2020-05-25 14:12:27",
+  "idDisciplina": 308,
+  "Titulo": "aenean sit amet justo morbi",
+  "Assunto": "ac consequat metus sapien ut nunc vestibulum ante ipsum primis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979008a"
+  },
+  "idAula": 337,
+  "DateInicio": "2020-03-10 13:52:48",
+  "dateFim": "2020-05-25 07:54:26",
+  "idDisciplina": 419,
+  "Titulo": "dapibus dolor vel est donec",
+  "Assunto": "erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979008b"
+  },
+  "idAula": 338,
+  "DateInicio": "2019-11-14 19:06:58",
+  "dateFim": "2019-06-23 01:44:23",
+  "idDisciplina": 213,
+  "Titulo": "integer aliquet massa id lobortis",
+  "Assunto": "rutrum neque aenean auctor gravida sem praesent id massa id nisl"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979008c"
+  },
+  "idAula": 339,
+  "DateInicio": "2021-03-25 21:21:20",
+  "dateFim": "2019-11-07 10:54:57",
+  "idDisciplina": 275,
+  "Titulo": "egestas metus aenean fermentum donec",
+  "Assunto": "mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979008d"
+  },
+  "idAula": 340,
+  "DateInicio": "2019-07-18 18:58:01",
+  "dateFim": "2019-11-06 13:45:45",
+  "idDisciplina": 385,
+  "Titulo": "porttitor id consequat in consequat",
+  "Assunto": "eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979008e"
+  },
+  "idAula": 341,
+  "DateInicio": "2020-11-13 22:51:09",
+  "dateFim": "2020-07-29 01:12:11",
+  "idDisciplina": 257,
+  "Titulo": "lorem quisque ut erat curabitur",
+  "Assunto": "cum sociis natoque penatibus et magnis dis parturient montes nascetur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979008f"
+  },
+  "idAula": 342,
+  "DateInicio": "2020-06-18 03:12:09",
+  "dateFim": "2020-02-15 00:19:14",
+  "idDisciplina": 247,
+  "Titulo": "luctus et ultrices posuere cubilia",
+  "Assunto": "tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790090"
+  },
+  "idAula": 343,
+  "DateInicio": "2019-12-13 15:29:00",
+  "dateFim": "2019-07-21 17:55:02",
+  "idDisciplina": 234,
+  "Titulo": "mauris morbi non lectus aliquam",
+  "Assunto": "vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790091"
+  },
+  "idAula": 344,
+  "DateInicio": "2019-09-25 14:12:22",
+  "dateFim": "2020-08-03 20:26:18",
+  "idDisciplina": 82,
+  "Titulo": "ligula suspendisse ornare consequat lectus",
+  "Assunto": "nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790092"
+  },
+  "idAula": 345,
+  "DateInicio": "2020-04-04 06:56:20",
+  "dateFim": "2021-01-26 09:50:46",
+  "idDisciplina": 193,
+  "Titulo": "non velit nec nisi vulputate",
+  "Assunto": "nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790093"
+  },
+  "idAula": 346,
+  "DateInicio": "2021-01-26 18:50:59",
+  "dateFim": "2021-05-15 10:32:47",
+  "idDisciplina": 61,
+  "Titulo": "curabitur gravida nisi at nibh",
+  "Assunto": "ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979009b"
+  },
+  "idAula": 354,
+  "DateInicio": "2019-06-25 13:17:41",
+  "dateFim": "2020-12-04 14:42:49",
+  "idDisciplina": 171,
+  "Titulo": "dapibus at diam nam tristique",
+  "Assunto": "sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790094"
+  },
+  "idAula": 347,
+  "DateInicio": "2021-03-20 14:34:25",
+  "dateFim": "2021-01-21 23:55:21",
+  "idDisciplina": 210,
+  "Titulo": "vel ipsum praesent blandit lacinia",
+  "Assunto": "nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790095"
+  },
+  "idAula": 348,
+  "DateInicio": "2021-01-22 20:58:18",
+  "dateFim": "2021-09-29 23:00:48",
+  "idDisciplina": 254,
+  "Titulo": "est et tempus semper est",
+  "Assunto": "duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790096"
+  },
+  "idAula": 349,
+  "DateInicio": "2021-03-03 18:40:18",
+  "dateFim": "2020-05-28 15:06:18",
+  "idDisciplina": 277,
+  "Titulo": "consequat ut nulla sed accumsan",
+  "Assunto": "quisque porta volutpat erat quisque erat eros viverra eget congue"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790097"
+  },
+  "idAula": 350,
+  "DateInicio": "2020-06-21 07:07:41",
+  "dateFim": "2020-04-06 01:26:59",
+  "idDisciplina": 24,
+  "Titulo": "quisque ut erat curabitur gravida",
+  "Assunto": "massa id lobortis convallis tortor risus dapibus augue vel accumsan"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790098"
+  },
+  "idAula": 351,
+  "DateInicio": "2020-08-08 08:57:58",
+  "dateFim": "2020-06-20 05:58:34",
+  "idDisciplina": 211,
+  "Titulo": "vivamus metus arcu adipiscing molestie",
+  "Assunto": "ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790099"
+  },
+  "idAula": 352,
+  "DateInicio": "2020-08-16 09:03:19",
+  "dateFim": "2019-08-19 11:26:34",
+  "idDisciplina": 422,
+  "Titulo": "interdum mauris non ligula pellentesque",
+  "Assunto": "imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979009a"
+  },
+  "idAula": 353,
+  "DateInicio": "2020-11-22 18:50:23",
+  "dateFim": "2019-10-23 17:28:39",
+  "idDisciplina": 76,
+  "Titulo": "erat quisque erat eros viverra",
+  "Assunto": "turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979009c"
+  },
+  "idAula": 355,
+  "DateInicio": "2021-09-24 06:29:53",
+  "dateFim": "2020-07-30 05:47:18",
+  "idDisciplina": 471,
+  "Titulo": "nec condimentum neque sapien placerat",
+  "Assunto": "elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979009d"
+  },
+  "idAula": 356,
+  "DateInicio": "2021-02-28 10:24:39",
+  "dateFim": "2020-11-06 14:39:52",
+  "idDisciplina": 440,
+  "Titulo": "cras pellentesque volutpat dui maecenas",
+  "Assunto": "nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979009e"
+  },
+  "idAula": 357,
+  "DateInicio": "2020-06-17 00:49:47",
+  "dateFim": "2020-01-20 07:49:38",
+  "idDisciplina": 175,
+  "Titulo": "turpis donec posuere metus vitae",
+  "Assunto": "porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979009f"
+  },
+  "idAula": 358,
+  "DateInicio": "2020-12-17 21:03:55",
+  "dateFim": "2021-07-29 17:03:07",
+  "idDisciplina": 191,
+  "Titulo": "ante ipsum primis in faucibus",
+  "Assunto": "in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a0"
+  },
+  "idAula": 359,
+  "DateInicio": "2021-09-19 08:02:01",
+  "dateFim": "2021-01-21 13:38:48",
+  "idDisciplina": 437,
+  "Titulo": "odio justo sollicitudin ut suscipit",
+  "Assunto": "massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a1"
+  },
+  "idAula": 360,
+  "DateInicio": "2019-09-26 12:38:21",
+  "dateFim": "2021-09-18 21:10:02",
+  "idDisciplina": 35,
+  "Titulo": "tincidunt nulla mollis molestie lorem",
+  "Assunto": "volutpat dui maecenas tristique est et tempus semper est quam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a2"
+  },
+  "idAula": 361,
+  "DateInicio": "2020-02-18 16:30:44",
+  "dateFim": "2020-01-12 23:32:31",
+  "idDisciplina": 112,
+  "Titulo": "vel est donec odio justo",
+  "Assunto": "ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a3"
+  },
+  "idAula": 362,
+  "DateInicio": "2021-04-28 08:31:45",
+  "dateFim": "2020-03-16 05:43:21",
+  "idDisciplina": 71,
+  "Titulo": "pretium nisl ut volutpat sapien",
+  "Assunto": "vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a4"
+  },
+  "idAula": 363,
+  "DateInicio": "2019-10-31 13:13:56",
+  "dateFim": "2021-08-23 18:20:12",
+  "idDisciplina": 18,
+  "Titulo": "enim leo rhoncus sed vestibulum",
+  "Assunto": "lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a5"
+  },
+  "idAula": 364,
+  "DateInicio": "2019-12-07 02:05:19",
+  "dateFim": "2019-06-17 21:01:20",
+  "idDisciplina": 54,
+  "Titulo": "at nibh in hac habitasse",
+  "Assunto": "cum sociis natoque penatibus et magnis dis parturient montes nascetur"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a6"
+  },
+  "idAula": 365,
+  "DateInicio": "2021-08-22 15:05:46",
+  "dateFim": "2020-09-05 08:56:45",
+  "idDisciplina": 487,
+  "Titulo": "varius nulla facilisi cras non",
+  "Assunto": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a7"
+  },
+  "idAula": 366,
+  "DateInicio": "2021-08-31 09:37:39",
+  "dateFim": "2021-08-08 18:17:52",
+  "idDisciplina": 349,
+  "Titulo": "sapien urna pretium nisl ut",
+  "Assunto": "leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a8"
+  },
+  "idAula": 367,
+  "DateInicio": "2020-11-25 03:53:57",
+  "dateFim": "2021-06-23 11:09:14",
+  "idDisciplina": 440,
+  "Titulo": "tempus semper est quam pharetra",
+  "Assunto": "nulla elit ac nulla sed vel enim sit amet nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900a9"
+  },
+  "idAula": 368,
+  "DateInicio": "2020-08-10 06:18:16",
+  "dateFim": "2019-10-24 16:03:37",
+  "idDisciplina": 350,
+  "Titulo": "faucibus orci luctus et ultrices",
+  "Assunto": "erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900aa"
+  },
+  "idAula": 369,
+  "DateInicio": "2021-02-08 18:12:13",
+  "dateFim": "2021-07-31 23:24:36",
+  "idDisciplina": 190,
+  "Titulo": "aenean auctor gravida sem praesent",
+  "Assunto": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ab"
+  },
+  "idAula": 370,
+  "DateInicio": "2021-09-10 19:49:17",
+  "dateFim": "2021-01-06 01:05:47",
+  "idDisciplina": 347,
+  "Titulo": "adipiscing elit proin risus praesent",
+  "Assunto": "platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ac"
+  },
+  "idAula": 371,
+  "DateInicio": "2021-09-14 02:18:24",
+  "dateFim": "2020-12-15 15:09:32",
+  "idDisciplina": 205,
+  "Titulo": "lacinia aenean sit amet justo",
+  "Assunto": "quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ad"
+  },
+  "idAula": 372,
+  "DateInicio": "2021-05-23 02:45:49",
+  "dateFim": "2021-04-19 08:34:22",
+  "idDisciplina": 109,
+  "Titulo": "a feugiat et eros vestibulum",
+  "Assunto": "in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ae"
+  },
+  "idAula": 373,
+  "DateInicio": "2020-06-03 12:43:44",
+  "dateFim": "2020-02-06 07:56:51",
+  "idDisciplina": 427,
+  "Titulo": "eu massa donec dapibus duis",
+  "Assunto": "diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900af"
+  },
+  "idAula": 374,
+  "DateInicio": "2019-12-19 22:14:29",
+  "dateFim": "2020-03-31 01:13:04",
+  "idDisciplina": 492,
+  "Titulo": "nulla pede ullamcorper augue a",
+  "Assunto": "leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b0"
+  },
+  "idAula": 375,
+  "DateInicio": "2019-10-16 15:53:27",
+  "dateFim": "2021-06-02 17:18:23",
+  "idDisciplina": 118,
+  "Titulo": "metus sapien ut nunc vestibulum",
+  "Assunto": "ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b1"
+  },
+  "idAula": 376,
+  "DateInicio": "2021-06-10 15:34:39",
+  "dateFim": "2020-04-07 01:38:23",
+  "idDisciplina": 268,
+  "Titulo": "dapibus dolor vel est donec",
+  "Assunto": "dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b2"
+  },
+  "idAula": 377,
+  "DateInicio": "2020-01-16 19:36:06",
+  "dateFim": "2021-03-14 05:51:26",
+  "idDisciplina": 407,
+  "Titulo": "quis lectus suspendisse potenti in",
+  "Assunto": "in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b3"
+  },
+  "idAula": 378,
+  "DateInicio": "2020-02-25 05:09:21",
+  "dateFim": "2020-01-16 17:30:56",
+  "idDisciplina": 382,
+  "Titulo": "nulla ut erat id mauris",
+  "Assunto": "morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b4"
+  },
+  "idAula": 379,
+  "DateInicio": "2020-07-15 05:40:20",
+  "dateFim": "2020-10-01 19:00:22",
+  "idDisciplina": 281,
+  "Titulo": "odio cras mi pede malesuada",
+  "Assunto": "lorem id ligula suspendisse ornare consequat lectus in est risus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b5"
+  },
+  "idAula": 380,
+  "DateInicio": "2020-12-27 01:35:33",
+  "dateFim": "2019-10-22 08:29:45",
+  "idDisciplina": 154,
+  "Titulo": "potenti cras in purus eu",
+  "Assunto": "enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b6"
+  },
+  "idAula": 381,
+  "DateInicio": "2021-03-07 05:45:20",
+  "dateFim": "2020-05-01 03:23:34",
+  "idDisciplina": 369,
+  "Titulo": "id ornare imperdiet sapien urna",
+  "Assunto": "dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b7"
+  },
+  "idAula": 382,
+  "DateInicio": "2021-07-06 13:02:33",
+  "dateFim": "2021-05-08 12:00:25",
+  "idDisciplina": 42,
+  "Titulo": "ligula suspendisse ornare consequat lectus",
+  "Assunto": "quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b8"
+  },
+  "idAula": 383,
+  "DateInicio": "2021-01-23 03:14:57",
+  "dateFim": "2019-10-02 17:27:44",
+  "idDisciplina": 431,
+  "Titulo": "lorem id ligula suspendisse ornare",
+  "Assunto": "et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900b9"
+  },
+  "idAula": 384,
+  "DateInicio": "2019-06-11 20:22:34",
+  "dateFim": "2020-08-23 15:07:13",
+  "idDisciplina": 39,
+  "Titulo": "dictumst maecenas ut massa quis",
+  "Assunto": "consequat ut nulla sed accumsan felis ut at dolor quis odio"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ba"
+  },
+  "idAula": 385,
+  "DateInicio": "2021-06-08 20:59:39",
+  "dateFim": "2020-08-16 02:14:15",
+  "idDisciplina": 174,
+  "Titulo": "pretium quis lectus suspendisse potenti",
+  "Assunto": "nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900bb"
+  },
+  "idAula": 386,
+  "DateInicio": "2020-07-22 01:32:14",
+  "dateFim": "2021-03-24 18:36:18",
+  "idDisciplina": 140,
+  "Titulo": "tellus in sagittis dui vel",
+  "Assunto": "sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900bc"
+  },
+  "idAula": 387,
+  "DateInicio": "2020-07-17 13:51:09",
+  "dateFim": "2019-12-12 21:48:14",
+  "idDisciplina": 51,
+  "Titulo": "curabitur gravida nisi at nibh",
+  "Assunto": "pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900bd"
+  },
+  "idAula": 388,
+  "DateInicio": "2020-05-29 15:48:04",
+  "dateFim": "2020-02-11 10:46:04",
+  "idDisciplina": 337,
+  "Titulo": "ac neque duis bibendum morbi",
+  "Assunto": "ac neque duis bibendum morbi non quam nec dui luctus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900be"
+  },
+  "idAula": 389,
+  "DateInicio": "2021-09-16 16:04:01",
+  "dateFim": "2020-10-05 19:26:51",
+  "idDisciplina": 418,
+  "Titulo": "nisi at nibh in hac",
+  "Assunto": "dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900bf"
+  },
+  "idAula": 390,
+  "DateInicio": "2021-06-24 10:21:10",
+  "dateFim": "2020-02-11 01:15:19",
+  "idDisciplina": 92,
+  "Titulo": "turpis elementum ligula vehicula consequat",
+  "Assunto": "morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c0"
+  },
+  "idAula": 391,
+  "DateInicio": "2019-12-25 06:50:05",
+  "dateFim": "2021-08-21 17:06:58",
+  "idDisciplina": 309,
+  "Titulo": "leo odio condimentum id luctus",
+  "Assunto": "quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c1"
+  },
+  "idAula": 392,
+  "DateInicio": "2020-12-24 01:55:47",
+  "dateFim": "2019-12-22 13:41:14",
+  "idDisciplina": 428,
+  "Titulo": "ultricies eu nibh quisque id",
+  "Assunto": "in est risus auctor sed tristique in tempus sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c2"
+  },
+  "idAula": 393,
+  "DateInicio": "2020-04-08 23:13:21",
+  "dateFim": "2019-11-22 21:46:12",
+  "idDisciplina": 97,
+  "Titulo": "mi pede malesuada in imperdiet",
+  "Assunto": "posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c3"
+  },
+  "idAula": 394,
+  "DateInicio": "2021-07-08 20:42:30",
+  "dateFim": "2021-03-09 15:21:13",
+  "idDisciplina": 159,
+  "Titulo": "nunc nisl duis bibendum felis",
+  "Assunto": "vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c4"
+  },
+  "idAula": 395,
+  "DateInicio": "2019-07-22 12:56:39",
+  "dateFim": "2021-09-10 19:22:01",
+  "idDisciplina": 331,
+  "Titulo": "curae duis faucibus accumsan odio",
+  "Assunto": "ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c5"
+  },
+  "idAula": 396,
+  "DateInicio": "2019-09-25 05:20:39",
+  "dateFim": "2021-01-09 07:52:11",
+  "idDisciplina": 278,
+  "Titulo": "velit nec nisi vulputate nonummy",
+  "Assunto": "turpis enim blandit mi in porttitor pede justo eu massa donec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c6"
+  },
+  "idAula": 397,
+  "DateInicio": "2021-06-09 06:07:53",
+  "dateFim": "2021-05-08 05:42:48",
+  "idDisciplina": 323,
+  "Titulo": "vestibulum vestibulum ante ipsum primis",
+  "Assunto": "metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c7"
+  },
+  "idAula": 398,
+  "DateInicio": "2021-08-18 19:38:00",
+  "dateFim": "2019-12-31 05:17:10",
+  "idDisciplina": 249,
+  "Titulo": "nec condimentum neque sapien placerat",
+  "Assunto": "metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c8"
+  },
+  "idAula": 399,
+  "DateInicio": "2019-09-16 20:35:19",
+  "dateFim": "2020-12-12 16:25:03",
+  "idDisciplina": 470,
+  "Titulo": "erat curabitur gravida nisi at",
+  "Assunto": "dui proin leo odio porttitor id consequat in consequat ut"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900c9"
+  },
+  "idAula": 400,
+  "DateInicio": "2021-06-29 12:58:50",
+  "dateFim": "2019-07-15 21:29:29",
+  "idDisciplina": 485,
+  "Titulo": "donec quis orci eget orci",
+  "Assunto": "tristique in tempus sit amet sem fusce consequat nulla nisl nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ca"
+  },
+  "idAula": 401,
+  "DateInicio": "2019-10-15 06:09:59",
+  "dateFim": "2020-12-03 06:05:39",
+  "idDisciplina": 327,
+  "Titulo": "lectus in est risus auctor",
+  "Assunto": "tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900cb"
+  },
+  "idAula": 402,
+  "DateInicio": "2021-04-04 21:33:53",
+  "dateFim": "2021-04-04 09:55:23",
+  "idDisciplina": 91,
+  "Titulo": "quam fringilla rhoncus mauris enim",
+  "Assunto": "justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900cc"
+  },
+  "idAula": 403,
+  "DateInicio": "2019-12-07 16:20:41",
+  "dateFim": "2019-10-23 20:43:00",
+  "idDisciplina": 444,
+  "Titulo": "cubilia curae mauris viverra diam",
+  "Assunto": "consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900cd"
+  },
+  "idAula": 404,
+  "DateInicio": "2020-04-23 13:58:03",
+  "dateFim": "2020-10-12 04:50:50",
+  "idDisciplina": 418,
+  "Titulo": "iaculis congue vivamus metus arcu",
+  "Assunto": "eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ce"
+  },
+  "idAula": 405,
+  "DateInicio": "2021-02-02 06:59:36",
+  "dateFim": "2021-03-16 08:15:34",
+  "idDisciplina": 192,
+  "Titulo": "maecenas ut massa quis augue",
+  "Assunto": "feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900cf"
+  },
+  "idAula": 406,
+  "DateInicio": "2019-10-14 23:15:16",
+  "dateFim": "2019-10-14 09:39:59",
+  "idDisciplina": 223,
+  "Titulo": "libero rutrum ac lobortis vel",
+  "Assunto": "gravida sem praesent id massa id nisl venenatis lacinia aenean sit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d0"
+  },
+  "idAula": 407,
+  "DateInicio": "2019-09-23 14:26:03",
+  "dateFim": "2019-10-13 14:29:31",
+  "idDisciplina": 436,
+  "Titulo": "ultrices posuere cubilia curae mauris",
+  "Assunto": "pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d1"
+  },
+  "idAula": 408,
+  "DateInicio": "2021-04-07 12:10:21",
+  "dateFim": "2021-01-05 15:23:40",
+  "idDisciplina": 171,
+  "Titulo": "porttitor id consequat in consequat",
+  "Assunto": "nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d2"
+  },
+  "idAula": 409,
+  "DateInicio": "2021-10-05 18:31:35",
+  "dateFim": "2021-05-16 11:43:01",
+  "idDisciplina": 328,
+  "Titulo": "nascetur ridiculus mus etiam vel",
+  "Assunto": "non sodales sed tincidunt eu felis fusce posuere felis sed lacus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d3"
+  },
+  "idAula": 410,
+  "DateInicio": "2021-08-26 05:02:59",
+  "dateFim": "2019-09-06 23:14:54",
+  "idDisciplina": 339,
+  "Titulo": "diam in magna bibendum imperdiet",
+  "Assunto": "quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d4"
+  },
+  "idAula": 411,
+  "DateInicio": "2021-07-23 01:39:42",
+  "dateFim": "2020-09-15 01:39:18",
+  "idDisciplina": 156,
+  "Titulo": "fusce posuere felis sed lacus",
+  "Assunto": "arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d5"
+  },
+  "idAula": 412,
+  "DateInicio": "2019-12-05 10:44:24",
+  "dateFim": "2021-02-18 22:51:55",
+  "idDisciplina": 241,
+  "Titulo": "tellus semper interdum mauris ullamcorper",
+  "Assunto": "aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d6"
+  },
+  "idAula": 413,
+  "DateInicio": "2021-04-20 01:58:29",
+  "dateFim": "2021-03-23 23:04:41",
+  "idDisciplina": 468,
+  "Titulo": "vestibulum sit amet cursus id",
+  "Assunto": "cras in purus eu magna vulputate luctus cum sociis natoque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d7"
+  },
+  "idAula": 414,
+  "DateInicio": "2020-06-29 10:43:58",
+  "dateFim": "2021-02-01 01:58:52",
+  "idDisciplina": 51,
+  "Titulo": "nunc proin at turpis a",
+  "Assunto": "luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d8"
+  },
+  "idAula": 415,
+  "DateInicio": "2020-05-19 20:40:48",
+  "dateFim": "2020-08-24 03:33:37",
+  "idDisciplina": 227,
+  "Titulo": "eget eros elementum pellentesque quisque",
+  "Assunto": "et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900d9"
+  },
+  "idAula": 416,
+  "DateInicio": "2020-07-04 08:08:10",
+  "dateFim": "2021-02-02 19:56:33",
+  "idDisciplina": 410,
+  "Titulo": "rhoncus sed vestibulum sit amet",
+  "Assunto": "erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900da"
+  },
+  "idAula": 417,
+  "DateInicio": "2020-12-01 03:10:39",
+  "dateFim": "2019-12-31 12:32:25",
+  "idDisciplina": 473,
+  "Titulo": "hac habitasse platea dictumst morbi",
+  "Assunto": "volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900db"
+  },
+  "idAula": 418,
+  "DateInicio": "2021-07-26 13:12:07",
+  "dateFim": "2020-04-10 09:39:40",
+  "idDisciplina": 423,
+  "Titulo": "est donec odio justo sollicitudin",
+  "Assunto": "pretium quis lectus suspendisse potenti in eleifend quam a odio in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900dc"
+  },
+  "idAula": 419,
+  "DateInicio": "2021-05-03 13:01:16",
+  "dateFim": "2020-08-05 04:02:32",
+  "idDisciplina": 391,
+  "Titulo": "ultrices posuere cubilia curae donec",
+  "Assunto": "nisi at nibh in hac habitasse platea dictumst aliquam augue quam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900dd"
+  },
+  "idAula": 420,
+  "DateInicio": "2019-12-01 04:59:42",
+  "dateFim": "2020-07-12 11:16:05",
+  "idDisciplina": 69,
+  "Titulo": "sollicitudin ut suscipit a feugiat",
+  "Assunto": "quis orci eget orci vehicula condimentum curabitur in libero ut"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900de"
+  },
+  "idAula": 421,
+  "DateInicio": "2020-02-17 08:10:25",
+  "dateFim": "2021-01-07 03:16:46",
+  "idDisciplina": 291,
+  "Titulo": "nulla ut erat id mauris",
+  "Assunto": "quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900df"
+  },
+  "idAula": 422,
+  "DateInicio": "2019-09-05 03:51:23",
+  "dateFim": "2021-04-05 00:44:13",
+  "idDisciplina": 129,
+  "Titulo": "amet nunc viverra dapibus nulla",
+  "Assunto": "at nulla suspendisse potenti cras in purus eu magna vulputate"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e0"
+  },
+  "idAula": 423,
+  "DateInicio": "2021-04-15 13:49:41",
+  "dateFim": "2020-11-09 03:04:01",
+  "idDisciplina": 146,
+  "Titulo": "eu magna vulputate luctus cum",
+  "Assunto": "congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e1"
+  },
+  "idAula": 424,
+  "DateInicio": "2020-06-03 17:58:28",
+  "dateFim": "2020-10-11 19:19:15",
+  "idDisciplina": 470,
+  "Titulo": "eleifend pede libero quis orci",
+  "Assunto": "sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e2"
+  },
+  "idAula": 425,
+  "DateInicio": "2020-12-20 05:22:41",
+  "dateFim": "2021-10-01 12:40:51",
+  "idDisciplina": 452,
+  "Titulo": "id justo sit amet sapien",
+  "Assunto": "vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e3"
+  },
+  "idAula": 426,
+  "DateInicio": "2020-08-19 10:31:16",
+  "dateFim": "2019-10-03 08:17:30",
+  "idDisciplina": 331,
+  "Titulo": "dictumst etiam faucibus cursus urna",
+  "Assunto": "cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e4"
+  },
+  "idAula": 427,
+  "DateInicio": "2019-06-04 12:46:37",
+  "dateFim": "2019-08-13 11:01:15",
+  "idDisciplina": 304,
+  "Titulo": "vestibulum ante ipsum primis in",
+  "Assunto": "at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e5"
+  },
+  "idAula": 428,
+  "DateInicio": "2020-08-26 12:56:08",
+  "dateFim": "2020-01-14 21:51:21",
+  "idDisciplina": 327,
+  "Titulo": "fermentum justo nec condimentum neque",
+  "Assunto": "nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e6"
+  },
+  "idAula": 429,
+  "DateInicio": "2020-09-23 12:19:37",
+  "dateFim": "2019-08-02 14:57:23",
+  "idDisciplina": 389,
+  "Titulo": "dolor quis odio consequat varius",
+  "Assunto": "morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e7"
+  },
+  "idAula": 430,
+  "DateInicio": "2021-08-04 23:32:35",
+  "dateFim": "2021-02-13 04:15:18",
+  "idDisciplina": 483,
+  "Titulo": "felis donec semper sapien a",
+  "Assunto": "eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e8"
+  },
+  "idAula": 431,
+  "DateInicio": "2020-09-16 22:02:56",
+  "dateFim": "2021-07-09 21:54:25",
+  "idDisciplina": 374,
+  "Titulo": "dictumst maecenas ut massa quis",
+  "Assunto": "nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900e9"
+  },
+  "idAula": 432,
+  "DateInicio": "2019-09-07 06:43:57",
+  "dateFim": "2021-04-24 19:23:20",
+  "idDisciplina": 75,
+  "Titulo": "turpis integer aliquet massa id",
+  "Assunto": "scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ea"
+  },
+  "idAula": 433,
+  "DateInicio": "2021-06-26 13:54:07",
+  "dateFim": "2020-11-25 18:15:47",
+  "idDisciplina": 157,
+  "Titulo": "erat tortor sollicitudin mi sit",
+  "Assunto": "sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900eb"
+  },
+  "idAula": 434,
+  "DateInicio": "2021-05-15 01:22:40",
+  "dateFim": "2019-10-23 18:10:29",
+  "idDisciplina": 116,
+  "Titulo": "vulputate nonummy maecenas tincidunt lacus",
+  "Assunto": "curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ec"
+  },
+  "idAula": 435,
+  "DateInicio": "2021-08-26 10:20:36",
+  "dateFim": "2019-09-13 18:12:28",
+  "idDisciplina": 66,
+  "Titulo": "sem praesent id massa id",
+  "Assunto": "congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ed"
+  },
+  "idAula": 436,
+  "DateInicio": "2021-04-08 12:55:46",
+  "dateFim": "2019-11-02 01:16:40",
+  "idDisciplina": 188,
+  "Titulo": "justo eu massa donec dapibus",
+  "Assunto": "ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ee"
+  },
+  "idAula": 437,
+  "DateInicio": "2020-06-07 01:36:54",
+  "dateFim": "2020-07-19 07:56:16",
+  "idDisciplina": 397,
+  "Titulo": "suscipit nulla elit ac nulla",
+  "Assunto": "elementum in hac habitasse platea dictumst morbi vestibulum velit id"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ef"
+  },
+  "idAula": 438,
+  "DateInicio": "2020-05-30 19:44:13",
+  "dateFim": "2021-05-08 20:03:55",
+  "idDisciplina": 117,
+  "Titulo": "at nunc commodo placerat praesent",
+  "Assunto": "sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f0"
+  },
+  "idAula": 439,
+  "DateInicio": "2021-07-10 12:42:43",
+  "dateFim": "2019-07-29 07:51:46",
+  "idDisciplina": 366,
+  "Titulo": "bibendum morbi non quam nec",
+  "Assunto": "ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f1"
+  },
+  "idAula": 440,
+  "DateInicio": "2021-01-31 06:12:10",
+  "dateFim": "2019-07-20 18:03:14",
+  "idDisciplina": 499,
+  "Titulo": "mauris viverra diam vitae quam",
+  "Assunto": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f2"
+  },
+  "idAula": 441,
+  "DateInicio": "2020-12-05 23:05:04",
+  "dateFim": "2021-03-10 00:08:20",
+  "idDisciplina": 103,
+  "Titulo": "orci nullam molestie nibh in",
+  "Assunto": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f3"
+  },
+  "idAula": 442,
+  "DateInicio": "2019-08-17 19:41:10",
+  "dateFim": "2021-07-18 16:21:34",
+  "idDisciplina": 76,
+  "Titulo": "libero nam dui proin leo",
+  "Assunto": "ante ipsum primis in faucibus orci luctus et ultrices posuere"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f4"
+  },
+  "idAula": 443,
+  "DateInicio": "2021-08-09 20:19:48",
+  "dateFim": "2020-11-16 00:34:05",
+  "idDisciplina": 56,
+  "Titulo": "sit amet justo morbi ut",
+  "Assunto": "orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f5"
+  },
+  "idAula": 444,
+  "DateInicio": "2021-08-15 08:43:52",
+  "dateFim": "2019-08-29 18:20:42",
+  "idDisciplina": 312,
+  "Titulo": "molestie nibh in lectus pellentesque",
+  "Assunto": "orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f6"
+  },
+  "idAula": 445,
+  "DateInicio": "2020-03-30 02:13:54",
+  "dateFim": "2020-07-01 22:41:16",
+  "idDisciplina": 409,
+  "Titulo": "in tempor turpis nec euismod",
+  "Assunto": "quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f7"
+  },
+  "idAula": 446,
+  "DateInicio": "2019-07-01 04:05:19",
+  "dateFim": "2020-11-11 22:57:25",
+  "idDisciplina": 317,
+  "Titulo": "felis donec semper sapien a",
+  "Assunto": "semper rutrum nulla nunc purus phasellus in felis donec semper sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f8"
+  },
+  "idAula": 447,
+  "DateInicio": "2020-04-28 01:34:59",
+  "dateFim": "2021-06-04 01:29:20",
+  "idDisciplina": 220,
+  "Titulo": "libero quis orci nullam molestie",
+  "Assunto": "curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900f9"
+  },
+  "idAula": 448,
+  "DateInicio": "2019-12-17 21:09:29",
+  "dateFim": "2019-06-06 21:21:39",
+  "idDisciplina": 223,
+  "Titulo": "integer pede justo lacinia eget",
+  "Assunto": "vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900fa"
+  },
+  "idAula": 449,
+  "DateInicio": "2021-03-20 18:24:47",
+  "dateFim": "2021-08-30 08:05:51",
+  "idDisciplina": 10,
+  "Titulo": "turpis integer aliquet massa id",
+  "Assunto": "mi sit amet lobortis sapien sapien non mi integer ac neque duis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900fb"
+  },
+  "idAula": 450,
+  "DateInicio": "2021-02-24 14:51:10",
+  "dateFim": "2020-07-09 15:56:12",
+  "idDisciplina": 41,
+  "Titulo": "sit amet lobortis sapien sapien",
+  "Assunto": "placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900fc"
+  },
+  "idAula": 451,
+  "DateInicio": "2020-12-20 12:59:44",
+  "dateFim": "2020-09-06 08:14:57",
+  "idDisciplina": 275,
+  "Titulo": "sed augue aliquam erat volutpat",
+  "Assunto": "leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900fd"
+  },
+  "idAula": 452,
+  "DateInicio": "2019-09-11 02:04:04",
+  "dateFim": "2020-03-21 03:08:37",
+  "idDisciplina": 360,
+  "Titulo": "platea dictumst morbi vestibulum velit",
+  "Assunto": "elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900fe"
+  },
+  "idAula": 453,
+  "DateInicio": "2020-07-10 22:24:01",
+  "dateFim": "2019-12-07 09:49:13",
+  "idDisciplina": 273,
+  "Titulo": "nibh in quis justo maecenas",
+  "Assunto": "tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a97900ff"
+  },
+  "idAula": 454,
+  "DateInicio": "2021-04-03 05:15:03",
+  "dateFim": "2020-04-14 08:21:56",
+  "idDisciplina": 357,
+  "Titulo": "quisque id justo sit amet",
+  "Assunto": "pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790100"
+  },
+  "idAula": 455,
+  "DateInicio": "2019-10-28 12:03:14",
+  "dateFim": "2020-06-17 18:42:42",
+  "idDisciplina": 314,
+  "Titulo": "quis augue luctus tincidunt nulla",
+  "Assunto": "lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790101"
+  },
+  "idAula": 456,
+  "DateInicio": "2019-06-10 03:33:53",
+  "dateFim": "2019-08-14 06:59:02",
+  "idDisciplina": 242,
+  "Titulo": "orci luctus et ultrices posuere",
+  "Assunto": "sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790102"
+  },
+  "idAula": 457,
+  "DateInicio": "2020-04-01 10:28:38",
+  "dateFim": "2020-08-29 01:01:53",
+  "idDisciplina": 52,
+  "Titulo": "aenean auctor gravida sem praesent",
+  "Assunto": "a suscipit nulla elit ac nulla sed vel enim sit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790103"
+  },
+  "idAula": 458,
+  "DateInicio": "2021-04-29 13:48:48",
+  "dateFim": "2020-12-19 07:31:16",
+  "idDisciplina": 320,
+  "Titulo": "consequat dui nec nisi volutpat",
+  "Assunto": "massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790104"
+  },
+  "idAula": 459,
+  "DateInicio": "2019-06-30 17:16:18",
+  "dateFim": "2020-06-04 04:27:31",
+  "idDisciplina": 264,
+  "Titulo": "neque libero convallis eget eleifend",
+  "Assunto": "cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790105"
+  },
+  "idAula": 460,
+  "DateInicio": "2021-10-05 16:15:59",
+  "dateFim": "2021-02-10 00:01:18",
+  "idDisciplina": 127,
+  "Titulo": "hac habitasse platea dictumst maecenas",
+  "Assunto": "tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790106"
+  },
+  "idAula": 461,
+  "DateInicio": "2019-09-22 23:41:12",
+  "dateFim": "2021-06-10 03:09:02",
+  "idDisciplina": 494,
+  "Titulo": "sit amet eros suspendisse accumsan",
+  "Assunto": "dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790107"
+  },
+  "idAula": 462,
+  "DateInicio": "2020-03-15 05:37:34",
+  "dateFim": "2020-01-18 02:45:53",
+  "idDisciplina": 257,
+  "Titulo": "sollicitudin vitae consectetuer eget rutrum",
+  "Assunto": "id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790108"
+  },
+  "idAula": 463,
+  "DateInicio": "2021-08-25 04:54:18",
+  "dateFim": "2021-02-20 22:49:00",
+  "idDisciplina": 140,
+  "Titulo": "sem mauris laoreet ut rhoncus",
+  "Assunto": "pede libero quis orci nullam molestie nibh in lectus pellentesque at"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790109"
+  },
+  "idAula": 464,
+  "DateInicio": "2021-01-28 04:42:23",
+  "dateFim": "2021-07-16 01:26:55",
+  "idDisciplina": 77,
+  "Titulo": "ipsum primis in faucibus orci",
+  "Assunto": "curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979010a"
+  },
+  "idAula": 465,
+  "DateInicio": "2020-03-21 20:26:12",
+  "dateFim": "2020-07-21 23:17:38",
+  "idDisciplina": 418,
+  "Titulo": "vel nisl duis ac nibh",
+  "Assunto": "porttitor pede justo eu massa donec dapibus duis at velit eu est"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979010b"
+  },
+  "idAula": 466,
+  "DateInicio": "2021-09-25 15:12:43",
+  "dateFim": "2019-06-22 06:53:00",
+  "idDisciplina": 439,
+  "Titulo": "nulla nisl nunc nisl duis",
+  "Assunto": "elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979010c"
+  },
+  "idAula": 467,
+  "DateInicio": "2021-02-10 11:44:34",
+  "dateFim": "2020-06-29 18:54:40",
+  "idDisciplina": 7,
+  "Titulo": "ac est lacinia nisi venenatis",
+  "Assunto": "eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979010d"
+  },
+  "idAula": 468,
+  "DateInicio": "2019-12-30 12:47:58",
+  "dateFim": "2020-03-11 00:13:02",
+  "idDisciplina": 377,
+  "Titulo": "vitae ipsum aliquam non mauris",
+  "Assunto": "est quam pharetra magna ac consequat metus sapien ut nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979010e"
+  },
+  "idAula": 469,
+  "DateInicio": "2020-09-21 03:51:52",
+  "dateFim": "2020-12-27 12:04:40",
+  "idDisciplina": 486,
+  "Titulo": "mus etiam vel augue vestibulum",
+  "Assunto": "lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979010f"
+  },
+  "idAula": 470,
+  "DateInicio": "2020-05-02 05:29:10",
+  "dateFim": "2020-05-29 07:12:11",
+  "idDisciplina": 139,
+  "Titulo": "vulputate justo in blandit ultrices",
+  "Assunto": "ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790110"
+  },
+  "idAula": 471,
+  "DateInicio": "2021-03-17 03:20:33",
+  "dateFim": "2020-02-13 03:52:14",
+  "idDisciplina": 276,
+  "Titulo": "nisi at nibh in hac",
+  "Assunto": "posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790111"
+  },
+  "idAula": 472,
+  "DateInicio": "2020-04-06 14:39:15",
+  "dateFim": "2021-05-22 17:20:47",
+  "idDisciplina": 338,
+  "Titulo": "sapien cursus vestibulum proin eu",
+  "Assunto": "curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790112"
+  },
+  "idAula": 473,
+  "DateInicio": "2021-07-02 13:56:02",
+  "dateFim": "2020-09-27 14:18:17",
+  "idDisciplina": 186,
+  "Titulo": "at nunc commodo placerat praesent",
+  "Assunto": "ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790113"
+  },
+  "idAula": 474,
+  "DateInicio": "2020-01-08 09:35:34",
+  "dateFim": "2020-03-31 12:40:23",
+  "idDisciplina": 200,
+  "Titulo": "dapibus nulla suscipit ligula in",
+  "Assunto": "massa donec dapibus duis at velit eu est congue elementum in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790114"
+  },
+  "idAula": 475,
+  "DateInicio": "2019-11-17 12:49:44",
+  "dateFim": "2021-05-01 02:31:34",
+  "idDisciplina": 41,
+  "Titulo": "at lorem integer tincidunt ante",
+  "Assunto": "libero rutrum ac lobortis vel dapibus at diam nam tristique tortor"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790115"
+  },
+  "idAula": 476,
+  "DateInicio": "2021-05-27 17:38:07",
+  "dateFim": "2021-06-10 21:01:25",
+  "idDisciplina": 220,
+  "Titulo": "odio consequat varius integer ac",
+  "Assunto": "amet eleifend pede libero quis orci nullam molestie nibh in lectus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790116"
+  },
+  "idAula": 477,
+  "DateInicio": "2021-01-19 20:00:07",
+  "dateFim": "2019-12-11 16:56:08",
+  "idDisciplina": 198,
+  "Titulo": "cubilia curae nulla dapibus dolor",
+  "Assunto": "in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790117"
+  },
+  "idAula": 478,
+  "DateInicio": "2021-03-06 10:48:28",
+  "dateFim": "2020-05-22 07:56:01",
+  "idDisciplina": 259,
+  "Titulo": "vel augue vestibulum ante ipsum",
+  "Assunto": "convallis nunc proin at turpis a pede posuere nonummy integer non"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790118"
+  },
+  "idAula": 479,
+  "DateInicio": "2021-08-17 20:33:00",
+  "dateFim": "2021-02-05 13:36:32",
+  "idDisciplina": 339,
+  "Titulo": "blandit ultrices enim lorem ipsum",
+  "Assunto": "ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790119"
+  },
+  "idAula": 480,
+  "DateInicio": "2021-06-07 17:23:19",
+  "dateFim": "2021-08-04 13:45:13",
+  "idDisciplina": 356,
+  "Titulo": "orci luctus et ultrices posuere",
+  "Assunto": "non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979011a"
+  },
+  "idAula": 481,
+  "DateInicio": "2019-12-22 08:30:20",
+  "dateFim": "2021-03-22 05:25:03",
+  "idDisciplina": 174,
+  "Titulo": "suspendisse ornare consequat lectus in",
+  "Assunto": "sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979011b"
+  },
+  "idAula": 482,
+  "DateInicio": "2021-04-29 11:19:33",
+  "dateFim": "2021-02-06 13:27:28",
+  "idDisciplina": 63,
+  "Titulo": "dui vel sem sed sagittis",
+  "Assunto": "placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979011c"
+  },
+  "idAula": 483,
+  "DateInicio": "2021-09-07 10:46:12",
+  "dateFim": "2020-06-24 04:56:03",
+  "idDisciplina": 347,
+  "Titulo": "in faucibus orci luctus et",
+  "Assunto": "massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979011d"
+  },
+  "idAula": 484,
+  "DateInicio": "2020-03-21 18:43:35",
+  "dateFim": "2021-05-03 18:08:52",
+  "idDisciplina": 487,
+  "Titulo": "aliquet at feugiat non pretium",
+  "Assunto": "felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979011e"
+  },
+  "idAula": 485,
+  "DateInicio": "2019-11-25 14:30:30",
+  "dateFim": "2019-12-14 06:48:35",
+  "idDisciplina": 370,
+  "Titulo": "turpis eget elit sodales scelerisque",
+  "Assunto": "magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979011f"
+  },
+  "idAula": 486,
+  "DateInicio": "2021-03-13 06:33:35",
+  "dateFim": "2021-05-10 09:35:03",
+  "idDisciplina": 388,
+  "Titulo": "id ligula suspendisse ornare consequat",
+  "Assunto": "accumsan tortor quis turpis sed ante vivamus tortor duis mattis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790120"
+  },
+  "idAula": 487,
+  "DateInicio": "2020-07-13 13:11:16",
+  "dateFim": "2020-08-31 02:33:30",
+  "idDisciplina": 153,
+  "Titulo": "vitae quam suspendisse potenti nullam",
+  "Assunto": "metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790121"
+  },
+  "idAula": 488,
+  "DateInicio": "2020-06-08 02:35:27",
+  "dateFim": "2019-11-20 13:57:43",
+  "idDisciplina": 401,
+  "Titulo": "eu interdum eu tincidunt in",
+  "Assunto": "curabitur in libero ut massa volutpat convallis morbi odio odio elementum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790122"
+  },
+  "idAula": 489,
+  "DateInicio": "2020-04-04 16:01:24",
+  "dateFim": "2019-08-26 20:19:26",
+  "idDisciplina": 203,
+  "Titulo": "vestibulum vestibulum ante ipsum primis",
+  "Assunto": "justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790123"
+  },
+  "idAula": 490,
+  "DateInicio": "2020-10-08 21:27:07",
+  "dateFim": "2019-07-18 17:54:52",
+  "idDisciplina": 72,
+  "Titulo": "iaculis congue vivamus metus arcu",
+  "Assunto": "proin leo odio porttitor id consequat in consequat ut nulla sed"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790124"
+  },
+  "idAula": 491,
+  "DateInicio": "2019-09-19 04:39:18",
+  "dateFim": "2020-12-21 14:31:18",
+  "idDisciplina": 159,
+  "Titulo": "condimentum neque sapien placerat ante",
+  "Assunto": "tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790125"
+  },
+  "idAula": 492,
+  "DateInicio": "2019-12-01 10:53:01",
+  "dateFim": "2019-10-21 00:32:52",
+  "idDisciplina": 249,
+  "Titulo": "id luctus nec molestie sed",
+  "Assunto": "vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790126"
+  },
+  "idAula": 493,
+  "DateInicio": "2019-07-08 09:09:41",
+  "dateFim": "2020-10-15 18:16:10",
+  "idDisciplina": 289,
+  "Titulo": "posuere cubilia curae duis faucibus",
+  "Assunto": "quam pharetra magna ac consequat metus sapien ut nunc vestibulum"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790127"
+  },
+  "idAula": 494,
+  "DateInicio": "2019-11-26 17:00:31",
+  "dateFim": "2020-09-01 03:28:07",
+  "idDisciplina": 192,
+  "Titulo": "vestibulum ante ipsum primis in",
+  "Assunto": "augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790128"
+  },
+  "idAula": 495,
+  "DateInicio": "2019-10-07 21:08:18",
+  "dateFim": "2019-11-19 07:42:46",
+  "idDisciplina": 359,
+  "Titulo": "praesent blandit nam nulla integer",
+  "Assunto": "sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a9790129"
+  },
+  "idAula": 496,
+  "DateInicio": "2021-09-04 12:36:31",
+  "dateFim": "2020-01-19 01:27:43",
+  "idDisciplina": 474,
+  "Titulo": "purus aliquet at feugiat non",
+  "Assunto": "a feugiat et eros vestibulum ac est lacinia nisi venenatis"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979012a"
+  },
+  "idAula": 497,
+  "DateInicio": "2019-09-26 11:33:24",
+  "dateFim": "2021-06-22 09:29:44",
+  "idDisciplina": 423,
+  "Titulo": "urna ut tellus nulla ut",
+  "Assunto": "semper est quam pharetra magna ac consequat metus sapien ut nunc"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979012b"
+  },
+  "idAula": 498,
+  "DateInicio": "2021-05-02 14:01:49",
+  "dateFim": "2020-11-30 16:15:59",
+  "idDisciplina": 425,
+  "Titulo": "mi pede malesuada in imperdiet",
+  "Assunto": "sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979012c"
+  },
+  "idAula": 499,
+  "DateInicio": "2021-01-29 19:27:20",
+  "dateFim": "2021-04-29 01:48:53",
+  "idDisciplina": 450,
+  "Titulo": "congue vivamus metus arcu adipiscing",
+  "Assunto": "lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse"
+},{
+  "_id": {
+    "$oid": "615e602bd79f2e40a979012d"
+  },
+  "idAula": 500,
+  "DateInicio": "2019-06-06 00:13:11",
+  "dateFim": "2021-08-13 11:41:01",
+  "idDisciplina": 136,
+  "Titulo": "odio in hac habitasse platea",
+  "Assunto": "adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit"
+}]

@@ -1,0 +1,4001 @@
+[{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb18"
+  },
+  "idUsuario": 1,
+  "Nome_usuario": "Benjamen Monan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb19"
+  },
+  "idUsuario": 2,
+  "Nome_usuario": "Peggie Harken",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb1a"
+  },
+  "idUsuario": 3,
+  "Nome_usuario": "Rozina Mandell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb1b"
+  },
+  "idUsuario": 4,
+  "Nome_usuario": "Fritz Antham",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb1c"
+  },
+  "idUsuario": 5,
+  "Nome_usuario": "Miles Dracksford",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb1d"
+  },
+  "idUsuario": 6,
+  "Nome_usuario": "Ricki Hortop",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb1e"
+  },
+  "idUsuario": 7,
+  "Nome_usuario": "Liliane Ledwith",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb1f"
+  },
+  "idUsuario": 8,
+  "Nome_usuario": "Cacilia Goodred",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb20"
+  },
+  "idUsuario": 9,
+  "Nome_usuario": "Caitrin Brafield",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb21"
+  },
+  "idUsuario": 10,
+  "Nome_usuario": "Theda Powling",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb22"
+  },
+  "idUsuario": 11,
+  "Nome_usuario": "Rafe Molan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb23"
+  },
+  "idUsuario": 12,
+  "Nome_usuario": "Fionna Gocke",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb24"
+  },
+  "idUsuario": 13,
+  "Nome_usuario": "Rachelle Rayman",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb25"
+  },
+  "idUsuario": 14,
+  "Nome_usuario": "Pammi World",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb26"
+  },
+  "idUsuario": 15,
+  "Nome_usuario": "Franzen Heiden",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb27"
+  },
+  "idUsuario": 16,
+  "Nome_usuario": "Rey Foxton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb28"
+  },
+  "idUsuario": 17,
+  "Nome_usuario": "Rochette Jaye",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb29"
+  },
+  "idUsuario": 18,
+  "Nome_usuario": "Maynard Simek",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb2a"
+  },
+  "idUsuario": 19,
+  "Nome_usuario": "Abdel Offin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb2b"
+  },
+  "idUsuario": 20,
+  "Nome_usuario": "Boigie Kuban",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb2c"
+  },
+  "idUsuario": 21,
+  "Nome_usuario": "Bailey Gindghill",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb2d"
+  },
+  "idUsuario": 22,
+  "Nome_usuario": "Loralie Capel",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb2e"
+  },
+  "idUsuario": 23,
+  "Nome_usuario": "Parrnell Ryland",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb2f"
+  },
+  "idUsuario": 24,
+  "Nome_usuario": "Ned Segar",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb30"
+  },
+  "idUsuario": 25,
+  "Nome_usuario": "Allyson Mollin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb31"
+  },
+  "idUsuario": 26,
+  "Nome_usuario": "Aylmar Maykin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb32"
+  },
+  "idUsuario": 27,
+  "Nome_usuario": "Mead Lindenberg",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb33"
+  },
+  "idUsuario": 28,
+  "Nome_usuario": "Colette Lockwood",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb34"
+  },
+  "idUsuario": 29,
+  "Nome_usuario": "Brina Nice",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb35"
+  },
+  "idUsuario": 30,
+  "Nome_usuario": "Sondra Pearson",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb36"
+  },
+  "idUsuario": 31,
+  "Nome_usuario": "Stavro Aylott",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb37"
+  },
+  "idUsuario": 32,
+  "Nome_usuario": "Garold Parrington",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb38"
+  },
+  "idUsuario": 33,
+  "Nome_usuario": "Peggie Gillmore",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb39"
+  },
+  "idUsuario": 34,
+  "Nome_usuario": "Shayne Cuxon",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb3a"
+  },
+  "idUsuario": 35,
+  "Nome_usuario": "Lyon Ingold",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb3b"
+  },
+  "idUsuario": 36,
+  "Nome_usuario": "Andriette Deme",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb3c"
+  },
+  "idUsuario": 37,
+  "Nome_usuario": "Becka McConnel",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb3d"
+  },
+  "idUsuario": 38,
+  "Nome_usuario": "Dione Heinecke",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb3e"
+  },
+  "idUsuario": 39,
+  "Nome_usuario": "Iolande Patchett",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb3f"
+  },
+  "idUsuario": 40,
+  "Nome_usuario": "Maryl Prendiville",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb40"
+  },
+  "idUsuario": 41,
+  "Nome_usuario": "Shandie Varley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb41"
+  },
+  "idUsuario": 42,
+  "Nome_usuario": "Phoebe Kobierzycki",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb42"
+  },
+  "idUsuario": 43,
+  "Nome_usuario": "Aila Satchell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb43"
+  },
+  "idUsuario": 44,
+  "Nome_usuario": "Ezmeralda Dunkerley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb44"
+  },
+  "idUsuario": 45,
+  "Nome_usuario": "Skipp Tummons",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb45"
+  },
+  "idUsuario": 46,
+  "Nome_usuario": "Margarethe Erett",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb46"
+  },
+  "idUsuario": 47,
+  "Nome_usuario": "Erl Duplock",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb47"
+  },
+  "idUsuario": 48,
+  "Nome_usuario": "Filberto Scandrite",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb48"
+  },
+  "idUsuario": 49,
+  "Nome_usuario": "Barron Emanueli",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb49"
+  },
+  "idUsuario": 50,
+  "Nome_usuario": "Shurwood Kidstone",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb4a"
+  },
+  "idUsuario": 51,
+  "Nome_usuario": "Jolie Atwool",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb4b"
+  },
+  "idUsuario": 52,
+  "Nome_usuario": "Bradney Twigge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb4c"
+  },
+  "idUsuario": 53,
+  "Nome_usuario": "Kiah Twamley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb4d"
+  },
+  "idUsuario": 54,
+  "Nome_usuario": "Anjela Deekes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb4e"
+  },
+  "idUsuario": 55,
+  "Nome_usuario": "Novelia Ettridge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb4f"
+  },
+  "idUsuario": 56,
+  "Nome_usuario": "Ynes Pryde",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb50"
+  },
+  "idUsuario": 57,
+  "Nome_usuario": "Norry Bennallck",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb51"
+  },
+  "idUsuario": 58,
+  "Nome_usuario": "Karolina Dovidaitis",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb52"
+  },
+  "idUsuario": 59,
+  "Nome_usuario": "Jay Roylance",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb53"
+  },
+  "idUsuario": 60,
+  "Nome_usuario": "Rowe Rowswell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb54"
+  },
+  "idUsuario": 61,
+  "Nome_usuario": "Dedra Gonsalvez",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb55"
+  },
+  "idUsuario": 62,
+  "Nome_usuario": "Michelle Lofthouse",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb56"
+  },
+  "idUsuario": 63,
+  "Nome_usuario": "Deb Sparrow",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb57"
+  },
+  "idUsuario": 64,
+  "Nome_usuario": "Maurizio O'Leary",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb58"
+  },
+  "idUsuario": 65,
+  "Nome_usuario": "Judie Drayton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb59"
+  },
+  "idUsuario": 66,
+  "Nome_usuario": "Lesya Bourner",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb5a"
+  },
+  "idUsuario": 67,
+  "Nome_usuario": "Jackie Goodred",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb5b"
+  },
+  "idUsuario": 68,
+  "Nome_usuario": "Stanislaw Comini",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb5c"
+  },
+  "idUsuario": 69,
+  "Nome_usuario": "Creigh Matus",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb5d"
+  },
+  "idUsuario": 70,
+  "Nome_usuario": "Pierson Chateau",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb5e"
+  },
+  "idUsuario": 71,
+  "Nome_usuario": "Judah Wickett",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb5f"
+  },
+  "idUsuario": 72,
+  "Nome_usuario": "Cullie Kobiela",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb60"
+  },
+  "idUsuario": 73,
+  "Nome_usuario": "Bernhard McCerery",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb61"
+  },
+  "idUsuario": 74,
+  "Nome_usuario": "Darb Casarino",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb62"
+  },
+  "idUsuario": 75,
+  "Nome_usuario": "Carmita Lantaff",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb63"
+  },
+  "idUsuario": 76,
+  "Nome_usuario": "Torey Brand-Hardy",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb64"
+  },
+  "idUsuario": 77,
+  "Nome_usuario": "Ray Millery",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb65"
+  },
+  "idUsuario": 78,
+  "Nome_usuario": "Rasia Konneke",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb66"
+  },
+  "idUsuario": 79,
+  "Nome_usuario": "Biron Keeltagh",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb67"
+  },
+  "idUsuario": 80,
+  "Nome_usuario": "David Casterou",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb68"
+  },
+  "idUsuario": 81,
+  "Nome_usuario": "Luciana Severwright",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb69"
+  },
+  "idUsuario": 82,
+  "Nome_usuario": "Shoshana Larrosa",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb6a"
+  },
+  "idUsuario": 83,
+  "Nome_usuario": "Tory Scones",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb6b"
+  },
+  "idUsuario": 84,
+  "Nome_usuario": "Netti Chapier",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb6c"
+  },
+  "idUsuario": 85,
+  "Nome_usuario": "Maurise Wetherill",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb6d"
+  },
+  "idUsuario": 86,
+  "Nome_usuario": "April Wetherald",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb6e"
+  },
+  "idUsuario": 87,
+  "Nome_usuario": "Hatty Neate",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb6f"
+  },
+  "idUsuario": 88,
+  "Nome_usuario": "Arliene Lochran",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb70"
+  },
+  "idUsuario": 89,
+  "Nome_usuario": "Susana Fritchly",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb71"
+  },
+  "idUsuario": 90,
+  "Nome_usuario": "Georgianna Etchell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb72"
+  },
+  "idUsuario": 91,
+  "Nome_usuario": "Corissa Petrozzi",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb73"
+  },
+  "idUsuario": 92,
+  "Nome_usuario": "Alanson Brice",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb74"
+  },
+  "idUsuario": 93,
+  "Nome_usuario": "Lizzie McCaighey",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb75"
+  },
+  "idUsuario": 94,
+  "Nome_usuario": "Darryl Brumwell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb76"
+  },
+  "idUsuario": 95,
+  "Nome_usuario": "Riva Matuszewski",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb77"
+  },
+  "idUsuario": 96,
+  "Nome_usuario": "Hakeem Vina",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb78"
+  },
+  "idUsuario": 97,
+  "Nome_usuario": "Inglebert Dallow",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb79"
+  },
+  "idUsuario": 98,
+  "Nome_usuario": "Graeme Jacklings",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb7a"
+  },
+  "idUsuario": 99,
+  "Nome_usuario": "Randene Kinglesyd",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb7b"
+  },
+  "idUsuario": 100,
+  "Nome_usuario": "Leena Scarce",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb7c"
+  },
+  "idUsuario": 101,
+  "Nome_usuario": "Jonis Lemarie",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb7d"
+  },
+  "idUsuario": 102,
+  "Nome_usuario": "Emmy Bellanger",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb7e"
+  },
+  "idUsuario": 103,
+  "Nome_usuario": "Broderic Carp",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb7f"
+  },
+  "idUsuario": 104,
+  "Nome_usuario": "Ansley Feenan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb80"
+  },
+  "idUsuario": 105,
+  "Nome_usuario": "Ardelia Cozzi",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb81"
+  },
+  "idUsuario": 106,
+  "Nome_usuario": "Buffy Capponer",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb82"
+  },
+  "idUsuario": 107,
+  "Nome_usuario": "Rubetta Handaside",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb83"
+  },
+  "idUsuario": 108,
+  "Nome_usuario": "Bernarr Cassin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb84"
+  },
+  "idUsuario": 109,
+  "Nome_usuario": "Hakeem McLagan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb85"
+  },
+  "idUsuario": 110,
+  "Nome_usuario": "Henryetta Dukes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb86"
+  },
+  "idUsuario": 111,
+  "Nome_usuario": "Lolita Vere",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb87"
+  },
+  "idUsuario": 112,
+  "Nome_usuario": "Corbet Dainty",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb88"
+  },
+  "idUsuario": 113,
+  "Nome_usuario": "Glynn Crilley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb89"
+  },
+  "idUsuario": 114,
+  "Nome_usuario": "Lorianne Boultwood",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb8a"
+  },
+  "idUsuario": 115,
+  "Nome_usuario": "Daniela Phythien",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb8b"
+  },
+  "idUsuario": 116,
+  "Nome_usuario": "Octavia Gibbetts",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb8c"
+  },
+  "idUsuario": 117,
+  "Nome_usuario": "Marjy Davidwitz",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb8d"
+  },
+  "idUsuario": 118,
+  "Nome_usuario": "Linnell Westmorland",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb8e"
+  },
+  "idUsuario": 119,
+  "Nome_usuario": "Clark Indruch",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb8f"
+  },
+  "idUsuario": 120,
+  "Nome_usuario": "Babette Luigi",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb90"
+  },
+  "idUsuario": 121,
+  "Nome_usuario": "Kaleb Blance",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb91"
+  },
+  "idUsuario": 122,
+  "Nome_usuario": "Kimbra Malacrida",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb92"
+  },
+  "idUsuario": 123,
+  "Nome_usuario": "Rosabella Wilsone",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb93"
+  },
+  "idUsuario": 124,
+  "Nome_usuario": "Malchy Glave",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb94"
+  },
+  "idUsuario": 125,
+  "Nome_usuario": "Isador Lycett",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb95"
+  },
+  "idUsuario": 126,
+  "Nome_usuario": "Teresina Charge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb96"
+  },
+  "idUsuario": 127,
+  "Nome_usuario": "Spike Stoaks",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb97"
+  },
+  "idUsuario": 128,
+  "Nome_usuario": "Trescha Korda",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb98"
+  },
+  "idUsuario": 129,
+  "Nome_usuario": "Edmund Kinner",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb99"
+  },
+  "idUsuario": 130,
+  "Nome_usuario": "Garnette Giraudo",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb9a"
+  },
+  "idUsuario": 131,
+  "Nome_usuario": "Matthaeus Bredes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb9b"
+  },
+  "idUsuario": 132,
+  "Nome_usuario": "Marijo Chart",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb9c"
+  },
+  "idUsuario": 133,
+  "Nome_usuario": "Lee Donnachie",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb9d"
+  },
+  "idUsuario": 134,
+  "Nome_usuario": "Candice Twell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb9e"
+  },
+  "idUsuario": 135,
+  "Nome_usuario": "Cathyleen Cowterd",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fb9f"
+  },
+  "idUsuario": 136,
+  "Nome_usuario": "Garth Shand",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba0"
+  },
+  "idUsuario": 137,
+  "Nome_usuario": "Elston McLorinan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba1"
+  },
+  "idUsuario": 138,
+  "Nome_usuario": "Martita Crucitti",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba2"
+  },
+  "idUsuario": 139,
+  "Nome_usuario": "Zena Ewings",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba3"
+  },
+  "idUsuario": 140,
+  "Nome_usuario": "Kariotta Belfrage",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba4"
+  },
+  "idUsuario": 141,
+  "Nome_usuario": "Toddy Faiers",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba5"
+  },
+  "idUsuario": 142,
+  "Nome_usuario": "Orella Cockshot",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba6"
+  },
+  "idUsuario": 143,
+  "Nome_usuario": "Midge Masarrat",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba7"
+  },
+  "idUsuario": 144,
+  "Nome_usuario": "Amie Sholl",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba8"
+  },
+  "idUsuario": 145,
+  "Nome_usuario": "Jacquelyn Dancey",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fba9"
+  },
+  "idUsuario": 146,
+  "Nome_usuario": "Rich Eslie",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbaa"
+  },
+  "idUsuario": 147,
+  "Nome_usuario": "Shara Paddy",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbab"
+  },
+  "idUsuario": 148,
+  "Nome_usuario": "Alfi Cormode",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbac"
+  },
+  "idUsuario": 149,
+  "Nome_usuario": "Ruth Beecheno",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbad"
+  },
+  "idUsuario": 150,
+  "Nome_usuario": "Aretha Cumber",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbae"
+  },
+  "idUsuario": 151,
+  "Nome_usuario": "Alejandra Piesold",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbaf"
+  },
+  "idUsuario": 152,
+  "Nome_usuario": "Nanny Guinnane",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb0"
+  },
+  "idUsuario": 153,
+  "Nome_usuario": "Fredek Hannabus",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb1"
+  },
+  "idUsuario": 154,
+  "Nome_usuario": "Waylon Jodrellec",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb2"
+  },
+  "idUsuario": 155,
+  "Nome_usuario": "Fernando Sauvain",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb3"
+  },
+  "idUsuario": 156,
+  "Nome_usuario": "Cletus Laxon",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb4"
+  },
+  "idUsuario": 157,
+  "Nome_usuario": "Claudelle Hibbart",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb5"
+  },
+  "idUsuario": 158,
+  "Nome_usuario": "Eliot McGeffen",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb6"
+  },
+  "idUsuario": 159,
+  "Nome_usuario": "Matias Abdie",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb7"
+  },
+  "idUsuario": 160,
+  "Nome_usuario": "Leoline Nannizzi",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb8"
+  },
+  "idUsuario": 161,
+  "Nome_usuario": "Filberto Bruntjen",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbb9"
+  },
+  "idUsuario": 162,
+  "Nome_usuario": "Aubrey Duchenne",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbba"
+  },
+  "idUsuario": 163,
+  "Nome_usuario": "Cheryl Jeffcoat",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbbb"
+  },
+  "idUsuario": 164,
+  "Nome_usuario": "Fonz Lamacraft",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbbc"
+  },
+  "idUsuario": 165,
+  "Nome_usuario": "Claire Flipsen",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbbd"
+  },
+  "idUsuario": 166,
+  "Nome_usuario": "Madelon Anthona",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbbe"
+  },
+  "idUsuario": 167,
+  "Nome_usuario": "Eileen Willas",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbbf"
+  },
+  "idUsuario": 168,
+  "Nome_usuario": "Tom Lorenz",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc0"
+  },
+  "idUsuario": 169,
+  "Nome_usuario": "Luci Ubank",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc1"
+  },
+  "idUsuario": 170,
+  "Nome_usuario": "Sibyl Duffield",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc2"
+  },
+  "idUsuario": 171,
+  "Nome_usuario": "Myrtice Davidowich",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc3"
+  },
+  "idUsuario": 172,
+  "Nome_usuario": "Antons Landeaux",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc4"
+  },
+  "idUsuario": 173,
+  "Nome_usuario": "Cinda Theriot",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc5"
+  },
+  "idUsuario": 174,
+  "Nome_usuario": "Rosalind Bartczak",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc6"
+  },
+  "idUsuario": 175,
+  "Nome_usuario": "Ring Adlard",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc7"
+  },
+  "idUsuario": 176,
+  "Nome_usuario": "Claude Andryunin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc8"
+  },
+  "idUsuario": 177,
+  "Nome_usuario": "Mada Diche",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbc9"
+  },
+  "idUsuario": 178,
+  "Nome_usuario": "Chryste Mattiello",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbca"
+  },
+  "idUsuario": 179,
+  "Nome_usuario": "Ailis Danels",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbcb"
+  },
+  "idUsuario": 180,
+  "Nome_usuario": "Russ Duns",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbcc"
+  },
+  "idUsuario": 181,
+  "Nome_usuario": "Hally Bourne",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbcd"
+  },
+  "idUsuario": 182,
+  "Nome_usuario": "Ransell McGriele",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbce"
+  },
+  "idUsuario": 183,
+  "Nome_usuario": "Malachi Dockery",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbcf"
+  },
+  "idUsuario": 184,
+  "Nome_usuario": "Willis Charlwood",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd0"
+  },
+  "idUsuario": 185,
+  "Nome_usuario": "Ollie McColgan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd1"
+  },
+  "idUsuario": 186,
+  "Nome_usuario": "Kerr Spackman",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd2"
+  },
+  "idUsuario": 187,
+  "Nome_usuario": "Vernice Treppas",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd3"
+  },
+  "idUsuario": 188,
+  "Nome_usuario": "Hendrika Gilhespy",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd4"
+  },
+  "idUsuario": 189,
+  "Nome_usuario": "Georgeta Waymont",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd5"
+  },
+  "idUsuario": 190,
+  "Nome_usuario": "Evelina Rosenfarb",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd6"
+  },
+  "idUsuario": 191,
+  "Nome_usuario": "Elton Fidele",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd7"
+  },
+  "idUsuario": 192,
+  "Nome_usuario": "Maryellen Peschke",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd8"
+  },
+  "idUsuario": 193,
+  "Nome_usuario": "Sanford Wolfit",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbd9"
+  },
+  "idUsuario": 194,
+  "Nome_usuario": "Renie Pace",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbda"
+  },
+  "idUsuario": 195,
+  "Nome_usuario": "Ema Comettoi",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbdb"
+  },
+  "idUsuario": 196,
+  "Nome_usuario": "Issy Haycraft",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbdc"
+  },
+  "idUsuario": 197,
+  "Nome_usuario": "Bili Revely",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbdd"
+  },
+  "idUsuario": 198,
+  "Nome_usuario": "Lowe Hargrove",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbde"
+  },
+  "idUsuario": 199,
+  "Nome_usuario": "Marty Dearn",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbdf"
+  },
+  "idUsuario": 200,
+  "Nome_usuario": "Bobbi Kenney",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe0"
+  },
+  "idUsuario": 201,
+  "Nome_usuario": "Liesa Dudbridge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe1"
+  },
+  "idUsuario": 202,
+  "Nome_usuario": "Darda Petroff",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe2"
+  },
+  "idUsuario": 203,
+  "Nome_usuario": "Reginald Simmance",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe3"
+  },
+  "idUsuario": 204,
+  "Nome_usuario": "Orion Bellefonte",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe4"
+  },
+  "idUsuario": 205,
+  "Nome_usuario": "Duane Worge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe5"
+  },
+  "idUsuario": 206,
+  "Nome_usuario": "Valera Statefield",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe6"
+  },
+  "idUsuario": 207,
+  "Nome_usuario": "Lebbie Calleja",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe7"
+  },
+  "idUsuario": 208,
+  "Nome_usuario": "Elsy Gurry",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe8"
+  },
+  "idUsuario": 209,
+  "Nome_usuario": "Eben Serman",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbe9"
+  },
+  "idUsuario": 210,
+  "Nome_usuario": "Bobbette Hauger",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbea"
+  },
+  "idUsuario": 211,
+  "Nome_usuario": "Sherri Hollingsby",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbeb"
+  },
+  "idUsuario": 212,
+  "Nome_usuario": "Quintina Janicki",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbec"
+  },
+  "idUsuario": 213,
+  "Nome_usuario": "Carlen Cruddace",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbed"
+  },
+  "idUsuario": 214,
+  "Nome_usuario": "Garrett Lowrie",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbee"
+  },
+  "idUsuario": 215,
+  "Nome_usuario": "Devlin Menaul",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbef"
+  },
+  "idUsuario": 216,
+  "Nome_usuario": "Kate Brusin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf0"
+  },
+  "idUsuario": 217,
+  "Nome_usuario": "Hort Dondon",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf1"
+  },
+  "idUsuario": 218,
+  "Nome_usuario": "Heall Scroggs",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf2"
+  },
+  "idUsuario": 219,
+  "Nome_usuario": "Constantino Garrison",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf3"
+  },
+  "idUsuario": 220,
+  "Nome_usuario": "Dewain Bonas",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf4"
+  },
+  "idUsuario": 221,
+  "Nome_usuario": "Daphna Broughton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf5"
+  },
+  "idUsuario": 222,
+  "Nome_usuario": "Retha Cargen",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf6"
+  },
+  "idUsuario": 223,
+  "Nome_usuario": "Carena Handes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf7"
+  },
+  "idUsuario": 224,
+  "Nome_usuario": "Artair Speaks",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf8"
+  },
+  "idUsuario": 225,
+  "Nome_usuario": "Pietra Lascelles",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbf9"
+  },
+  "idUsuario": 226,
+  "Nome_usuario": "Chickie Mortimer",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbfa"
+  },
+  "idUsuario": 227,
+  "Nome_usuario": "Emanuele Purry",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbfb"
+  },
+  "idUsuario": 228,
+  "Nome_usuario": "Astra Sleite",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbfc"
+  },
+  "idUsuario": 229,
+  "Nome_usuario": "Pearl de Courcey",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbfd"
+  },
+  "idUsuario": 230,
+  "Nome_usuario": "Vanni Cahn",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbfe"
+  },
+  "idUsuario": 231,
+  "Nome_usuario": "Sarine McAnulty",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fbff"
+  },
+  "idUsuario": 232,
+  "Nome_usuario": "Miquela Corby",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc00"
+  },
+  "idUsuario": 233,
+  "Nome_usuario": "Shandy Lennarde",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc01"
+  },
+  "idUsuario": 234,
+  "Nome_usuario": "Maxy MacAdam",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc02"
+  },
+  "idUsuario": 235,
+  "Nome_usuario": "Larry Collelton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc03"
+  },
+  "idUsuario": 236,
+  "Nome_usuario": "Tadeo Routledge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc04"
+  },
+  "idUsuario": 237,
+  "Nome_usuario": "Bond Marzelo",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc05"
+  },
+  "idUsuario": 238,
+  "Nome_usuario": "Jordan Darnody",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc06"
+  },
+  "idUsuario": 239,
+  "Nome_usuario": "Fawne Aujouanet",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc07"
+  },
+  "idUsuario": 240,
+  "Nome_usuario": "Bevvy Clayworth",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc08"
+  },
+  "idUsuario": 241,
+  "Nome_usuario": "Silvana Feldhuhn",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc09"
+  },
+  "idUsuario": 242,
+  "Nome_usuario": "Sammy MacFadzan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc0a"
+  },
+  "idUsuario": 243,
+  "Nome_usuario": "Frannie Falls",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc0b"
+  },
+  "idUsuario": 244,
+  "Nome_usuario": "Akim Tschierse",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc0c"
+  },
+  "idUsuario": 245,
+  "Nome_usuario": "Daveta Secretan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc0d"
+  },
+  "idUsuario": 246,
+  "Nome_usuario": "Weider Sambath",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc0e"
+  },
+  "idUsuario": 247,
+  "Nome_usuario": "Bartlett Gosnall",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc0f"
+  },
+  "idUsuario": 248,
+  "Nome_usuario": "Derrick Domeny",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc10"
+  },
+  "idUsuario": 249,
+  "Nome_usuario": "Carey Boast",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc11"
+  },
+  "idUsuario": 250,
+  "Nome_usuario": "Frasquito Malkinson",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc12"
+  },
+  "idUsuario": 251,
+  "Nome_usuario": "Myrtle Leagas",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc13"
+  },
+  "idUsuario": 252,
+  "Nome_usuario": "Carl Armell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc14"
+  },
+  "idUsuario": 253,
+  "Nome_usuario": "Waiter Basketfield",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc15"
+  },
+  "idUsuario": 254,
+  "Nome_usuario": "Kellie Ridoutt",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc16"
+  },
+  "idUsuario": 255,
+  "Nome_usuario": "Ambur Banaszkiewicz",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc17"
+  },
+  "idUsuario": 256,
+  "Nome_usuario": "Nicolea Enderwick",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc18"
+  },
+  "idUsuario": 257,
+  "Nome_usuario": "Nert Ghost",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc19"
+  },
+  "idUsuario": 258,
+  "Nome_usuario": "Angelico Warrior",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc1a"
+  },
+  "idUsuario": 259,
+  "Nome_usuario": "Aaron Koba",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc1b"
+  },
+  "idUsuario": 260,
+  "Nome_usuario": "Isa Rignold",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc1c"
+  },
+  "idUsuario": 261,
+  "Nome_usuario": "Mela Tilley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc1d"
+  },
+  "idUsuario": 262,
+  "Nome_usuario": "Reinald Macura",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc1e"
+  },
+  "idUsuario": 263,
+  "Nome_usuario": "Tony Racine",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc1f"
+  },
+  "idUsuario": 264,
+  "Nome_usuario": "Daron Frensch",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc20"
+  },
+  "idUsuario": 265,
+  "Nome_usuario": "Elita De Ath",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc21"
+  },
+  "idUsuario": 266,
+  "Nome_usuario": "Toby Forestel",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc22"
+  },
+  "idUsuario": 267,
+  "Nome_usuario": "Roz Zanetello",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc23"
+  },
+  "idUsuario": 268,
+  "Nome_usuario": "Hazel Commander",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc24"
+  },
+  "idUsuario": 269,
+  "Nome_usuario": "Brander Elgram",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc25"
+  },
+  "idUsuario": 270,
+  "Nome_usuario": "Kyla Riddell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc26"
+  },
+  "idUsuario": 271,
+  "Nome_usuario": "Drusie Guillot",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc27"
+  },
+  "idUsuario": 272,
+  "Nome_usuario": "Carolann Stable",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc28"
+  },
+  "idUsuario": 273,
+  "Nome_usuario": "Tootsie MacGiany",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc29"
+  },
+  "idUsuario": 274,
+  "Nome_usuario": "Si Farnell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc2a"
+  },
+  "idUsuario": 275,
+  "Nome_usuario": "Herman Parsley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc2b"
+  },
+  "idUsuario": 276,
+  "Nome_usuario": "Catlaina Livezey",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc2c"
+  },
+  "idUsuario": 277,
+  "Nome_usuario": "Tracey Tassell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc2d"
+  },
+  "idUsuario": 278,
+  "Nome_usuario": "Joey Edeson",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc2e"
+  },
+  "idUsuario": 279,
+  "Nome_usuario": "Trixy Fortnum",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc2f"
+  },
+  "idUsuario": 280,
+  "Nome_usuario": "Leeann Baumford",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc30"
+  },
+  "idUsuario": 281,
+  "Nome_usuario": "Quintana Rootes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc31"
+  },
+  "idUsuario": 282,
+  "Nome_usuario": "Willa Quilleash",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc32"
+  },
+  "idUsuario": 283,
+  "Nome_usuario": "Alexia Wickersley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc33"
+  },
+  "idUsuario": 284,
+  "Nome_usuario": "Cassi Buyers",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc34"
+  },
+  "idUsuario": 285,
+  "Nome_usuario": "Salomo Haddinton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc35"
+  },
+  "idUsuario": 286,
+  "Nome_usuario": "Daisi Hegden",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc36"
+  },
+  "idUsuario": 287,
+  "Nome_usuario": "Briana Bateup",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc37"
+  },
+  "idUsuario": 288,
+  "Nome_usuario": "Louie Dunckley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc38"
+  },
+  "idUsuario": 289,
+  "Nome_usuario": "Cordelie Dinneen",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc39"
+  },
+  "idUsuario": 290,
+  "Nome_usuario": "Hadley Foynes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc3a"
+  },
+  "idUsuario": 291,
+  "Nome_usuario": "Ilka Griffe",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc3b"
+  },
+  "idUsuario": 292,
+  "Nome_usuario": "Ola Sexstone",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc3c"
+  },
+  "idUsuario": 293,
+  "Nome_usuario": "Timotheus Ormerod",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc3d"
+  },
+  "idUsuario": 294,
+  "Nome_usuario": "Jenine Vasse",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc3e"
+  },
+  "idUsuario": 295,
+  "Nome_usuario": "Artemas Gurko",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc3f"
+  },
+  "idUsuario": 296,
+  "Nome_usuario": "Zed Wiper",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc40"
+  },
+  "idUsuario": 297,
+  "Nome_usuario": "Evonne Minall",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc41"
+  },
+  "idUsuario": 298,
+  "Nome_usuario": "Benedict Schoffler",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc42"
+  },
+  "idUsuario": 299,
+  "Nome_usuario": "Obed Bordes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc43"
+  },
+  "idUsuario": 300,
+  "Nome_usuario": "Beauregard Cato",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc44"
+  },
+  "idUsuario": 301,
+  "Nome_usuario": "Sophronia Westcar",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc45"
+  },
+  "idUsuario": 302,
+  "Nome_usuario": "Kaylyn Litzmann",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc46"
+  },
+  "idUsuario": 303,
+  "Nome_usuario": "Ethelred Cazin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc47"
+  },
+  "idUsuario": 304,
+  "Nome_usuario": "Terrance Sharrier",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc48"
+  },
+  "idUsuario": 305,
+  "Nome_usuario": "Charmaine Dufour",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc49"
+  },
+  "idUsuario": 306,
+  "Nome_usuario": "Hildagard Ackers",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc4a"
+  },
+  "idUsuario": 307,
+  "Nome_usuario": "Farra McOrkil",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc4b"
+  },
+  "idUsuario": 308,
+  "Nome_usuario": "Aime Radke",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc4c"
+  },
+  "idUsuario": 309,
+  "Nome_usuario": "Shepperd McAuslene",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc4d"
+  },
+  "idUsuario": 310,
+  "Nome_usuario": "Roddie Dormer",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc4e"
+  },
+  "idUsuario": 311,
+  "Nome_usuario": "Nikolos Kewish",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc4f"
+  },
+  "idUsuario": 312,
+  "Nome_usuario": "Sonny Mazzey",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc50"
+  },
+  "idUsuario": 313,
+  "Nome_usuario": "Othelia Aindrais",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc51"
+  },
+  "idUsuario": 314,
+  "Nome_usuario": "Midge Scranedge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc52"
+  },
+  "idUsuario": 315,
+  "Nome_usuario": "Yolanthe Jahnel",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc53"
+  },
+  "idUsuario": 316,
+  "Nome_usuario": "Sada Zupo",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc54"
+  },
+  "idUsuario": 317,
+  "Nome_usuario": "Joyce Padden",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc55"
+  },
+  "idUsuario": 318,
+  "Nome_usuario": "Phelia Shingles",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc56"
+  },
+  "idUsuario": 319,
+  "Nome_usuario": "Grove Dopson",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc57"
+  },
+  "idUsuario": 320,
+  "Nome_usuario": "Sherlock Rayman",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc58"
+  },
+  "idUsuario": 321,
+  "Nome_usuario": "Vi Stemp",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc59"
+  },
+  "idUsuario": 322,
+  "Nome_usuario": "Manny Buddleigh",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc5a"
+  },
+  "idUsuario": 323,
+  "Nome_usuario": "Basilio Elnaugh",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc5b"
+  },
+  "idUsuario": 324,
+  "Nome_usuario": "Leta Gavriel",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc5c"
+  },
+  "idUsuario": 325,
+  "Nome_usuario": "Lona Cowburn",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc5d"
+  },
+  "idUsuario": 326,
+  "Nome_usuario": "Royall Silvester",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc5e"
+  },
+  "idUsuario": 327,
+  "Nome_usuario": "Curran Truluck",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc5f"
+  },
+  "idUsuario": 328,
+  "Nome_usuario": "Lona Tullis",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc60"
+  },
+  "idUsuario": 329,
+  "Nome_usuario": "Oralee Yoskowitz",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc61"
+  },
+  "idUsuario": 330,
+  "Nome_usuario": "Jamal Hearn",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc62"
+  },
+  "idUsuario": 331,
+  "Nome_usuario": "Hebert Sherwood",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc63"
+  },
+  "idUsuario": 332,
+  "Nome_usuario": "Lilla Spennock",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc64"
+  },
+  "idUsuario": 333,
+  "Nome_usuario": "Catharina Edeler",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc65"
+  },
+  "idUsuario": 334,
+  "Nome_usuario": "Terese Dundridge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc66"
+  },
+  "idUsuario": 335,
+  "Nome_usuario": "Nathalie Tatam",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc67"
+  },
+  "idUsuario": 336,
+  "Nome_usuario": "Kayle Tregenza",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc68"
+  },
+  "idUsuario": 337,
+  "Nome_usuario": "Thalia Littrell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc69"
+  },
+  "idUsuario": 338,
+  "Nome_usuario": "Tye Harvison",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc6a"
+  },
+  "idUsuario": 339,
+  "Nome_usuario": "Nessy Harriman",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc6b"
+  },
+  "idUsuario": 340,
+  "Nome_usuario": "Livvyy Duckfield",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc6c"
+  },
+  "idUsuario": 341,
+  "Nome_usuario": "Allissa Vasentsov",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc6d"
+  },
+  "idUsuario": 342,
+  "Nome_usuario": "Reinald Schutte",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc6e"
+  },
+  "idUsuario": 343,
+  "Nome_usuario": "Salomon Tavinor",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc6f"
+  },
+  "idUsuario": 344,
+  "Nome_usuario": "Lodovico Stiff",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc70"
+  },
+  "idUsuario": 345,
+  "Nome_usuario": "Idelle Brandreth",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc71"
+  },
+  "idUsuario": 346,
+  "Nome_usuario": "Jolene Ellesworthe",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc72"
+  },
+  "idUsuario": 347,
+  "Nome_usuario": "Jeromy Pickhaver",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc73"
+  },
+  "idUsuario": 348,
+  "Nome_usuario": "Rafaelita Lockier",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc74"
+  },
+  "idUsuario": 349,
+  "Nome_usuario": "Dorree Kaye",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc75"
+  },
+  "idUsuario": 350,
+  "Nome_usuario": "Reggie Dunlap",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc76"
+  },
+  "idUsuario": 351,
+  "Nome_usuario": "Cordula Windress",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc77"
+  },
+  "idUsuario": 352,
+  "Nome_usuario": "Bibby Epelett",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc78"
+  },
+  "idUsuario": 353,
+  "Nome_usuario": "Bernette Blastock",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc79"
+  },
+  "idUsuario": 354,
+  "Nome_usuario": "Carmina Okill",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc7a"
+  },
+  "idUsuario": 355,
+  "Nome_usuario": "Elton Aldridge",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc7b"
+  },
+  "idUsuario": 356,
+  "Nome_usuario": "Leela Bampton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc7c"
+  },
+  "idUsuario": 357,
+  "Nome_usuario": "Eirena Daintry",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc7d"
+  },
+  "idUsuario": 358,
+  "Nome_usuario": "Lita Crosier",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc7e"
+  },
+  "idUsuario": 359,
+  "Nome_usuario": "Ania Noot",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc7f"
+  },
+  "idUsuario": 360,
+  "Nome_usuario": "Lannie Satchel",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc80"
+  },
+  "idUsuario": 361,
+  "Nome_usuario": "Leslie Alwen",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc81"
+  },
+  "idUsuario": 362,
+  "Nome_usuario": "Farica Reece",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc82"
+  },
+  "idUsuario": 363,
+  "Nome_usuario": "Derril Handrok",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc83"
+  },
+  "idUsuario": 364,
+  "Nome_usuario": "Alfie Haston",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc84"
+  },
+  "idUsuario": 365,
+  "Nome_usuario": "Russ Kimbury",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc85"
+  },
+  "idUsuario": 366,
+  "Nome_usuario": "Corri McKee",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc86"
+  },
+  "idUsuario": 367,
+  "Nome_usuario": "Gallagher Lorenzin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc87"
+  },
+  "idUsuario": 368,
+  "Nome_usuario": "Ermina Blade",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc88"
+  },
+  "idUsuario": 369,
+  "Nome_usuario": "Jillane Jailler",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc89"
+  },
+  "idUsuario": 370,
+  "Nome_usuario": "Crissie Skip",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc8a"
+  },
+  "idUsuario": 371,
+  "Nome_usuario": "Shannan Prover",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc8b"
+  },
+  "idUsuario": 372,
+  "Nome_usuario": "Illa MacNeachtain",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc8c"
+  },
+  "idUsuario": 373,
+  "Nome_usuario": "Lilah Hammon",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc8d"
+  },
+  "idUsuario": 374,
+  "Nome_usuario": "Lynea Dormon",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc8e"
+  },
+  "idUsuario": 375,
+  "Nome_usuario": "Norean Popplestone",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc8f"
+  },
+  "idUsuario": 376,
+  "Nome_usuario": "Tabby Schrieves",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc90"
+  },
+  "idUsuario": 377,
+  "Nome_usuario": "Hernando Ribchester",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc91"
+  },
+  "idUsuario": 378,
+  "Nome_usuario": "Haydon De Carlo",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc92"
+  },
+  "idUsuario": 379,
+  "Nome_usuario": "Brandyn Rollings",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc93"
+  },
+  "idUsuario": 380,
+  "Nome_usuario": "Malina Crimin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc94"
+  },
+  "idUsuario": 381,
+  "Nome_usuario": "Aldis Larcombe",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc95"
+  },
+  "idUsuario": 382,
+  "Nome_usuario": "Ingaborg Cleeton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc96"
+  },
+  "idUsuario": 383,
+  "Nome_usuario": "Celene Hould",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc97"
+  },
+  "idUsuario": 384,
+  "Nome_usuario": "Opaline Richardes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc98"
+  },
+  "idUsuario": 385,
+  "Nome_usuario": "Haze Tolcharde",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc99"
+  },
+  "idUsuario": 386,
+  "Nome_usuario": "Merrily Pettet",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc9a"
+  },
+  "idUsuario": 387,
+  "Nome_usuario": "Tommi Duffrie",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc9b"
+  },
+  "idUsuario": 388,
+  "Nome_usuario": "Ransom McKinna",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc9c"
+  },
+  "idUsuario": 389,
+  "Nome_usuario": "Devon Rettie",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc9d"
+  },
+  "idUsuario": 390,
+  "Nome_usuario": "Eleanora Giamelli",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc9e"
+  },
+  "idUsuario": 391,
+  "Nome_usuario": "Nicole Trahar",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fc9f"
+  },
+  "idUsuario": 392,
+  "Nome_usuario": "Upton Trainor",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca0"
+  },
+  "idUsuario": 393,
+  "Nome_usuario": "Miranda Duro",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca1"
+  },
+  "idUsuario": 394,
+  "Nome_usuario": "Pierce Isakowicz",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca2"
+  },
+  "idUsuario": 395,
+  "Nome_usuario": "Alberta Thomtson",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca3"
+  },
+  "idUsuario": 396,
+  "Nome_usuario": "Ora Phethean",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca4"
+  },
+  "idUsuario": 397,
+  "Nome_usuario": "Bram Plose",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca5"
+  },
+  "idUsuario": 398,
+  "Nome_usuario": "Irwin Napton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca6"
+  },
+  "idUsuario": 399,
+  "Nome_usuario": "Trumaine Dupoy",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca7"
+  },
+  "idUsuario": 400,
+  "Nome_usuario": "Clyve Lambrook",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca8"
+  },
+  "idUsuario": 401,
+  "Nome_usuario": "Curran Chattell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fca9"
+  },
+  "idUsuario": 402,
+  "Nome_usuario": "Helga Hateley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcaa"
+  },
+  "idUsuario": 403,
+  "Nome_usuario": "Minor Minithorpe",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcab"
+  },
+  "idUsuario": 404,
+  "Nome_usuario": "Holli Willoway",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcac"
+  },
+  "idUsuario": 405,
+  "Nome_usuario": "Nikoletta Melling",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcad"
+  },
+  "idUsuario": 406,
+  "Nome_usuario": "Inna Boutton",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcae"
+  },
+  "idUsuario": 407,
+  "Nome_usuario": "Lana Lacroutz",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcaf"
+  },
+  "idUsuario": 408,
+  "Nome_usuario": "Andree Liddard",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb0"
+  },
+  "idUsuario": 409,
+  "Nome_usuario": "Thatcher Dusting",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb1"
+  },
+  "idUsuario": 410,
+  "Nome_usuario": "Filia Ornils",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb2"
+  },
+  "idUsuario": 411,
+  "Nome_usuario": "Harrie Gother",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb3"
+  },
+  "idUsuario": 412,
+  "Nome_usuario": "Brigit Schuh",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb4"
+  },
+  "idUsuario": 413,
+  "Nome_usuario": "Delmor Clem",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb5"
+  },
+  "idUsuario": 414,
+  "Nome_usuario": "Greg Tommaseo",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb6"
+  },
+  "idUsuario": 415,
+  "Nome_usuario": "Kiley Terrington",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb7"
+  },
+  "idUsuario": 416,
+  "Nome_usuario": "Jeff Togwell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb8"
+  },
+  "idUsuario": 417,
+  "Nome_usuario": "Maia Woofinden",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcb9"
+  },
+  "idUsuario": 418,
+  "Nome_usuario": "Teodorico Fensome",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcba"
+  },
+  "idUsuario": 419,
+  "Nome_usuario": "Auguste Croutear",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcbb"
+  },
+  "idUsuario": 420,
+  "Nome_usuario": "Washington Handaside",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcbc"
+  },
+  "idUsuario": 421,
+  "Nome_usuario": "Osbourn Thirwell",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcbd"
+  },
+  "idUsuario": 422,
+  "Nome_usuario": "Jacintha Nibley",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcbe"
+  },
+  "idUsuario": 423,
+  "Nome_usuario": "Chloris Dyshart",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcbf"
+  },
+  "idUsuario": 424,
+  "Nome_usuario": "Griswold Northey",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcc0"
+  },
+  "idUsuario": 425,
+  "Nome_usuario": "Dolli Lyste",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcc1"
+  },
+  "idUsuario": 426,
+  "Nome_usuario": "Darryl Belliss",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcc2"
+  },
+  "idUsuario": 427,
+  "Nome_usuario": "Mill Oleshunin",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcc3"
+  },
+  "idUsuario": 428,
+  "Nome_usuario": "Heall Adamiec",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcad79f2e40a978fcc4"
+  },
+  "idUsuario": 429,
+  "Nome_usuario": "Fancie Gorgl",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcc5"
+  },
+  "idUsuario": 430,
+  "Nome_usuario": "Albrecht Kiebes",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcc6"
+  },
+  "idUsuario": 431,
+  "Nome_usuario": "Drew Ellse",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcc7"
+  },
+  "idUsuario": 432,
+  "Nome_usuario": "Stanton Gristock",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcc8"
+  },
+  "idUsuario": 433,
+  "Nome_usuario": "Jecho Cadigan",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcc9"
+  },
+  "idUsuario": 434,
+  "Nome_usuario": "Lin Meysham",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcca"
+  },
+  "idUsuario": 435,
+  "Nome_usuario": "Antin Guerri",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fccb"
+  },
+  "idUsuario": 436,
+  "Nome_usuario": "Brian Hosier",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fccc"
+  },
+  "idUsuario": 437,
+  "Nome_usuario": "Tabbitha Le Pine",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fccd"
+  },
+  "idUsuario": 438,
+  "Nome_usuario": "Maynard Bissiker",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcce"
+  },
+  "idUsuario": 439,
+  "Nome_usuario": "Ammamaria Le Barre",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fccf"
+  },
+  "idUsuario": 440,
+  "Nome_usuario": "Manolo Backman",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd0"
+  },
+  "idUsuario": 441,
+  "Nome_usuario": "Ariela Torbet",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd1"
+  },
+  "idUsuario": 442,
+  "Nome_usuario": "Purcell Donhardt",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd2"
+  },
+  "idUsuario": 443,
+  "Nome_usuario": "Jourdan Renner",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd3"
+  },
+  "idUsuario": 444,
+  "Nome_usuario": "Roxana Kettel",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd4"
+  },
+  "idUsuario": 445,
+  "Nome_usuario": "Ethelbert Ekins",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd5"
+  },
+  "idUsuario": 446,
+  "Nome_usuario": "Kit Thornally",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd6"
+  },
+  "idUsuario": 447,
+  "Nome_usuario": "Jenine Bankhurst",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd7"
+  },
+  "idUsuario": 448,
+  "Nome_usuario": "Paton Piesing",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd8"
+  },
+  "idUsuario": 449,
+  "Nome_usuario": "Catriona Cotman",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcd9"
+  },
+  "idUsuario": 450,
+  "Nome_usuario": "Gage Nulty",
+  "codigo_permissao": 1,
+  "descricaopermissao": "ALUNO"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcda"
+  },
+  "idUsuario": 451,
+  "Nome_usuario": "Teresita Keeri",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcdb"
+  },
+  "idUsuario": 452,
+  "Nome_usuario": "Iain Jeratt",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcdc"
+  },
+  "idUsuario": 453,
+  "Nome_usuario": "Jabez Jermey",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcdd"
+  },
+  "idUsuario": 454,
+  "Nome_usuario": "Conn Mantha",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcde"
+  },
+  "idUsuario": 455,
+  "Nome_usuario": "Lucie Blackie",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcdf"
+  },
+  "idUsuario": 456,
+  "Nome_usuario": "Clayson Pursehouse",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce0"
+  },
+  "idUsuario": 457,
+  "Nome_usuario": "Sadye Troak",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce1"
+  },
+  "idUsuario": 458,
+  "Nome_usuario": "Robinette McClay",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce2"
+  },
+  "idUsuario": 459,
+  "Nome_usuario": "Cristionna Batt",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce3"
+  },
+  "idUsuario": 460,
+  "Nome_usuario": "Madelin Giorgeschi",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce4"
+  },
+  "idUsuario": 461,
+  "Nome_usuario": "Ulla Martynov",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce5"
+  },
+  "idUsuario": 462,
+  "Nome_usuario": "Bill Got",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce6"
+  },
+  "idUsuario": 463,
+  "Nome_usuario": "Hasty Haycox",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce7"
+  },
+  "idUsuario": 464,
+  "Nome_usuario": "Gwenore Witt",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce8"
+  },
+  "idUsuario": 465,
+  "Nome_usuario": "Pamella Alflat",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fce9"
+  },
+  "idUsuario": 466,
+  "Nome_usuario": "Belvia Cushelly",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcea"
+  },
+  "idUsuario": 467,
+  "Nome_usuario": "Chrysler Chason",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fceb"
+  },
+  "idUsuario": 468,
+  "Nome_usuario": "Tabitha Dykins",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcec"
+  },
+  "idUsuario": 469,
+  "Nome_usuario": "Parker Cobon",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fced"
+  },
+  "idUsuario": 470,
+  "Nome_usuario": "Eachelle Chatin",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcee"
+  },
+  "idUsuario": 471,
+  "Nome_usuario": "Alvy Bowyer",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcef"
+  },
+  "idUsuario": 472,
+  "Nome_usuario": "Mavis Gheorghescu",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf0"
+  },
+  "idUsuario": 473,
+  "Nome_usuario": "Steve Fleeming",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf1"
+  },
+  "idUsuario": 474,
+  "Nome_usuario": "Nara Heffernon",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf2"
+  },
+  "idUsuario": 475,
+  "Nome_usuario": "Kipp Halshaw",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf3"
+  },
+  "idUsuario": 476,
+  "Nome_usuario": "Morty Roughsedge",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf4"
+  },
+  "idUsuario": 477,
+  "Nome_usuario": "Garrick Comettoi",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf5"
+  },
+  "idUsuario": 478,
+  "Nome_usuario": "Blaire Agates",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf6"
+  },
+  "idUsuario": 479,
+  "Nome_usuario": "Glenn Terrazzo",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf7"
+  },
+  "idUsuario": 480,
+  "Nome_usuario": "Katherine Mc Dermid",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf8"
+  },
+  "idUsuario": 481,
+  "Nome_usuario": "Goran Figg",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcf9"
+  },
+  "idUsuario": 482,
+  "Nome_usuario": "Bria Jackett",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcfa"
+  },
+  "idUsuario": 483,
+  "Nome_usuario": "Lambert Verrall",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcfb"
+  },
+  "idUsuario": 484,
+  "Nome_usuario": "Amalee Lesly",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcfc"
+  },
+  "idUsuario": 485,
+  "Nome_usuario": "Melvyn Guiness",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcfd"
+  },
+  "idUsuario": 486,
+  "Nome_usuario": "Blinnie Bilsborrow",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcfe"
+  },
+  "idUsuario": 487,
+  "Nome_usuario": "Brenden Jovanovic",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fcff"
+  },
+  "idUsuario": 488,
+  "Nome_usuario": "Mikael Helstrip",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd00"
+  },
+  "idUsuario": 489,
+  "Nome_usuario": "Bethanne Norcliffe",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd01"
+  },
+  "idUsuario": 490,
+  "Nome_usuario": "Jeth Minthorpe",
+  "codigo_permissao": 2,
+  "descricaopermissao": "PROFESSOR"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd02"
+  },
+  "idUsuario": 491,
+  "Nome_usuario": "Pietro Reggler",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd03"
+  },
+  "idUsuario": 492,
+  "Nome_usuario": "Emma Danshin",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd04"
+  },
+  "idUsuario": 493,
+  "Nome_usuario": "Berke Trotton",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd05"
+  },
+  "idUsuario": 494,
+  "Nome_usuario": "Babette Elsegood",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd06"
+  },
+  "idUsuario": 495,
+  "Nome_usuario": "Shellie Granleese",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd07"
+  },
+  "idUsuario": 496,
+  "Nome_usuario": "Ewan Kelling",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd08"
+  },
+  "idUsuario": 497,
+  "Nome_usuario": "Lila Taree",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd09"
+  },
+  "idUsuario": 498,
+  "Nome_usuario": "Barnard Moatt",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd0a"
+  },
+  "idUsuario": 499,
+  "Nome_usuario": "Colline Klasing",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+},{
+  "_id": {
+    "$oid": "615e5fcbd79f2e40a978fd0b"
+  },
+  "idUsuario": 500,
+  "Nome_usuario": "Wilfred Willcox",
+  "codigo_permissao": 3,
+  "descricaopermissao": "ADM"
+}]
