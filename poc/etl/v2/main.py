@@ -9,7 +9,8 @@ tday, yday = aux_functions.full_load_dates()
 connPostgree = connections.postgreeConnection()
 
 
-### USERS ETL
+########## USERS ETL ##########
+
 users_result = filters.usersFilter(tday, yday, connMongo)
 
 for user in users_result:
