@@ -16,7 +16,6 @@ def filtroDimDisciplina():
 
 
 
-
 # CRIAR FILTRO PARA ALIMENTAR TABELA DIM_CURSO
 
 """""""""
@@ -138,6 +137,7 @@ def filtroFactAcesso():
         print("vetor_sessao: ", linha_vetor_sessao)
 
     #print("vetor_sessao: ", vetor_sessao)
+    return vetor_sessao
 
 
 def dataHoraLogout(datetimeLogin, listLogoutUser):
@@ -153,4 +153,6 @@ def dataHoraLogout(datetimeLogin, listLogoutUser):
         menorDatetimeLogout = 0
         return menorDatetimeLogout
 
-filtroFactAcesso()
+
+
+
