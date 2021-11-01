@@ -38,8 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-
-
     #BOOTSTRAP
      'bootstrap5',
     #DRF
@@ -94,17 +92,14 @@ WSGI_APPLICATION = 'nemosys.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'mssql',
-        'NAME': 'db_nemosys',
-        'USER': 'SA',
-        'PASSWORD': 'N3mosys@123',
-        'HOST': 'localhost',
-        'PORT': '1433',
-        'OPTIONS': {'driver': 'ODBC Driver 17 for SQL Server'},
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'PROJETO_API_NEMO',
+        'USER': 'username',
+        'PASSWORD': 'password',
+        'HOST': '157.245.243.16',
+        'PORT': '5432',
     }
 }
-
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators

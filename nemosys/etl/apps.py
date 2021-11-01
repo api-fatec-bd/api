@@ -6,10 +6,6 @@ class EtlConfig(AppConfig):
     name = 'etl'
 
     def ready(self):
-        from .taskScheduler import startCountUsers, startCountMessages, startCountSessions, startCountRooms, startTotalMessagesRoom
+        from .taskScheduler import ETLschedule
 
-        startCountUsers()
-        startCountMessages()
-        startCountSessions()
-        startCountRooms()
-        startTotalMessagesRoom()
+        ETLschedule()

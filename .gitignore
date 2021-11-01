@@ -1,3 +1,9 @@
+# idea
+.idea
+
+#venv
+/src
+
 # Compiled class file
 *.class
 
