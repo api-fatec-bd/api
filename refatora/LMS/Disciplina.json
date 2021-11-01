@@ -1,0 +1,4001 @@
+[{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd1a"
+  },
+  "idDisciplina": 1,
+  "idcurso": 9,
+  "idturma": 26,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd1b"
+  },
+  "idDisciplina": 2,
+  "idcurso": 5,
+  "idturma": 36,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd1c"
+  },
+  "idDisciplina": 3,
+  "idcurso": 3,
+  "idturma": 12,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd1d"
+  },
+  "idDisciplina": 4,
+  "idcurso": 3,
+  "idturma": 33,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd1e"
+  },
+  "idDisciplina": 5,
+  "idcurso": 5,
+  "idturma": 10,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd1f"
+  },
+  "idDisciplina": 6,
+  "idcurso": 10,
+  "idturma": 39,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd20"
+  },
+  "idDisciplina": 7,
+  "idcurso": 3,
+  "idturma": 37,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd21"
+  },
+  "idDisciplina": 8,
+  "idcurso": 10,
+  "idturma": 15,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd22"
+  },
+  "idDisciplina": 9,
+  "idcurso": 1,
+  "idturma": 31,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd23"
+  },
+  "idDisciplina": 10,
+  "idcurso": 5,
+  "idturma": 24,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd24"
+  },
+  "idDisciplina": 11,
+  "idcurso": 9,
+  "idturma": 32,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd25"
+  },
+  "idDisciplina": 12,
+  "idcurso": 4,
+  "idturma": 23,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd26"
+  },
+  "idDisciplina": 13,
+  "idcurso": 10,
+  "idturma": 23,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd27"
+  },
+  "idDisciplina": 14,
+  "idcurso": 6,
+  "idturma": 7,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd28"
+  },
+  "idDisciplina": 15,
+  "idcurso": 5,
+  "idturma": 21,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd29"
+  },
+  "idDisciplina": 16,
+  "idcurso": 8,
+  "idturma": 18,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd2a"
+  },
+  "idDisciplina": 17,
+  "idcurso": 3,
+  "idturma": 38,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd2b"
+  },
+  "idDisciplina": 18,
+  "idcurso": 6,
+  "idturma": 16,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd2c"
+  },
+  "idDisciplina": 19,
+  "idcurso": 4,
+  "idturma": 36,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd2d"
+  },
+  "idDisciplina": 20,
+  "idcurso": 1,
+  "idturma": 20,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd2e"
+  },
+  "idDisciplina": 21,
+  "idcurso": 2,
+  "idturma": 16,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd2f"
+  },
+  "idDisciplina": 22,
+  "idcurso": 7,
+  "idturma": 8,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd30"
+  },
+  "idDisciplina": 23,
+  "idcurso": 9,
+  "idturma": 36,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd31"
+  },
+  "idDisciplina": 24,
+  "idcurso": 8,
+  "idturma": 5,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd32"
+  },
+  "idDisciplina": 25,
+  "idcurso": 5,
+  "idturma": 36,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd33"
+  },
+  "idDisciplina": 26,
+  "idcurso": 4,
+  "idturma": 17,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd34"
+  },
+  "idDisciplina": 27,
+  "idcurso": 1,
+  "idturma": 3,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd35"
+  },
+  "idDisciplina": 28,
+  "idcurso": 9,
+  "idturma": 35,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd36"
+  },
+  "idDisciplina": 29,
+  "idcurso": 3,
+  "idturma": 19,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd37"
+  },
+  "idDisciplina": 30,
+  "idcurso": 4,
+  "idturma": 5,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd38"
+  },
+  "idDisciplina": 31,
+  "idcurso": 4,
+  "idturma": 40,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd39"
+  },
+  "idDisciplina": 32,
+  "idcurso": 10,
+  "idturma": 11,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd3a"
+  },
+  "idDisciplina": 33,
+  "idcurso": 7,
+  "idturma": 12,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd3b"
+  },
+  "idDisciplina": 34,
+  "idcurso": 8,
+  "idturma": 39,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd3c"
+  },
+  "idDisciplina": 35,
+  "idcurso": 9,
+  "idturma": 25,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd3d"
+  },
+  "idDisciplina": 36,
+  "idcurso": 4,
+  "idturma": 27,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd3e"
+  },
+  "idDisciplina": 37,
+  "idcurso": 5,
+  "idturma": 5,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd3f"
+  },
+  "idDisciplina": 38,
+  "idcurso": 1,
+  "idturma": 1,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd40"
+  },
+  "idDisciplina": 39,
+  "idcurso": 3,
+  "idturma": 6,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd41"
+  },
+  "idDisciplina": 40,
+  "idcurso": 6,
+  "idturma": 6,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd42"
+  },
+  "idDisciplina": 41,
+  "idcurso": 4,
+  "idturma": 33,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd43"
+  },
+  "idDisciplina": 42,
+  "idcurso": 10,
+  "idturma": 21,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd44"
+  },
+  "idDisciplina": 43,
+  "idcurso": 2,
+  "idturma": 25,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd45"
+  },
+  "idDisciplina": 44,
+  "idcurso": 5,
+  "idturma": 11,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd46"
+  },
+  "idDisciplina": 45,
+  "idcurso": 9,
+  "idturma": 31,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd47"
+  },
+  "idDisciplina": 46,
+  "idcurso": 10,
+  "idturma": 17,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd48"
+  },
+  "idDisciplina": 47,
+  "idcurso": 4,
+  "idturma": 31,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd49"
+  },
+  "idDisciplina": 48,
+  "idcurso": 9,
+  "idturma": 35,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd4a"
+  },
+  "idDisciplina": 49,
+  "idcurso": 4,
+  "idturma": 32,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd4b"
+  },
+  "idDisciplina": 50,
+  "idcurso": 10,
+  "idturma": 4,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd4c"
+  },
+  "idDisciplina": 51,
+  "idcurso": 6,
+  "idturma": 39,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd4d"
+  },
+  "idDisciplina": 52,
+  "idcurso": 4,
+  "idturma": 23,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd4e"
+  },
+  "idDisciplina": 53,
+  "idcurso": 10,
+  "idturma": 4,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd4f"
+  },
+  "idDisciplina": 54,
+  "idcurso": 2,
+  "idturma": 12,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd50"
+  },
+  "idDisciplina": 55,
+  "idcurso": 10,
+  "idturma": 15,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd51"
+  },
+  "idDisciplina": 56,
+  "idcurso": 9,
+  "idturma": 26,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd52"
+  },
+  "idDisciplina": 57,
+  "idcurso": 9,
+  "idturma": 20,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd53"
+  },
+  "idDisciplina": 58,
+  "idcurso": 5,
+  "idturma": 20,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd54"
+  },
+  "idDisciplina": 59,
+  "idcurso": 1,
+  "idturma": 12,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd55"
+  },
+  "idDisciplina": 60,
+  "idcurso": 1,
+  "idturma": 17,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd56"
+  },
+  "idDisciplina": 61,
+  "idcurso": 6,
+  "idturma": 1,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd57"
+  },
+  "idDisciplina": 62,
+  "idcurso": 9,
+  "idturma": 12,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd58"
+  },
+  "idDisciplina": 63,
+  "idcurso": 2,
+  "idturma": 29,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd59"
+  },
+  "idDisciplina": 64,
+  "idcurso": 4,
+  "idturma": 3,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd5a"
+  },
+  "idDisciplina": 65,
+  "idcurso": 5,
+  "idturma": 5,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd5b"
+  },
+  "idDisciplina": 66,
+  "idcurso": 5,
+  "idturma": 6,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd5c"
+  },
+  "idDisciplina": 67,
+  "idcurso": 1,
+  "idturma": 34,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd5d"
+  },
+  "idDisciplina": 68,
+  "idcurso": 1,
+  "idturma": 28,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd5e"
+  },
+  "idDisciplina": 69,
+  "idcurso": 10,
+  "idturma": 39,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd5f"
+  },
+  "idDisciplina": 70,
+  "idcurso": 2,
+  "idturma": 37,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd60"
+  },
+  "idDisciplina": 71,
+  "idcurso": 5,
+  "idturma": 26,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd61"
+  },
+  "idDisciplina": 72,
+  "idcurso": 5,
+  "idturma": 17,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd62"
+  },
+  "idDisciplina": 73,
+  "idcurso": 7,
+  "idturma": 19,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd63"
+  },
+  "idDisciplina": 74,
+  "idcurso": 1,
+  "idturma": 28,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd64"
+  },
+  "idDisciplina": 75,
+  "idcurso": 2,
+  "idturma": 36,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd65"
+  },
+  "idDisciplina": 76,
+  "idcurso": 9,
+  "idturma": 11,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd66"
+  },
+  "idDisciplina": 77,
+  "idcurso": 7,
+  "idturma": 19,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd67"
+  },
+  "idDisciplina": 78,
+  "idcurso": 10,
+  "idturma": 20,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd68"
+  },
+  "idDisciplina": 79,
+  "idcurso": 6,
+  "idturma": 29,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd69"
+  },
+  "idDisciplina": 80,
+  "idcurso": 3,
+  "idturma": 33,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd6a"
+  },
+  "idDisciplina": 81,
+  "idcurso": 7,
+  "idturma": 23,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd6b"
+  },
+  "idDisciplina": 82,
+  "idcurso": 10,
+  "idturma": 27,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd6c"
+  },
+  "idDisciplina": 83,
+  "idcurso": 4,
+  "idturma": 26,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd6d"
+  },
+  "idDisciplina": 84,
+  "idcurso": 6,
+  "idturma": 30,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd6e"
+  },
+  "idDisciplina": 85,
+  "idcurso": 6,
+  "idturma": 19,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd6f"
+  },
+  "idDisciplina": 86,
+  "idcurso": 1,
+  "idturma": 18,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd70"
+  },
+  "idDisciplina": 87,
+  "idcurso": 2,
+  "idturma": 21,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd71"
+  },
+  "idDisciplina": 88,
+  "idcurso": 4,
+  "idturma": 26,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd72"
+  },
+  "idDisciplina": 89,
+  "idcurso": 8,
+  "idturma": 8,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd73"
+  },
+  "idDisciplina": 90,
+  "idcurso": 9,
+  "idturma": 1,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd74"
+  },
+  "idDisciplina": 91,
+  "idcurso": 4,
+  "idturma": 17,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd75"
+  },
+  "idDisciplina": 92,
+  "idcurso": 8,
+  "idturma": 23,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd76"
+  },
+  "idDisciplina": 93,
+  "idcurso": 4,
+  "idturma": 17,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd77"
+  },
+  "idDisciplina": 94,
+  "idcurso": 6,
+  "idturma": 2,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd78"
+  },
+  "idDisciplina": 95,
+  "idcurso": 5,
+  "idturma": 27,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd79"
+  },
+  "idDisciplina": 96,
+  "idcurso": 9,
+  "idturma": 27,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd7a"
+  },
+  "idDisciplina": 97,
+  "idcurso": 4,
+  "idturma": 32,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd7b"
+  },
+  "idDisciplina": 98,
+  "idcurso": 10,
+  "idturma": 14,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd7c"
+  },
+  "idDisciplina": 99,
+  "idcurso": 1,
+  "idturma": 2,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd7d"
+  },
+  "idDisciplina": 100,
+  "idcurso": 10,
+  "idturma": 32,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd7e"
+  },
+  "idDisciplina": 101,
+  "idcurso": 7,
+  "idturma": 20,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd7f"
+  },
+  "idDisciplina": 102,
+  "idcurso": 1,
+  "idturma": 30,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd80"
+  },
+  "idDisciplina": 103,
+  "idcurso": 7,
+  "idturma": 23,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd81"
+  },
+  "idDisciplina": 104,
+  "idcurso": 4,
+  "idturma": 36,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd82"
+  },
+  "idDisciplina": 105,
+  "idcurso": 8,
+  "idturma": 12,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd83"
+  },
+  "idDisciplina": 106,
+  "idcurso": 2,
+  "idturma": 13,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd84"
+  },
+  "idDisciplina": 107,
+  "idcurso": 3,
+  "idturma": 14,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd85"
+  },
+  "idDisciplina": 108,
+  "idcurso": 8,
+  "idturma": 1,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd86"
+  },
+  "idDisciplina": 109,
+  "idcurso": 5,
+  "idturma": 10,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd87"
+  },
+  "idDisciplina": 110,
+  "idcurso": 7,
+  "idturma": 37,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd88"
+  },
+  "idDisciplina": 111,
+  "idcurso": 2,
+  "idturma": 1,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd89"
+  },
+  "idDisciplina": 112,
+  "idcurso": 6,
+  "idturma": 8,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd8a"
+  },
+  "idDisciplina": 113,
+  "idcurso": 7,
+  "idturma": 26,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd8b"
+  },
+  "idDisciplina": 114,
+  "idcurso": 9,
+  "idturma": 40,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd8c"
+  },
+  "idDisciplina": 115,
+  "idcurso": 3,
+  "idturma": 18,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd8d"
+  },
+  "idDisciplina": 116,
+  "idcurso": 7,
+  "idturma": 7,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd8e"
+  },
+  "idDisciplina": 117,
+  "idcurso": 7,
+  "idturma": 32,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd8f"
+  },
+  "idDisciplina": 118,
+  "idcurso": 1,
+  "idturma": 36,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd90"
+  },
+  "idDisciplina": 119,
+  "idcurso": 5,
+  "idturma": 32,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd91"
+  },
+  "idDisciplina": 120,
+  "idcurso": 2,
+  "idturma": 36,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd92"
+  },
+  "idDisciplina": 121,
+  "idcurso": 7,
+  "idturma": 20,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd93"
+  },
+  "idDisciplina": 122,
+  "idcurso": 4,
+  "idturma": 16,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd94"
+  },
+  "idDisciplina": 123,
+  "idcurso": 3,
+  "idturma": 13,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd95"
+  },
+  "idDisciplina": 124,
+  "idcurso": 10,
+  "idturma": 30,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd96"
+  },
+  "idDisciplina": 125,
+  "idcurso": 7,
+  "idturma": 17,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd97"
+  },
+  "idDisciplina": 126,
+  "idcurso": 7,
+  "idturma": 12,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd98"
+  },
+  "idDisciplina": 127,
+  "idcurso": 10,
+  "idturma": 3,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd99"
+  },
+  "idDisciplina": 128,
+  "idcurso": 2,
+  "idturma": 2,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd9a"
+  },
+  "idDisciplina": 129,
+  "idcurso": 6,
+  "idturma": 19,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd9b"
+  },
+  "idDisciplina": 130,
+  "idcurso": 7,
+  "idturma": 22,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd9c"
+  },
+  "idDisciplina": 131,
+  "idcurso": 2,
+  "idturma": 24,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd9d"
+  },
+  "idDisciplina": 132,
+  "idcurso": 1,
+  "idturma": 31,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd9e"
+  },
+  "idDisciplina": 133,
+  "idcurso": 9,
+  "idturma": 11,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fd9f"
+  },
+  "idDisciplina": 134,
+  "idcurso": 8,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda0"
+  },
+  "idDisciplina": 135,
+  "idcurso": 9,
+  "idturma": 27,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda1"
+  },
+  "idDisciplina": 136,
+  "idcurso": 9,
+  "idturma": 28,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda2"
+  },
+  "idDisciplina": 137,
+  "idcurso": 5,
+  "idturma": 15,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda3"
+  },
+  "idDisciplina": 138,
+  "idcurso": 10,
+  "idturma": 28,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda4"
+  },
+  "idDisciplina": 139,
+  "idcurso": 5,
+  "idturma": 32,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda5"
+  },
+  "idDisciplina": 140,
+  "idcurso": 6,
+  "idturma": 30,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda6"
+  },
+  "idDisciplina": 141,
+  "idcurso": 6,
+  "idturma": 1,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda7"
+  },
+  "idDisciplina": 142,
+  "idcurso": 9,
+  "idturma": 32,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda8"
+  },
+  "idDisciplina": 143,
+  "idcurso": 4,
+  "idturma": 6,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fda9"
+  },
+  "idDisciplina": 144,
+  "idcurso": 1,
+  "idturma": 16,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdaa"
+  },
+  "idDisciplina": 145,
+  "idcurso": 7,
+  "idturma": 34,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdab"
+  },
+  "idDisciplina": 146,
+  "idcurso": 1,
+  "idturma": 39,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdac"
+  },
+  "idDisciplina": 147,
+  "idcurso": 10,
+  "idturma": 1,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdad"
+  },
+  "idDisciplina": 148,
+  "idcurso": 10,
+  "idturma": 30,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdae"
+  },
+  "idDisciplina": 149,
+  "idcurso": 10,
+  "idturma": 8,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdaf"
+  },
+  "idDisciplina": 150,
+  "idcurso": 9,
+  "idturma": 18,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb0"
+  },
+  "idDisciplina": 151,
+  "idcurso": 4,
+  "idturma": 10,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb1"
+  },
+  "idDisciplina": 152,
+  "idcurso": 9,
+  "idturma": 35,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb2"
+  },
+  "idDisciplina": 153,
+  "idcurso": 8,
+  "idturma": 33,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb3"
+  },
+  "idDisciplina": 154,
+  "idcurso": 5,
+  "idturma": 3,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb4"
+  },
+  "idDisciplina": 155,
+  "idcurso": 10,
+  "idturma": 31,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb5"
+  },
+  "idDisciplina": 156,
+  "idcurso": 6,
+  "idturma": 40,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb6"
+  },
+  "idDisciplina": 157,
+  "idcurso": 7,
+  "idturma": 20,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb7"
+  },
+  "idDisciplina": 158,
+  "idcurso": 5,
+  "idturma": 14,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb8"
+  },
+  "idDisciplina": 159,
+  "idcurso": 3,
+  "idturma": 17,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdb9"
+  },
+  "idDisciplina": 160,
+  "idcurso": 2,
+  "idturma": 21,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdba"
+  },
+  "idDisciplina": 161,
+  "idcurso": 10,
+  "idturma": 22,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdbb"
+  },
+  "idDisciplina": 162,
+  "idcurso": 5,
+  "idturma": 27,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdbc"
+  },
+  "idDisciplina": 163,
+  "idcurso": 2,
+  "idturma": 9,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdbd"
+  },
+  "idDisciplina": 164,
+  "idcurso": 4,
+  "idturma": 19,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdbe"
+  },
+  "idDisciplina": 165,
+  "idcurso": 9,
+  "idturma": 11,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdbf"
+  },
+  "idDisciplina": 166,
+  "idcurso": 3,
+  "idturma": 24,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc0"
+  },
+  "idDisciplina": 167,
+  "idcurso": 7,
+  "idturma": 7,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc1"
+  },
+  "idDisciplina": 168,
+  "idcurso": 4,
+  "idturma": 14,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc2"
+  },
+  "idDisciplina": 169,
+  "idcurso": 1,
+  "idturma": 2,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc3"
+  },
+  "idDisciplina": 170,
+  "idcurso": 5,
+  "idturma": 14,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc4"
+  },
+  "idDisciplina": 171,
+  "idcurso": 2,
+  "idturma": 23,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc5"
+  },
+  "idDisciplina": 172,
+  "idcurso": 5,
+  "idturma": 16,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc6"
+  },
+  "idDisciplina": 173,
+  "idcurso": 5,
+  "idturma": 22,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc7"
+  },
+  "idDisciplina": 174,
+  "idcurso": 5,
+  "idturma": 1,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc8"
+  },
+  "idDisciplina": 175,
+  "idcurso": 7,
+  "idturma": 29,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdc9"
+  },
+  "idDisciplina": 176,
+  "idcurso": 3,
+  "idturma": 12,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdca"
+  },
+  "idDisciplina": 177,
+  "idcurso": 10,
+  "idturma": 16,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdcb"
+  },
+  "idDisciplina": 178,
+  "idcurso": 2,
+  "idturma": 4,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdcc"
+  },
+  "idDisciplina": 179,
+  "idcurso": 10,
+  "idturma": 10,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdcd"
+  },
+  "idDisciplina": 180,
+  "idcurso": 8,
+  "idturma": 37,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdce"
+  },
+  "idDisciplina": 181,
+  "idcurso": 5,
+  "idturma": 1,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdcf"
+  },
+  "idDisciplina": 182,
+  "idcurso": 6,
+  "idturma": 17,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd0"
+  },
+  "idDisciplina": 183,
+  "idcurso": 9,
+  "idturma": 14,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd1"
+  },
+  "idDisciplina": 184,
+  "idcurso": 2,
+  "idturma": 1,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd2"
+  },
+  "idDisciplina": 185,
+  "idcurso": 3,
+  "idturma": 4,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd3"
+  },
+  "idDisciplina": 186,
+  "idcurso": 6,
+  "idturma": 6,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd4"
+  },
+  "idDisciplina": 187,
+  "idcurso": 9,
+  "idturma": 25,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd5"
+  },
+  "idDisciplina": 188,
+  "idcurso": 1,
+  "idturma": 4,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd6"
+  },
+  "idDisciplina": 189,
+  "idcurso": 6,
+  "idturma": 14,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd7"
+  },
+  "idDisciplina": 190,
+  "idcurso": 2,
+  "idturma": 28,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd8"
+  },
+  "idDisciplina": 191,
+  "idcurso": 3,
+  "idturma": 5,
+  "descricao": "Miscellaneous"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdd9"
+  },
+  "idDisciplina": 192,
+  "idcurso": 2,
+  "idturma": 35,
+  "descricao": "Miscellaneous"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdda"
+  },
+  "idDisciplina": 193,
+  "idcurso": 8,
+  "idturma": 13,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fddb"
+  },
+  "idDisciplina": 194,
+  "idcurso": 4,
+  "idturma": 29,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fddc"
+  },
+  "idDisciplina": 195,
+  "idcurso": 1,
+  "idturma": 32,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fddd"
+  },
+  "idDisciplina": 196,
+  "idcurso": 8,
+  "idturma": 33,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdde"
+  },
+  "idDisciplina": 197,
+  "idcurso": 7,
+  "idturma": 40,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fddf"
+  },
+  "idDisciplina": 198,
+  "idcurso": 6,
+  "idturma": 12,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde0"
+  },
+  "idDisciplina": 199,
+  "idcurso": 10,
+  "idturma": 14,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde1"
+  },
+  "idDisciplina": 200,
+  "idcurso": 4,
+  "idturma": 29,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde2"
+  },
+  "idDisciplina": 201,
+  "idcurso": 8,
+  "idturma": 35,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde3"
+  },
+  "idDisciplina": 202,
+  "idcurso": 7,
+  "idturma": 10,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde4"
+  },
+  "idDisciplina": 203,
+  "idcurso": 9,
+  "idturma": 26,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde5"
+  },
+  "idDisciplina": 204,
+  "idcurso": 3,
+  "idturma": 2,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde6"
+  },
+  "idDisciplina": 205,
+  "idcurso": 4,
+  "idturma": 1,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde7"
+  },
+  "idDisciplina": 206,
+  "idcurso": 1,
+  "idturma": 22,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde8"
+  },
+  "idDisciplina": 207,
+  "idcurso": 9,
+  "idturma": 39,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fde9"
+  },
+  "idDisciplina": 208,
+  "idcurso": 3,
+  "idturma": 25,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdea"
+  },
+  "idDisciplina": 209,
+  "idcurso": 3,
+  "idturma": 4,
+  "descricao": "Miscellaneous"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdeb"
+  },
+  "idDisciplina": 210,
+  "idcurso": 8,
+  "idturma": 22,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdec"
+  },
+  "idDisciplina": 211,
+  "idcurso": 10,
+  "idturma": 35,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fded"
+  },
+  "idDisciplina": 212,
+  "idcurso": 2,
+  "idturma": 12,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdee"
+  },
+  "idDisciplina": 213,
+  "idcurso": 8,
+  "idturma": 37,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdef"
+  },
+  "idDisciplina": 214,
+  "idcurso": 8,
+  "idturma": 13,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf0"
+  },
+  "idDisciplina": 215,
+  "idcurso": 7,
+  "idturma": 8,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf1"
+  },
+  "idDisciplina": 216,
+  "idcurso": 2,
+  "idturma": 25,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf2"
+  },
+  "idDisciplina": 217,
+  "idcurso": 7,
+  "idturma": 22,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf3"
+  },
+  "idDisciplina": 218,
+  "idcurso": 6,
+  "idturma": 9,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf4"
+  },
+  "idDisciplina": 219,
+  "idcurso": 4,
+  "idturma": 27,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf5"
+  },
+  "idDisciplina": 220,
+  "idcurso": 5,
+  "idturma": 14,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf6"
+  },
+  "idDisciplina": 221,
+  "idcurso": 1,
+  "idturma": 12,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf7"
+  },
+  "idDisciplina": 222,
+  "idcurso": 1,
+  "idturma": 30,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf8"
+  },
+  "idDisciplina": 223,
+  "idcurso": 4,
+  "idturma": 14,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdf9"
+  },
+  "idDisciplina": 224,
+  "idcurso": 10,
+  "idturma": 34,
+  "descricao": "Miscellaneous"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdfa"
+  },
+  "idDisciplina": 225,
+  "idcurso": 3,
+  "idturma": 9,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdfb"
+  },
+  "idDisciplina": 226,
+  "idcurso": 2,
+  "idturma": 7,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdfc"
+  },
+  "idDisciplina": 227,
+  "idcurso": 3,
+  "idturma": 19,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdfd"
+  },
+  "idDisciplina": 228,
+  "idcurso": 6,
+  "idturma": 19,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdfe"
+  },
+  "idDisciplina": 229,
+  "idcurso": 3,
+  "idturma": 40,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fdff"
+  },
+  "idDisciplina": 230,
+  "idcurso": 6,
+  "idturma": 12,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe00"
+  },
+  "idDisciplina": 231,
+  "idcurso": 8,
+  "idturma": 28,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe01"
+  },
+  "idDisciplina": 232,
+  "idcurso": 2,
+  "idturma": 40,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe02"
+  },
+  "idDisciplina": 233,
+  "idcurso": 6,
+  "idturma": 7,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe03"
+  },
+  "idDisciplina": 234,
+  "idcurso": 1,
+  "idturma": 25,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe04"
+  },
+  "idDisciplina": 235,
+  "idcurso": 10,
+  "idturma": 22,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe05"
+  },
+  "idDisciplina": 236,
+  "idcurso": 1,
+  "idturma": 12,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe06"
+  },
+  "idDisciplina": 237,
+  "idcurso": 5,
+  "idturma": 27,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe07"
+  },
+  "idDisciplina": 238,
+  "idcurso": 4,
+  "idturma": 35,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe08"
+  },
+  "idDisciplina": 239,
+  "idcurso": 6,
+  "idturma": 3,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe09"
+  },
+  "idDisciplina": 240,
+  "idcurso": 3,
+  "idturma": 17,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe0a"
+  },
+  "idDisciplina": 241,
+  "idcurso": 9,
+  "idturma": 4,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe0b"
+  },
+  "idDisciplina": 242,
+  "idcurso": 9,
+  "idturma": 12,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe0c"
+  },
+  "idDisciplina": 243,
+  "idcurso": 1,
+  "idturma": 39,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe0d"
+  },
+  "idDisciplina": 244,
+  "idcurso": 8,
+  "idturma": 28,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe0e"
+  },
+  "idDisciplina": 245,
+  "idcurso": 8,
+  "idturma": 27,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe0f"
+  },
+  "idDisciplina": 246,
+  "idcurso": 5,
+  "idturma": 19,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe10"
+  },
+  "idDisciplina": 247,
+  "idcurso": 4,
+  "idturma": 8,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe11"
+  },
+  "idDisciplina": 248,
+  "idcurso": 2,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe12"
+  },
+  "idDisciplina": 249,
+  "idcurso": 2,
+  "idturma": 33,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe13"
+  },
+  "idDisciplina": 250,
+  "idcurso": 5,
+  "idturma": 32,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe14"
+  },
+  "idDisciplina": 251,
+  "idcurso": 1,
+  "idturma": 9,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe15"
+  },
+  "idDisciplina": 252,
+  "idcurso": 10,
+  "idturma": 31,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe16"
+  },
+  "idDisciplina": 253,
+  "idcurso": 1,
+  "idturma": 20,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe17"
+  },
+  "idDisciplina": 254,
+  "idcurso": 7,
+  "idturma": 37,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe18"
+  },
+  "idDisciplina": 255,
+  "idcurso": 2,
+  "idturma": 26,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe19"
+  },
+  "idDisciplina": 256,
+  "idcurso": 3,
+  "idturma": 31,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe1a"
+  },
+  "idDisciplina": 257,
+  "idcurso": 3,
+  "idturma": 16,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe1b"
+  },
+  "idDisciplina": 258,
+  "idcurso": 10,
+  "idturma": 19,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe1c"
+  },
+  "idDisciplina": 259,
+  "idcurso": 4,
+  "idturma": 18,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe1d"
+  },
+  "idDisciplina": 260,
+  "idcurso": 3,
+  "idturma": 7,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe1e"
+  },
+  "idDisciplina": 261,
+  "idcurso": 9,
+  "idturma": 28,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe1f"
+  },
+  "idDisciplina": 262,
+  "idcurso": 5,
+  "idturma": 40,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe20"
+  },
+  "idDisciplina": 263,
+  "idcurso": 2,
+  "idturma": 22,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe21"
+  },
+  "idDisciplina": 264,
+  "idcurso": 9,
+  "idturma": 19,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe22"
+  },
+  "idDisciplina": 265,
+  "idcurso": 2,
+  "idturma": 12,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe23"
+  },
+  "idDisciplina": 266,
+  "idcurso": 10,
+  "idturma": 8,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe24"
+  },
+  "idDisciplina": 267,
+  "idcurso": 10,
+  "idturma": 22,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe25"
+  },
+  "idDisciplina": 268,
+  "idcurso": 7,
+  "idturma": 36,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe26"
+  },
+  "idDisciplina": 269,
+  "idcurso": 4,
+  "idturma": 5,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe27"
+  },
+  "idDisciplina": 270,
+  "idcurso": 4,
+  "idturma": 39,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe28"
+  },
+  "idDisciplina": 271,
+  "idcurso": 3,
+  "idturma": 31,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe29"
+  },
+  "idDisciplina": 272,
+  "idcurso": 7,
+  "idturma": 35,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe2a"
+  },
+  "idDisciplina": 273,
+  "idcurso": 4,
+  "idturma": 23,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe2b"
+  },
+  "idDisciplina": 274,
+  "idcurso": 8,
+  "idturma": 17,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe2c"
+  },
+  "idDisciplina": 275,
+  "idcurso": 4,
+  "idturma": 25,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe2d"
+  },
+  "idDisciplina": 276,
+  "idcurso": 5,
+  "idturma": 2,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe2e"
+  },
+  "idDisciplina": 277,
+  "idcurso": 8,
+  "idturma": 23,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe2f"
+  },
+  "idDisciplina": 278,
+  "idcurso": 4,
+  "idturma": 33,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe30"
+  },
+  "idDisciplina": 279,
+  "idcurso": 9,
+  "idturma": 38,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe31"
+  },
+  "idDisciplina": 280,
+  "idcurso": 9,
+  "idturma": 28,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe32"
+  },
+  "idDisciplina": 281,
+  "idcurso": 6,
+  "idturma": 30,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe33"
+  },
+  "idDisciplina": 282,
+  "idcurso": 7,
+  "idturma": 29,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe34"
+  },
+  "idDisciplina": 283,
+  "idcurso": 10,
+  "idturma": 11,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe35"
+  },
+  "idDisciplina": 284,
+  "idcurso": 3,
+  "idturma": 4,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe36"
+  },
+  "idDisciplina": 285,
+  "idcurso": 10,
+  "idturma": 35,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe37"
+  },
+  "idDisciplina": 286,
+  "idcurso": 3,
+  "idturma": 1,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe38"
+  },
+  "idDisciplina": 287,
+  "idcurso": 6,
+  "idturma": 19,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe39"
+  },
+  "idDisciplina": 288,
+  "idcurso": 4,
+  "idturma": 34,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe3a"
+  },
+  "idDisciplina": 289,
+  "idcurso": 10,
+  "idturma": 18,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe3b"
+  },
+  "idDisciplina": 290,
+  "idcurso": 7,
+  "idturma": 20,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe3c"
+  },
+  "idDisciplina": 291,
+  "idcurso": 5,
+  "idturma": 25,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe3d"
+  },
+  "idDisciplina": 292,
+  "idcurso": 7,
+  "idturma": 33,
+  "descricao": "Miscellaneous"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe3e"
+  },
+  "idDisciplina": 293,
+  "idcurso": 2,
+  "idturma": 12,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe3f"
+  },
+  "idDisciplina": 294,
+  "idcurso": 3,
+  "idturma": 9,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe40"
+  },
+  "idDisciplina": 295,
+  "idcurso": 10,
+  "idturma": 21,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe41"
+  },
+  "idDisciplina": 296,
+  "idcurso": 6,
+  "idturma": 15,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe42"
+  },
+  "idDisciplina": 297,
+  "idcurso": 10,
+  "idturma": 19,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe43"
+  },
+  "idDisciplina": 298,
+  "idcurso": 10,
+  "idturma": 11,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe44"
+  },
+  "idDisciplina": 299,
+  "idcurso": 6,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe45"
+  },
+  "idDisciplina": 300,
+  "idcurso": 7,
+  "idturma": 20,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe46"
+  },
+  "idDisciplina": 301,
+  "idcurso": 10,
+  "idturma": 25,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe47"
+  },
+  "idDisciplina": 302,
+  "idcurso": 7,
+  "idturma": 11,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe48"
+  },
+  "idDisciplina": 303,
+  "idcurso": 8,
+  "idturma": 10,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe49"
+  },
+  "idDisciplina": 304,
+  "idcurso": 4,
+  "idturma": 3,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe4a"
+  },
+  "idDisciplina": 305,
+  "idcurso": 3,
+  "idturma": 24,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe4b"
+  },
+  "idDisciplina": 306,
+  "idcurso": 8,
+  "idturma": 12,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe4c"
+  },
+  "idDisciplina": 307,
+  "idcurso": 10,
+  "idturma": 17,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe4d"
+  },
+  "idDisciplina": 308,
+  "idcurso": 3,
+  "idturma": 36,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe4e"
+  },
+  "idDisciplina": 309,
+  "idcurso": 9,
+  "idturma": 27,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe4f"
+  },
+  "idDisciplina": 310,
+  "idcurso": 5,
+  "idturma": 2,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe50"
+  },
+  "idDisciplina": 311,
+  "idcurso": 4,
+  "idturma": 40,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe51"
+  },
+  "idDisciplina": 312,
+  "idcurso": 5,
+  "idturma": 34,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe52"
+  },
+  "idDisciplina": 313,
+  "idcurso": 2,
+  "idturma": 3,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe53"
+  },
+  "idDisciplina": 314,
+  "idcurso": 7,
+  "idturma": 22,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe54"
+  },
+  "idDisciplina": 315,
+  "idcurso": 3,
+  "idturma": 35,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe55"
+  },
+  "idDisciplina": 316,
+  "idcurso": 9,
+  "idturma": 8,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe56"
+  },
+  "idDisciplina": 317,
+  "idcurso": 9,
+  "idturma": 13,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe57"
+  },
+  "idDisciplina": 318,
+  "idcurso": 3,
+  "idturma": 33,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe58"
+  },
+  "idDisciplina": 319,
+  "idcurso": 3,
+  "idturma": 8,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe59"
+  },
+  "idDisciplina": 320,
+  "idcurso": 3,
+  "idturma": 31,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe5a"
+  },
+  "idDisciplina": 321,
+  "idcurso": 6,
+  "idturma": 1,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe5b"
+  },
+  "idDisciplina": 322,
+  "idcurso": 9,
+  "idturma": 12,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe5c"
+  },
+  "idDisciplina": 323,
+  "idcurso": 8,
+  "idturma": 4,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe5d"
+  },
+  "idDisciplina": 324,
+  "idcurso": 6,
+  "idturma": 5,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe5e"
+  },
+  "idDisciplina": 325,
+  "idcurso": 5,
+  "idturma": 7,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe5f"
+  },
+  "idDisciplina": 326,
+  "idcurso": 10,
+  "idturma": 26,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe60"
+  },
+  "idDisciplina": 327,
+  "idcurso": 6,
+  "idturma": 27,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe61"
+  },
+  "idDisciplina": 328,
+  "idcurso": 6,
+  "idturma": 9,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe62"
+  },
+  "idDisciplina": 329,
+  "idcurso": 7,
+  "idturma": 25,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe63"
+  },
+  "idDisciplina": 330,
+  "idcurso": 9,
+  "idturma": 4,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe64"
+  },
+  "idDisciplina": 331,
+  "idcurso": 9,
+  "idturma": 37,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe65"
+  },
+  "idDisciplina": 332,
+  "idcurso": 1,
+  "idturma": 5,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe66"
+  },
+  "idDisciplina": 333,
+  "idcurso": 5,
+  "idturma": 36,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe67"
+  },
+  "idDisciplina": 334,
+  "idcurso": 3,
+  "idturma": 13,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe68"
+  },
+  "idDisciplina": 335,
+  "idcurso": 4,
+  "idturma": 7,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe69"
+  },
+  "idDisciplina": 336,
+  "idcurso": 2,
+  "idturma": 23,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe6a"
+  },
+  "idDisciplina": 337,
+  "idcurso": 9,
+  "idturma": 27,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe6b"
+  },
+  "idDisciplina": 338,
+  "idcurso": 8,
+  "idturma": 18,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe6c"
+  },
+  "idDisciplina": 339,
+  "idcurso": 5,
+  "idturma": 5,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe6d"
+  },
+  "idDisciplina": 340,
+  "idcurso": 9,
+  "idturma": 4,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe6e"
+  },
+  "idDisciplina": 341,
+  "idcurso": 9,
+  "idturma": 23,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe6f"
+  },
+  "idDisciplina": 342,
+  "idcurso": 1,
+  "idturma": 36,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe70"
+  },
+  "idDisciplina": 343,
+  "idcurso": 10,
+  "idturma": 34,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe71"
+  },
+  "idDisciplina": 344,
+  "idcurso": 4,
+  "idturma": 3,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe72"
+  },
+  "idDisciplina": 345,
+  "idcurso": 8,
+  "idturma": 31,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe73"
+  },
+  "idDisciplina": 346,
+  "idcurso": 8,
+  "idturma": 4,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe74"
+  },
+  "idDisciplina": 347,
+  "idcurso": 7,
+  "idturma": 6,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe75"
+  },
+  "idDisciplina": 348,
+  "idcurso": 4,
+  "idturma": 36,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe76"
+  },
+  "idDisciplina": 349,
+  "idcurso": 1,
+  "idturma": 4,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe77"
+  },
+  "idDisciplina": 350,
+  "idcurso": 6,
+  "idturma": 36,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe78"
+  },
+  "idDisciplina": 351,
+  "idcurso": 5,
+  "idturma": 18,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe79"
+  },
+  "idDisciplina": 352,
+  "idcurso": 2,
+  "idturma": 9,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe7a"
+  },
+  "idDisciplina": 353,
+  "idcurso": 2,
+  "idturma": 30,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe7b"
+  },
+  "idDisciplina": 354,
+  "idcurso": 7,
+  "idturma": 3,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe7c"
+  },
+  "idDisciplina": 355,
+  "idcurso": 6,
+  "idturma": 15,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe7d"
+  },
+  "idDisciplina": 356,
+  "idcurso": 6,
+  "idturma": 24,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe7e"
+  },
+  "idDisciplina": 357,
+  "idcurso": 6,
+  "idturma": 4,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe7f"
+  },
+  "idDisciplina": 358,
+  "idcurso": 6,
+  "idturma": 17,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe80"
+  },
+  "idDisciplina": 359,
+  "idcurso": 6,
+  "idturma": 11,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe81"
+  },
+  "idDisciplina": 360,
+  "idcurso": 1,
+  "idturma": 8,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe82"
+  },
+  "idDisciplina": 361,
+  "idcurso": 8,
+  "idturma": 34,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe83"
+  },
+  "idDisciplina": 362,
+  "idcurso": 3,
+  "idturma": 35,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe84"
+  },
+  "idDisciplina": 363,
+  "idcurso": 1,
+  "idturma": 28,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe85"
+  },
+  "idDisciplina": 364,
+  "idcurso": 4,
+  "idturma": 21,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe86"
+  },
+  "idDisciplina": 365,
+  "idcurso": 5,
+  "idturma": 30,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe87"
+  },
+  "idDisciplina": 366,
+  "idcurso": 6,
+  "idturma": 40,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe88"
+  },
+  "idDisciplina": 367,
+  "idcurso": 3,
+  "idturma": 29,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe89"
+  },
+  "idDisciplina": 368,
+  "idcurso": 9,
+  "idturma": 34,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe8a"
+  },
+  "idDisciplina": 369,
+  "idcurso": 1,
+  "idturma": 6,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe8b"
+  },
+  "idDisciplina": 370,
+  "idcurso": 9,
+  "idturma": 22,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe8c"
+  },
+  "idDisciplina": 371,
+  "idcurso": 9,
+  "idturma": 9,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe8d"
+  },
+  "idDisciplina": 372,
+  "idcurso": 1,
+  "idturma": 11,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe8e"
+  },
+  "idDisciplina": 373,
+  "idcurso": 6,
+  "idturma": 29,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe8f"
+  },
+  "idDisciplina": 374,
+  "idcurso": 7,
+  "idturma": 39,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe90"
+  },
+  "idDisciplina": 375,
+  "idcurso": 6,
+  "idturma": 23,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe91"
+  },
+  "idDisciplina": 376,
+  "idcurso": 1,
+  "idturma": 34,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe92"
+  },
+  "idDisciplina": 377,
+  "idcurso": 3,
+  "idturma": 1,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe93"
+  },
+  "idDisciplina": 378,
+  "idcurso": 9,
+  "idturma": 4,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe94"
+  },
+  "idDisciplina": 379,
+  "idcurso": 2,
+  "idturma": 26,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe95"
+  },
+  "idDisciplina": 380,
+  "idcurso": 4,
+  "idturma": 30,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe96"
+  },
+  "idDisciplina": 381,
+  "idcurso": 9,
+  "idturma": 20,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe97"
+  },
+  "idDisciplina": 382,
+  "idcurso": 1,
+  "idturma": 33,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe98"
+  },
+  "idDisciplina": 383,
+  "idcurso": 2,
+  "idturma": 40,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe99"
+  },
+  "idDisciplina": 384,
+  "idcurso": 3,
+  "idturma": 4,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe9a"
+  },
+  "idDisciplina": 385,
+  "idcurso": 5,
+  "idturma": 34,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe9b"
+  },
+  "idDisciplina": 386,
+  "idcurso": 3,
+  "idturma": 22,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe9c"
+  },
+  "idDisciplina": 387,
+  "idcurso": 6,
+  "idturma": 17,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe9d"
+  },
+  "idDisciplina": 388,
+  "idcurso": 1,
+  "idturma": 21,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe9e"
+  },
+  "idDisciplina": 389,
+  "idcurso": 10,
+  "idturma": 20,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fe9f"
+  },
+  "idDisciplina": 390,
+  "idcurso": 9,
+  "idturma": 27,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea0"
+  },
+  "idDisciplina": 391,
+  "idcurso": 5,
+  "idturma": 11,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea1"
+  },
+  "idDisciplina": 392,
+  "idcurso": 9,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea2"
+  },
+  "idDisciplina": 393,
+  "idcurso": 3,
+  "idturma": 6,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea3"
+  },
+  "idDisciplina": 394,
+  "idcurso": 5,
+  "idturma": 25,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea4"
+  },
+  "idDisciplina": 395,
+  "idcurso": 3,
+  "idturma": 34,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea5"
+  },
+  "idDisciplina": 396,
+  "idcurso": 4,
+  "idturma": 37,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea6"
+  },
+  "idDisciplina": 397,
+  "idcurso": 1,
+  "idturma": 2,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea7"
+  },
+  "idDisciplina": 398,
+  "idcurso": 6,
+  "idturma": 18,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea8"
+  },
+  "idDisciplina": 399,
+  "idcurso": 4,
+  "idturma": 33,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fea9"
+  },
+  "idDisciplina": 400,
+  "idcurso": 9,
+  "idturma": 24,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feaa"
+  },
+  "idDisciplina": 401,
+  "idcurso": 1,
+  "idturma": 4,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feab"
+  },
+  "idDisciplina": 402,
+  "idcurso": 3,
+  "idturma": 23,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feac"
+  },
+  "idDisciplina": 403,
+  "idcurso": 5,
+  "idturma": 27,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fead"
+  },
+  "idDisciplina": 404,
+  "idcurso": 5,
+  "idturma": 26,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feae"
+  },
+  "idDisciplina": 405,
+  "idcurso": 8,
+  "idturma": 33,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feaf"
+  },
+  "idDisciplina": 406,
+  "idcurso": 10,
+  "idturma": 24,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb0"
+  },
+  "idDisciplina": 407,
+  "idcurso": 7,
+  "idturma": 5,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb1"
+  },
+  "idDisciplina": 408,
+  "idcurso": 2,
+  "idturma": 29,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb2"
+  },
+  "idDisciplina": 409,
+  "idcurso": 7,
+  "idturma": 9,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb3"
+  },
+  "idDisciplina": 410,
+  "idcurso": 1,
+  "idturma": 39,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb4"
+  },
+  "idDisciplina": 411,
+  "idcurso": 5,
+  "idturma": 3,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb5"
+  },
+  "idDisciplina": 412,
+  "idcurso": 6,
+  "idturma": 23,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb6"
+  },
+  "idDisciplina": 413,
+  "idcurso": 7,
+  "idturma": 33,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb7"
+  },
+  "idDisciplina": 414,
+  "idcurso": 6,
+  "idturma": 3,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb8"
+  },
+  "idDisciplina": 415,
+  "idcurso": 2,
+  "idturma": 26,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feb9"
+  },
+  "idDisciplina": 416,
+  "idcurso": 6,
+  "idturma": 40,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feba"
+  },
+  "idDisciplina": 417,
+  "idcurso": 10,
+  "idturma": 16,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978febb"
+  },
+  "idDisciplina": 418,
+  "idcurso": 3,
+  "idturma": 23,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978febc"
+  },
+  "idDisciplina": 419,
+  "idcurso": 8,
+  "idturma": 29,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978febd"
+  },
+  "idDisciplina": 420,
+  "idcurso": 2,
+  "idturma": 18,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978febe"
+  },
+  "idDisciplina": 421,
+  "idcurso": 5,
+  "idturma": 38,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978febf"
+  },
+  "idDisciplina": 422,
+  "idcurso": 10,
+  "idturma": 33,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec0"
+  },
+  "idDisciplina": 423,
+  "idcurso": 6,
+  "idturma": 33,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec1"
+  },
+  "idDisciplina": 424,
+  "idcurso": 5,
+  "idturma": 27,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec2"
+  },
+  "idDisciplina": 425,
+  "idcurso": 3,
+  "idturma": 29,
+  "descricao": "Miscellaneous"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec3"
+  },
+  "idDisciplina": 426,
+  "idcurso": 9,
+  "idturma": 12,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec4"
+  },
+  "idDisciplina": 427,
+  "idcurso": 6,
+  "idturma": 33,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec5"
+  },
+  "idDisciplina": 428,
+  "idcurso": 1,
+  "idturma": 27,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec6"
+  },
+  "idDisciplina": 429,
+  "idcurso": 10,
+  "idturma": 26,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec7"
+  },
+  "idDisciplina": 430,
+  "idcurso": 6,
+  "idturma": 9,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec8"
+  },
+  "idDisciplina": 431,
+  "idcurso": 9,
+  "idturma": 31,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fec9"
+  },
+  "idDisciplina": 432,
+  "idcurso": 1,
+  "idturma": 32,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feca"
+  },
+  "idDisciplina": 433,
+  "idcurso": 1,
+  "idturma": 23,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fecb"
+  },
+  "idDisciplina": 434,
+  "idcurso": 1,
+  "idturma": 14,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fecc"
+  },
+  "idDisciplina": 435,
+  "idcurso": 5,
+  "idturma": 4,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fecd"
+  },
+  "idDisciplina": 436,
+  "idcurso": 9,
+  "idturma": 5,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fece"
+  },
+  "idDisciplina": 437,
+  "idcurso": 2,
+  "idturma": 22,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fecf"
+  },
+  "idDisciplina": 438,
+  "idcurso": 3,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed0"
+  },
+  "idDisciplina": 439,
+  "idcurso": 3,
+  "idturma": 24,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed1"
+  },
+  "idDisciplina": 440,
+  "idcurso": 7,
+  "idturma": 7,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed2"
+  },
+  "idDisciplina": 441,
+  "idcurso": 10,
+  "idturma": 34,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed3"
+  },
+  "idDisciplina": 442,
+  "idcurso": 7,
+  "idturma": 27,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed4"
+  },
+  "idDisciplina": 443,
+  "idcurso": 6,
+  "idturma": 16,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed5"
+  },
+  "idDisciplina": 444,
+  "idcurso": 9,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed6"
+  },
+  "idDisciplina": 445,
+  "idcurso": 1,
+  "idturma": 40,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed7"
+  },
+  "idDisciplina": 446,
+  "idcurso": 5,
+  "idturma": 9,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed8"
+  },
+  "idDisciplina": 447,
+  "idcurso": 8,
+  "idturma": 29,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fed9"
+  },
+  "idDisciplina": 448,
+  "idcurso": 9,
+  "idturma": 14,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feda"
+  },
+  "idDisciplina": 449,
+  "idcurso": 7,
+  "idturma": 2,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fedb"
+  },
+  "idDisciplina": 450,
+  "idcurso": 10,
+  "idturma": 25,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fedc"
+  },
+  "idDisciplina": 451,
+  "idcurso": 2,
+  "idturma": 18,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fedd"
+  },
+  "idDisciplina": 452,
+  "idcurso": 5,
+  "idturma": 31,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fede"
+  },
+  "idDisciplina": 453,
+  "idcurso": 6,
+  "idturma": 23,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fedf"
+  },
+  "idDisciplina": 454,
+  "idcurso": 3,
+  "idturma": 12,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee0"
+  },
+  "idDisciplina": 455,
+  "idcurso": 10,
+  "idturma": 2,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee1"
+  },
+  "idDisciplina": 456,
+  "idcurso": 9,
+  "idturma": 10,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee2"
+  },
+  "idDisciplina": 457,
+  "idcurso": 8,
+  "idturma": 37,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee3"
+  },
+  "idDisciplina": 458,
+  "idcurso": 4,
+  "idturma": 18,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee4"
+  },
+  "idDisciplina": 459,
+  "idcurso": 4,
+  "idturma": 1,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee5"
+  },
+  "idDisciplina": 460,
+  "idcurso": 3,
+  "idturma": 12,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee6"
+  },
+  "idDisciplina": 461,
+  "idcurso": 9,
+  "idturma": 4,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee7"
+  },
+  "idDisciplina": 462,
+  "idcurso": 6,
+  "idturma": 33,
+  "descricao": "Public Utilities"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee8"
+  },
+  "idDisciplina": 463,
+  "idcurso": 6,
+  "idturma": 21,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fee9"
+  },
+  "idDisciplina": 464,
+  "idcurso": 5,
+  "idturma": 33,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feea"
+  },
+  "idDisciplina": 465,
+  "idcurso": 8,
+  "idturma": 1,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feeb"
+  },
+  "idDisciplina": 466,
+  "idcurso": 8,
+  "idturma": 9,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feec"
+  },
+  "idDisciplina": 467,
+  "idcurso": 1,
+  "idturma": 7,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feed"
+  },
+  "idDisciplina": 468,
+  "idcurso": 5,
+  "idturma": 4,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feee"
+  },
+  "idDisciplina": 469,
+  "idcurso": 3,
+  "idturma": 10,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feef"
+  },
+  "idDisciplina": 470,
+  "idcurso": 6,
+  "idturma": 21,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef0"
+  },
+  "idDisciplina": 471,
+  "idcurso": 5,
+  "idturma": 23,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef1"
+  },
+  "idDisciplina": 472,
+  "idcurso": 8,
+  "idturma": 14,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef2"
+  },
+  "idDisciplina": 473,
+  "idcurso": 4,
+  "idturma": 38,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef3"
+  },
+  "idDisciplina": 474,
+  "idcurso": 8,
+  "idturma": 37,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef4"
+  },
+  "idDisciplina": 475,
+  "idcurso": 8,
+  "idturma": 15,
+  "descricao": "Transportation"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef5"
+  },
+  "idDisciplina": 476,
+  "idcurso": 9,
+  "idturma": 3,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef6"
+  },
+  "idDisciplina": 477,
+  "idcurso": 2,
+  "idturma": 13,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef7"
+  },
+  "idDisciplina": 478,
+  "idcurso": 6,
+  "idturma": 40,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef8"
+  },
+  "idDisciplina": 479,
+  "idcurso": 8,
+  "idturma": 29,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fef9"
+  },
+  "idDisciplina": 480,
+  "idcurso": 1,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fefa"
+  },
+  "idDisciplina": 481,
+  "idcurso": 10,
+  "idturma": 12,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fefb"
+  },
+  "idDisciplina": 482,
+  "idcurso": 7,
+  "idturma": 3,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fefc"
+  },
+  "idDisciplina": 483,
+  "idcurso": 5,
+  "idturma": 31,
+  "descricao": "Finance"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fefd"
+  },
+  "idDisciplina": 484,
+  "idcurso": 3,
+  "idturma": 19,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978fefe"
+  },
+  "idDisciplina": 485,
+  "idcurso": 10,
+  "idturma": 16,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978feff"
+  },
+  "idDisciplina": 486,
+  "idcurso": 10,
+  "idturma": 5,
+  "descricao": "Health Care"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff00"
+  },
+  "idDisciplina": 487,
+  "idcurso": 8,
+  "idturma": 17,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff01"
+  },
+  "idDisciplina": 488,
+  "idcurso": 3,
+  "idturma": 22,
+  "descricao": "Capital Goods"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff02"
+  },
+  "idDisciplina": 489,
+  "idcurso": 3,
+  "idturma": 11,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff03"
+  },
+  "idDisciplina": 490,
+  "idcurso": 4,
+  "idturma": 35,
+  "descricao": "Basic Industries"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff04"
+  },
+  "idDisciplina": 491,
+  "idcurso": 10,
+  "idturma": 27,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff05"
+  },
+  "idDisciplina": 492,
+  "idcurso": 8,
+  "idturma": 37,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff06"
+  },
+  "idDisciplina": 493,
+  "idcurso": 10,
+  "idturma": 27,
+  "descricao": "Consumer Services"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff07"
+  },
+  "idDisciplina": 494,
+  "idcurso": 2,
+  "idturma": 6,
+  "descricao": "Engineering"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff08"
+  },
+  "idDisciplina": 495,
+  "idcurso": 10,
+  "idturma": 22,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff09"
+  },
+  "idDisciplina": 496,
+  "idcurso": 8,
+  "idturma": 7,
+  "descricao": "Consumer Non-Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff0a"
+  },
+  "idDisciplina": 497,
+  "idcurso": 9,
+  "idturma": 25,
+  "descricao": "Consumer Durables"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff0b"
+  },
+  "idDisciplina": 498,
+  "idcurso": 1,
+  "idturma": 1,
+  "descricao": "Energy"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff0c"
+  },
+  "idDisciplina": 499,
+  "idcurso": 8,
+  "idturma": 32,
+  "descricao": "Technology"
+},{
+  "_id": {
+    "$oid": "615e6003d79f2e40a978ff0d"
+  },
+  "idDisciplina": 500,
+  "idcurso": 5,
+  "idturma": 21,
+  "descricao": "Consumer Services"
+}]

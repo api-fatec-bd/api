@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff10"
+  },
+  "idturma": 1,
+  "idprofessor": 452,
+  "descricao": "RH2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff11"
+  },
+  "idturma": 2,
+  "idprofessor": 481,
+  "descricao": "RH2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff12"
+  },
+  "idturma": 3,
+  "idprofessor": 490,
+  "descricao": "RH2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff13"
+  },
+  "idturma": 4,
+  "idprofessor": 452,
+  "descricao": "ADM2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff14"
+  },
+  "idturma": 5,
+  "idprofessor": 460,
+  "descricao": "ADM2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff15"
+  },
+  "idturma": 6,
+  "idprofessor": 486,
+  "descricao": "RDC2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff16"
+  },
+  "idturma": 7,
+  "idprofessor": 464,
+  "descricao": "ECOMP2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff17"
+  },
+  "idturma": 8,
+  "idprofessor": 475,
+  "descricao": "RH2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff18"
+  },
+  "idturma": 9,
+  "idprofessor": 458,
+  "descricao": "BD2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff19"
+  },
+  "idturma": 10,
+  "idprofessor": 488,
+  "descricao": "BD2019"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff1a"
+  },
+  "idturma": 11,
+  "idprofessor": 464,
+  "descricao": "ADS2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff1b"
+  },
+  "idturma": 12,
+  "idprofessor": 490,
+  "descricao": "ECOMP2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff1c"
+  },
+  "idturma": 13,
+  "idprofessor": 469,
+  "descricao": "RDC2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff1d"
+  },
+  "idturma": 14,
+  "idprofessor": 453,
+  "descricao": "EMEC2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff1e"
+  },
+  "idturma": 15,
+  "idprofessor": 475,
+  "descricao": "ECIV2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff1f"
+  },
+  "idturma": 16,
+  "idprofessor": 481,
+  "descricao": "RH2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff20"
+  },
+  "idturma": 17,
+  "idprofessor": 490,
+  "descricao": "LOG2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff21"
+  },
+  "idturma": 18,
+  "idprofessor": 469,
+  "descricao": "ECOMP2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff22"
+  },
+  "idturma": 19,
+  "idprofessor": 475,
+  "descricao": "EELE2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff23"
+  },
+  "idturma": 20,
+  "idprofessor": 485,
+  "descricao": "LOG2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff24"
+  },
+  "idturma": 21,
+  "idprofessor": 461,
+  "descricao": "EMEC2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff25"
+  },
+  "idturma": 22,
+  "idprofessor": 482,
+  "descricao": "EELE2019"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff26"
+  },
+  "idturma": 23,
+  "idprofessor": 476,
+  "descricao": "EMEC2019"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff27"
+  },
+  "idturma": 24,
+  "idprofessor": 465,
+  "descricao": "ADS2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff28"
+  },
+  "idturma": 25,
+  "idprofessor": 477,
+  "descricao": "BD2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff29"
+  },
+  "idturma": 26,
+  "idprofessor": 468,
+  "descricao": "ADM2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff2a"
+  },
+  "idturma": 27,
+  "idprofessor": 467,
+  "descricao": "EMEC2019"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff2b"
+  },
+  "idturma": 28,
+  "idprofessor": 457,
+  "descricao": "LOG2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff2c"
+  },
+  "idturma": 29,
+  "idprofessor": 487,
+  "descricao": "ECIV2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff2d"
+  },
+  "idturma": 30,
+  "idprofessor": 457,
+  "descricao": "RH2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff2e"
+  },
+  "idturma": 31,
+  "idprofessor": 489,
+  "descricao": "BD2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff2f"
+  },
+  "idturma": 32,
+  "idprofessor": 470,
+  "descricao": "BD2019"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff30"
+  },
+  "idturma": 33,
+  "idprofessor": 473,
+  "descricao": "ADM2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff31"
+  },
+  "idturma": 34,
+  "idprofessor": 473,
+  "descricao": "LOG2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff32"
+  },
+  "idturma": 35,
+  "idprofessor": 457,
+  "descricao": "RDC2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff33"
+  },
+  "idturma": 36,
+  "idprofessor": 467,
+  "descricao": "BD2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff34"
+  },
+  "idturma": 37,
+  "idprofessor": 458,
+  "descricao": "EELE2021"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff35"
+  },
+  "idturma": 38,
+  "idprofessor": 456,
+  "descricao": "RDC2020"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff36"
+  },
+  "idturma": 39,
+  "idprofessor": 458,
+  "descricao": "EELE2019"
+},{
+  "_id": {
+    "$oid": "615e6015d79f2e40a978ff37"
+  },
+  "idturma": 40,
+  "idprofessor": 457,
+  "descricao": "ADS2020"
+}]
