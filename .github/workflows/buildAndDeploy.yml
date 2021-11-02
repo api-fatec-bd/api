@@ -25,11 +25,11 @@ jobs:
         # DigitalOcean API Token
         token: ${{ secrets.DO_TOKEN }}
     - name: Configure Docker
-        run: |
-          doctl registry login
+      run: |
+        doctl registry login
     - name: BuildDocker
-        run: |
-          docker build --tag  registry.digitalocean.com/nemo-container/v${{ github.run_number }} --file nemosys/etl/Dockerfile .
+      run: |
+        docker build --tag  registry.digitalocean.com/nemo-container/v${{ github.run_number }} --file nemosys/etl/Dockerfile .
     - name: Push to Container Registry
-        run: |
-          docker push registry.digitalocean.com/nemo-container/v${{ github.run_number }}
+      run: |
+        docker push registry.digitalocean.com/nemo-container/v${{ github.run_number }}
