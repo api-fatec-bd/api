@@ -6,7 +6,6 @@ schedule = 24
 
 
 def ETLschedule():
-    print('teste repository')
     scheduler = BackgroundScheduler()
     scheduler.add_job(usersETL, 'interval', hours=schedule)
     scheduler.add_job(sessionsETL, 'interval', hours=schedule)
