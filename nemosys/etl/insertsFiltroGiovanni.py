@@ -1,7 +1,6 @@
 
 import psycopg2
 
-from filtrosGiovanni import *
 
 from datetime import date
 
@@ -13,7 +12,28 @@ def conexaoBanco():
                            password='password')
     return conexao
 
+################################################################# DELETE DATA IN TABLES #################################################################
 
+def deleteDataTables():
+    deleteFromDimCurso()
+
+
+def deleteFromDimCurso():
+    try:
+        connection = conexaoBanco()
+        cursor = connection.cursor()
+        cursor.execute("DELETE FROM DIM_CURSO CASCADE")
+        connection.commit()
+        return "DIM_CURSO: DADOS EXCLUIDOS COM SUCESSO"
+    except (Exception, psycopg2.Error) as error:
+        print("Failed to insert record into mobile table", error)
+        return "DIM_CURSO: NÃO FOI POSSÍVEL EXCLUIR DADOS"
+    finally:
+        if connection:
+            cursor.close()
+            connection.close()
+            print("PostgreSQL connection is closed")
+#deleteDataTables()
 ################################################################# INSERT DIM CURSO #################################################################
 def insertDimCurso():
     collection_curso = filtroDimCurso()
@@ -26,9 +46,10 @@ def insertDimCurso():
             cursor.execute(comando_insert, values)
             connection.commit()
             print("INSERT CURSO OK: ", values)
-
+        return "Cursos inseridos com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
+        return "Não foi possível cadastrar cursos!"
     finally:
         if connection:
             cursor.close()
@@ -36,7 +57,7 @@ def insertDimCurso():
             print("PostgreSQL connection is closed")
 
 #EXECUÇÃO DA FUNÇÃO
-insertDimCurso()
+#insertDimCurso()
 
 ##########################################################################################################################################################
 
@@ -53,9 +74,10 @@ def insertDimAula():
             cursor.execute(comando_insert, values)
             connection.commit()
             print("INSERT AULA OK: ", values)
-
+        return "Aulas inseridos com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
+        return "Não foi possível cadastrar aulas!"
     finally:
         if connection:
             cursor.close()
@@ -63,7 +85,7 @@ def insertDimAula():
             print("PostgreSQL connection is closed")
 
 #EXECUÇÃO DA FUNÇÃO
-insertDimAula()
+#insertDimAula()
 
 ##########################################################################################################################################################
 
@@ -81,8 +103,10 @@ def insertDimDisciplina():
             cursor.execute(comando_insert, values)
             connection.commit()
         print("INSERT DISCIPLINA OK: ", values)
+        return "Disciplinas inseridas com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
+        return "Não foi possível cadastrar disciplinas!"
     finally:
         if connection:
             cursor.close()
@@ -96,27 +120,25 @@ def insertDimDisciplina():
 
 
 ################################################################# INSERT FACT ACESSO #################################################################
-def insertFactAcesso():
-    vetor_sessao = filtroFactAcesso()
+def insertFactAcesso(id_usuario, data_login, data_logoff, origem):
     try:
         connection = conexaoBanco()
         cursor = connection.cursor()
-        for sessao in vetor_sessao:
-            comando_insert = """ INSERT INTO fact_acesso (id_usuario, data_login, data_logoff, origem) VALUES (%s,%s,%s,%s)"""
-            values = (sessao[0], sessao[2],sessao[3],sessao[1])
-            cursor.execute(comando_insert, values)
-            connection.commit()
+        comando_insert = """ INSERT INTO fact_acesso (id_usuario, data_login, data_logoff, origem) VALUES (%s,%s,%s,%s)"""
+        values = (id_usuario, data_login, data_logoff, origem)
+        cursor.execute(comando_insert, values)
+        connection.commit()
         print("INSERT FACT ACESSO OK: ", values)
+        return "Acesso inserido com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
+        return "Não foi possível cadastrar acessos!"
     finally:
         if connection:
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
 
-#EXECUÇÃO DA FUNÇÃO
-insertFactAcesso()
 
 ##########################################################################################################################################################
 
@@ -132,41 +154,38 @@ def insertFactChat():
             cursor.execute(comando_insert, values)
             connection.commit()
         print("INSERT FACT CHAT OK: ", values)
+        return "Chat inseridos com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
+        return "Não foi possível cadastrar chat!"
     finally:
         if connection:
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
-
-#EXECUÇÃO DA FUNÇÃO
-insertFactChat()
 
 ##########################################################################################################################################################
 
 ################################################################# INSERT FACT USUARIO CHAT #################################################################
-def insertFactUsuarioChat():
-    vetor_usuario_mensagens_room = filtroFactUsuarioChat()
+
+def insertFactUsuarioChat(id_usuario_chat, id_usuario, id_chat, data_login, data_logoff, quantidade_mensagens, data_ultima_msg, tempo_participacao):
     try:
         connection = conexaoBanco()
         cursor = connection.cursor()
-        for usuario_mensagens_room in vetor_usuario_mensagens_room:
-            comando_insert = """ INSERT INTO fact_usuario_chat (id_usuario_chat, id_usuario, id_chat, data_login, data_logoff, quantidade_mensagens, data_ultima_msg, tempo_participacao) VALUES (%s,%s,%s,%s, %s, %s, %s, %s)"""
-            values = (usuario_mensagens_room[0],usuario_mensagens_room[1],usuario_mensagens_room[2],usuario_mensagens_room[3],usuario_mensagens_room[4],usuario_mensagens_room[7],usuario_mensagens_room[6],usuario_mensagens_room[5])
-            cursor.execute(comando_insert, values)
-            connection.commit()
+        comando_insert = """ INSERT INTO fact_usuario_chat (id_usuario_chat, id_usuario, id_chat, data_login, data_logoff, quantidade_mensagens, data_ultima_msg, tempo_participacao) VALUES (%s,%s,%s,%s, %s, %s, %s, %s)"""
+        values = (id_usuario_chat, id_usuario, id_chat, data_login, data_logoff, quantidade_mensagens, data_ultima_msg,
+                  tempo_participacao)
+        cursor.execute(comando_insert, values)
+        connection.commit()
         print("INSERT FACT USUARIO CHAT OK: ", values)
+        return "Usuario Chat inserido com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
+        return "Não foi possível cadastrar usuario chat!"
     finally:
         if connection:
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
-
-#EXECUÇÃO DA FUNÇÃO
-insertFactUsuarioChat()
-
 ##########################################################################################################################################################
 

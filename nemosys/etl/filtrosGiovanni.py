@@ -1,6 +1,8 @@
 from mongoConnection import mongoConnection
 
+from insertsFiltroGiovanni import insertFactChat, insertFactUsuarioChat, insertDimCurso, insertDimDisciplina, insertDimAula, insertFactAcesso
 
+from datetime import datetime
 
 # CRIAR FILTRO PARA ALIMENTAR TABELA DIM_DISCIPLINA
 
@@ -86,30 +88,44 @@ Campos: ID_USUARIO_CHAT; ID_USUARIO; ID_CHAT; DATA_LOGIN; DATA_LOGOFF; TEMPO_PAR
 """""""""
 
 def filtroFactUsuarioChat():
-    collection_usuarios = mongoConnection()['rocketchat']['users'].find()
-    collection_rooms_chat = mongoConnection()['rocketchat']['rocketchat_room'].find()
+    collection_usuarios = mongoConnection()['Logs']['Usuario'].find()
     collection_message = mongoConnection()['rocketchat']['rocketchat_message']
     id_usuario_chat = 0
-    vetor_usuario_mensagens_room = []
-    for roomChat in collection_rooms_chat:
-        for usuario in collection_usuarios:
-            mensagens_usuario = list(collection_message.find({'u._id': usuario['_id'], 'rid': roomChat['_id']}))
-            #PRIMEIRA MENSAGEM; ULTIMA MENSAGEM, TEMPO DURACAO; DA ROOM SELECIONADA NO USUÁRIO SELECIONADO
-            if mensagens_usuario != []:
+    for usuario in collection_usuarios:
+
+        mensagens_usuario = list(collection_message.find({'username': usuario['USERNAME']}))
+        #print("mensagens_usuario: ", mensagens_usuario)
+        #PRIMEIRA MENSAGEM; ULTIMA MENSAGEM, TEMPO DURACAO; DA ROOM SELECIONADA NO USUÁRIO SELECIONADO
+        salas = ["GENERAL", "SALA2", "SALA1"]
+
+        for sala in salas:
+            print("Sala: ", sala)
+            vetor_mensagensPorSalaUsuario = []
+            for mensagemUsuario in mensagens_usuario:
+                print("SalamensagemUsuario: ", mensagemUsuario['rid'])
+
+                if mensagemUsuario['rid'] == sala:
+                    vetor_mensagensPorSalaUsuario.append(mensagemUsuario)
+                else:
+                    None
+
+            if vetor_mensagensPorSalaUsuario != []:
+                print("Teste vetor_mensagensPorSalaUsuario: ", vetor_mensagensPorSalaUsuario)
                 id_usuario_chat = id_usuario_chat + 1
-                data_login = mensagens_usuario[0]['ts']
-                data_logoff = mensagens_usuario[-1]['ts']
+                data_login = datetime.strptime(vetor_mensagensPorSalaUsuario[0]['_updateAt'], '%d-%m-%Y %H:%M:%S')
+                data_logoff = datetime.strptime(vetor_mensagensPorSalaUsuario[-1]['_updateAt'], '%d-%m-%Y %H:%M:%S')
                 tempo_participacao = (data_logoff - data_login).total_seconds() / 60
                 tempo_participacao = "{:.2f}".format(tempo_participacao)
                 # QUANTIDADE DE MENSAGENS
-                quantidade_mensagens = len(mensagens_usuario)
-                linha_vetor = [id_usuario_chat, usuario['_id'], roomChat['_id'], data_login, data_logoff,
-                               tempo_participacao, data_logoff, quantidade_mensagens]
-                vetor_usuario_mensagens_room.append(linha_vetor)
+                quantidade_mensagens = len(vetor_mensagensPorSalaUsuario)
 
-    #print("Vetor: ", vetor_usuario_mensagens_room)
-    return vetor_usuario_mensagens_room
-
+                print("data_login: ", data_login)
+                print("data_logoff: ", data_logoff)
+                print("tempo_participacao: ", tempo_participacao)
+                print("quantidade_mensagens: ", quantidade_mensagens)
+                print("sala: ", vetor_mensagensPorSalaUsuario[0]['rid'])
+                insertFactUsuarioChat(id_usuario_chat, usuario['IDUSUARIO'], vetor_mensagensPorSalaUsuario[0]['rid'],
+                                      data_login, data_logoff, quantidade_mensagens, data_logoff, tempo_participacao)
 
 
 # CRIAR FILTRO PARA ALIMENTAR TABELA FACT_ACESSO
@@ -117,28 +133,6 @@ def filtroFactUsuarioChat():
 """""""""
 Campos: ID_USUARIO; ORIGEM; DATA_LOGIN; DATA_LOGOFF;
 """""""""
-
-def filtroFactAcesso():
-
-    collection_login = mongoConnection()['Logs']['Login']
-
-    vetor_sessao = []
-    for loginLogout in collection_login.find():
-        all_login_user = list(collection_login.find({'iduser': loginLogout['iduser'], 'funcao': 'Login'}))
-        all_logout_user = list(collection_login.find({'iduser': loginLogout['iduser'], 'funcao': 'Logout'}))
-
-        for login_user in all_login_user:
-            data_login = login_user['DateTime']
-            data_logoff = dataHoraLogout(data_login, all_logout_user)
-
-        linha_vetor_sessao = [loginLogout['iduser'], 'P', data_login, data_logoff]
-
-        vetor_sessao.append(linha_vetor_sessao)
-        print("vetor_sessao: ", linha_vetor_sessao)
-
-    #print("vetor_sessao: ", vetor_sessao)
-    return vetor_sessao
-
 
 def dataHoraLogout(datetimeLogin, listLogoutUser):
     vetor = []
@@ -152,6 +146,31 @@ def dataHoraLogout(datetimeLogin, listLogoutUser):
     else:
         menorDatetimeLogout = 0
         return menorDatetimeLogout
+
+def filtroFactAcesso():
+
+    collection_login = mongoConnection()['Logs']['Login']
+
+    for loginLogout in collection_login.find():
+        all_login_user = list(collection_login.find({'iduser': loginLogout['iduser'], 'funcao': 'Login'}))
+        all_logout_user = list(collection_login.find({'iduser': loginLogout['iduser'], 'funcao': 'Logout'}))
+
+        for login_user in all_login_user:
+            data_login = login_user['DateTime']
+            data_logoff = dataHoraLogout(data_login, all_logout_user)
+
+        insertFactAcesso(loginLogout['iduser'], data_login, data_logoff, 'P')
+        insertFactAcesso(loginLogout['iduser'], data_login, data_logoff, 'C')
+
+
+
+
+
+#EXECUÇÃO DAS FUNÇÕES DE FILTRO E INSERÇÃO
+#filtroFactAcesso()
+
+filtroFactUsuarioChat()
+
 
 
 
