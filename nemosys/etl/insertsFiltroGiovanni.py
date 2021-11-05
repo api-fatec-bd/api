@@ -26,7 +26,7 @@ def insertDimCurso(id_curso, descricao, graduacao, duracao):
         return "Curso inserido com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
-        return "Não foi possível cadastrar cursos!"
+        return error
     finally:
         if connection:
             cursor.close()
@@ -48,7 +48,7 @@ def insertDimAula(id_aula, data_inicio, data_fim, id_disciplina, titulo, duracao
         return "Aula inserida com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
-        return "Não foi possível cadastrar aulas!"
+        return error
     finally:
         if connection:
             cursor.close()
@@ -72,7 +72,7 @@ def insertDimDisciplina(id_disciplina, id_curso, descricao, id_turma):
         return "Disciplina inserida com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
-        return "Não foi possível cadastrar disciplinas!"
+        return error
     finally:
         if connection:
             cursor.close()
@@ -95,7 +95,7 @@ def insertFactAcesso(id_usuario, data_login, data_logoff, origem):
         return "Acesso inserido com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
-        return "Não foi possível cadastrar acessos!"
+        return error
     finally:
         if connection:
             cursor.close()
@@ -118,7 +118,7 @@ def insertFactChat(id_chat, data_inicio, data_fim, quantidade_usuario, descricao
         return "Chat inserido com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
-        return "Não foi possível cadastrar chat!"
+        return error
     finally:
         if connection:
             cursor.close()
@@ -142,7 +142,7 @@ def insertFactUsuarioChat(id_usuario_chat, id_usuario, id_chat, data_login, data
         return "Usuario Chat inserido com sucesso!"
     except (Exception, psycopg2.Error) as error:
         print("Failed to insert record into mobile table", error)
-        return "Não foi possível cadastrar usuario chat!"
+        return error
     finally:
         if connection:
             cursor.close()
