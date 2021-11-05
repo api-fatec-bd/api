@@ -11,12 +11,14 @@ Campos: ID_DISCIPLINA; ID_CURSO; ID_TURMA; DESCRICAO;
 """""""""
 
 def filtroDimDisciplina():
-    
     collection_disciplina = mongoConnection()['Logs']['Disciplina'].find()
+    for disciplina in collection_disciplina:
+        id_disciplina = disciplina['idDisciplina']
+        id_curso = disciplina['idcurso']
+        descricao = disciplina['descricao']
+        id_turma = disciplina['idturma']
 
-    return collection_disciplina
-
-
+        insertDimDisciplina(id_disciplina, id_curso, descricao, id_turma)
 
 # CRIAR FILTRO PARA ALIMENTAR TABELA DIM_CURSO
 
@@ -25,12 +27,14 @@ Campos: ID_CURSO; DESCRICAO; GRADUACAO; DURACAO;
 """""""""
 
 def filtroDimCurso():
-
     collection_curso = mongoConnection()['Logs']['Curso'].find()
+    for curso in collection_curso:
+        id_curso = curso['idcurso']
+        descricao = curso['descricao']
+        graduacao = curso['graduacao']
+        duracao = curso['duracao']
 
-    return collection_curso
-
-
+        insertDimCurso(id_curso, descricao, graduacao, duracao)
 
 # CRIAR FILTRO PARA ALIMENTAR TABELA DIM_AULA
 
@@ -39,24 +43,18 @@ Campos: ID_AULA; DATA_INICIO; DATA_FIM; ID_DISCIPLINA; TITULO; ASSUNTO; DURACAO;
 """""""""
 
 def filtroDimAula():
-
     collection_aula = mongoConnection()['Logs']['Aula'].find()
+    for aula in collection_aula:
+        id_aula = aula['idAula']
+        data_inicio = datetime.strptime(aula['DateInicio'], '%Y-%m-%d %H:%M:%S')
+        data_fim = datetime.strptime(aula['dateFim'], '%Y-%m-%d %H:%M:%S')
+        id_disciplina = aula['idDisciplina']
+        titulo = aula['Titulo']
+        duracao = (data_fim - data_inicio).total_seconds() / 60
+        duracao = round(duracao, 2)
+        assunto = aula['Assunto']
 
-    return collection_aula
-
-
-# CRIAR FILTRO PARA ALIMENTAR TABELA DIM_USUARIO
-
-"""""""""
-Campos: ID_USUARIO; NOME_USUARIO; CODIGO_PERFIL; DESCRICAO_PERFIL;
-"""""""""
-
-def filtroDimUsuario():
-
-    collection_usuario = mongoConnection()['Logs']['Usuario'].find()
-
-    return collection_usuario
-
+        insertDimAula(id_aula, data_inicio, data_fim, id_disciplina, titulo, duracao, assunto)
 
 # CRIAR FILTRO PARA ALIMENTAR TABELA FACT_CHAT
 
@@ -65,7 +63,6 @@ Campos: ID_CHAT; DATA_INICIO; DATA_FIM; QUANTIDADE_USUARIO; DESCRICAO; DURACAO;
 """""""""
 
 def filtroFactChat():
-
     collection_room = mongoConnection()['rocketchat']['rocketchat_room'].find()
     vetor_chat = []
     for room in collection_room:
@@ -75,11 +72,8 @@ def filtroFactChat():
         quantidade_usuario = room['usersCount']
         descricao_chat = room['name']
         duracao_horas = (data_fim - data_inicio).total_seconds() / 60
-        linha_vetor = [id_chat, data_inicio, data_fim, quantidade_usuario, descricao_chat, duracao_horas]
-        vetor_chat.append(linha_vetor)
 
-    return vetor_chat
-
+        insertFactChat(id_chat, data_inicio, data_fim, quantidade_usuario, descricao_chat, duracao_horas)
 
 # CRIAR FILTRO PARA ALIMENTAR TABELA FACT_USUARIO_CHAT
 
@@ -124,9 +118,9 @@ def filtroFactUsuarioChat():
                 print("tempo_participacao: ", tempo_participacao)
                 print("quantidade_mensagens: ", quantidade_mensagens)
                 print("sala: ", vetor_mensagensPorSalaUsuario[0]['rid'])
+
                 insertFactUsuarioChat(id_usuario_chat, usuario['IDUSUARIO'], vetor_mensagensPorSalaUsuario[0]['rid'],
                                       data_login, data_logoff, quantidade_mensagens, data_logoff, tempo_participacao)
-
 
 # CRIAR FILTRO PARA ALIMENTAR TABELA FACT_ACESSO
 
@@ -167,10 +161,14 @@ def filtroFactAcesso():
 
 
 #EXECUÇÃO DAS FUNÇÕES DE FILTRO E INSERÇÃO
-#filtroFactAcesso()
 
+
+filtroDimCurso()
+filtroDimAula()
+filtroDimDisciplina()
+filtroFactAcesso()
 filtroFactUsuarioChat()
-
+filtroFactChat()
 
 
 
