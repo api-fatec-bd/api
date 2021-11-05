@@ -15,3 +15,12 @@ def postgreeConnection():
     sql_conn.autocommit = True
 
     return sql_conn.cursor()
+
+
+def conexaoBanco():
+    conexao = psycopg2.connect(host='157.245.243.16',
+                           port='5432',
+                           database='PROJETO_API_NEMO',
+                           user='username',
+                           password='password')
+    return conexao
