@@ -3,7 +3,8 @@ from datetime import datetime
 
 from pymongo.common import partition_node
 
-sys.path.append("C:\\Users\\EBI\\Documents\\Daniel\\000_Personal\\api\\nemosys\\etl\\etl_D")
+#sys.path.append("C:\\Users\\EBI\\Documents\\Daniel\\000_Personal\\api\\nemosys\\etl\\etl_D")
+sys.path.append("..")
 
 from filters import filters
 from connections import connections
@@ -12,13 +13,13 @@ from aux_functions import aux_functions
 
 connMongo = connections.mongoConnection()
 # init_date, end_date = aux_functions.etl_dates()
-init_date, end_date = aux_functions.full_load_dates()
+# init_date, end_date = aux_functions.full_load_dates()
 connPostgree = connections.postgreeConnection()
 
 
-########## userExitClassFilter ETL ##########
+#  userExitClassFilter ETL # 
 
-result = filters.userExitClassFilter(init_date, end_date, connMongo)
+result = filters.userExitClassFilter(connMongo)
 print(result)
 for doc in result:
     mocked_missing = 1
@@ -33,8 +34,8 @@ for doc in result:
                                                                                                     doc["id_aula"],
                                                                                                     partition_time,
                                                                                                     mocked_missing))  
-        #TODO-fix fields
-        # aux_functions.updateMongoFlag("Logs","Acesso_aula", doc["_id"], "assunto", connMongo)
+        #TODO- replace generic for specific
+        aux_functions.genericETLFlag("Logs","Acesso_aula", doc["_id"], "etl", connMongo)
   
     except Exception as e:
         print('Erro while inserting:', e)

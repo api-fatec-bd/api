@@ -47,9 +47,9 @@ def matriculationFilter(init_date, end_date, mongoConnection):
     return mongoConnection['Logs']['Matricula'].find(filters, fields)
 
 #  filters list of 'users class out' events
-def userExitClassFilter(init_date, end_date, mongoConnection):
-    filters = {"evento":"Saida", "id_usuario": 423}
-    fields = {"id_usuario": 1, "date": 1, "id_aula": 1, "_id": 0}
+def userExitClassFilter(mongoConnection):
+    filters = {"evento":"Saida", "etl": {"$exists": False}}
+    fields = {"id_usuario": 1, "date": 1, "id_aula": 1}
 
     return mongoConnection['Logs']['Acesso_aula'].find(filters, fields)
 

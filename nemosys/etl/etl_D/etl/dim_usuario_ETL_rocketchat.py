@@ -12,7 +12,7 @@ init_date, end_date = aux_functions.full_load_dates()
 connPostgree = connections.postgreeConnection()
 
 
-########## USERS ETL ##########
+#  USERS ETL # 
 
 result = filters.rocketUsersFilter(init_date, end_date, connMongo)
 

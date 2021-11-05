@@ -12,7 +12,7 @@ init_date, end_date = aux_functions.full_load_dates()
 connPostgree = connections.postgreeConnection()
 
 
-########## GRADES ETL ##########
+#  GRADES ETL # 
 
 result = filters.gradesFilter(init_date, end_date, connMongo)
 

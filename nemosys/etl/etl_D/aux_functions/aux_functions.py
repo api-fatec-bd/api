@@ -16,7 +16,7 @@ def full_load_dates():
     return old_date, future_date,
 
 #TODO:implement function
-def updateMongoFlag(database, collection, docId, flagField, mongoConnection):
+def genericETLFlag(database, collection, docId, flagField, mongoConnection):
     query = {"_id": docId}
     newvalues = { "$set": {flagField: "1" } }
     mongoConnection[database][collection].update_one(query, newvalues)

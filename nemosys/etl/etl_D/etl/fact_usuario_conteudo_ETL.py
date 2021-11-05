@@ -12,7 +12,7 @@ init_date, end_date = aux_functions.full_load_dates()
 connPostgree = connections.postgreeConnection()
 
 
-########## content ETL ##########
+#  content ETL # 
 
 result = filters.contentFilter(init_date, end_date, connMongo)
 
