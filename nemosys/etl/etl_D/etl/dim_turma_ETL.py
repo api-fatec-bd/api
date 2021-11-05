@@ -20,7 +20,7 @@ for doc in result:
     try:
         connPostgree.execute("INSERT INTO dim_turma (id_turma, descricao, id_professor) VALUES('{0}','{1}','{2}');".format(doc["idturma"], doc["descricao"], doc["idprofessor"]))
     except Exception as e:
-        print(e)
+        print('Erro while inserting:', e)
         continue
     
 connMongo.close()

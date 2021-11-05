@@ -23,7 +23,7 @@ for doc in result:
         # falta trocar id_conteudo, data_upload e id_aula
         connPostgree.execute("INSERT INTO fact_usuario_conteudo (id_usuario, data_upload, data_download, id_conteudo, id_disciplina, id_aula) VALUES('{0}','{1}','{2}','{3}','{4}','{5}');".format(doc["id_usuario"], doc["date"], doc["date"], 1, doc["id_disciplina"], 1))
     except Exception as e:
-        print(e)
+        print('Erro while inserting:', e)
         continue
 
 connMongo.close()

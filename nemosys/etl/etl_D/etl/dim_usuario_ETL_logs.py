@@ -25,7 +25,7 @@ for doc in result:
                                                                                                                                                 doc["CODIGO_PERMISSAO"],
                                                                                                                                                 doc["DESCRICAO_PERMISSAO"]))
     except Exception as e:
-        print(e)
+        print('Erro while inserting:', e)
         continue
 
 connMongo.close()

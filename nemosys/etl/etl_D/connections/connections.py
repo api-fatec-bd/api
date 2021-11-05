@@ -3,7 +3,7 @@ import psycopg2
 
 
 def mongoConnection():
-    mongo_conn = MongoClient('mongodb://157.245.243.16:3004/')
+    mongo_conn = MongoClient('mongodb://157.245.243.16:3004/?retryWrites=false')
     return mongo_conn
 
 

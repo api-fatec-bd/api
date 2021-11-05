@@ -26,7 +26,7 @@ for doc in result:
                                                                                                                                                 (doc["nota"]/ doc["notaAvaliacao"]),
                                                                                                                                                 doc["data"]))
     except Exception as e:
-        print(e)
+        print('Erro while inserting:', e)
         continue
 
 connMongo.close()

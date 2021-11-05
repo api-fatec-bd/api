@@ -31,7 +31,7 @@ for doc in result:
                                                                                                                                                 profile_code,
                                                                                                                                                 doc["type"]))
     except Exception as e:
-        print(e)
+        print('Erro while inserting:', e)
         continue
 
 connMongo.close()
