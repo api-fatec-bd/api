@@ -1,0 +1,32 @@
+name: Build And Deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+      - 'develop'
+jobs:
+  setup-build-publish-deploy:
+    name: Setup, Build, Publish, and Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: GitHub Action for DigitalOcean - doctl
+      # You may pin to the exact commit or the version.
+      # uses: digitalocean/action-doctl@d36a87b1d9c7bd55c8d8434ff2a991a6ee32a448
+      uses: digitalocean/action-doctl@v2.1.0
+      with:
+        # Version of doctl to install
+        version: # optional, default is latest
+        # DigitalOcean API Token
+        token: ${{ secrets.DO_TOKEN }}
+    - name: Configure Docker
+      run: |
+        doctl registry login
+    - name: BuildDocker
+      run: |
+        docker build --tag  registry.digitalocean.com/nemo-container/v1 --file etl/Dockerfile .
+    - name: Push to Container Registry
+      run: |
+        docker push registry.digitalocean.com/nemo-container/v1
