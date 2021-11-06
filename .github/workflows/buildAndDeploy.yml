@@ -3,10 +3,8 @@ name: Build And Deploy
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
       - 'develop'
-  pull_request:
-    branches: [ main ]
 jobs:
   setup-build-publish-deploy:
     name: Setup, Build, Publish, and Deploy
