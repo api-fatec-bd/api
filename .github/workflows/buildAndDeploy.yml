@@ -3,8 +3,11 @@ name: Build And Deploy
 on:
   push:
     branches:
-      - 'master'
-      - 'develop'
+#      - 'master'
+#      - 'develop'
+      - '*'         # matches every branch that doesn't contain a '/'
+      - '*/*'       # matches every branch containing a single '/'
+      - '**'
   pull_request:
     branches: [ main ]
 jobs:
