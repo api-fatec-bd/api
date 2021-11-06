@@ -1,0 +1,13 @@
+0 4 * * * $HOME/etl/jobs/dim_usuario_ETL_logs.py
+0 4 * * * $HOME/etl/jobs/dim_usuario_ETL_rocketchat.py
+0 4 * * * $HOME/etl/jobs/dim_turma_ETL.py
+0 4 * * * $HOME/etl/jobs/dim_aula_ETL.py
+0 4 * * * $HOME/etl/jobs/dim_curso_ETL.py
+0 4 * * * $HOME/etl/jobs/dim_disciplina_ETL.py
+0 4 * * * $HOME/etl/jobs/fact_aluno_aula_ETL.py
+0 4 * * * $HOME/etl/jobs/fact_matricula_ETL.py
+0 4 * * * $HOME/etl/jobs/fact_nota_ETL.py
+0 4 * * * $HOME/etl/jobs/fact_acesso_ETL.py
+0 4 * * * $HOME/etl/jobs/fact_chat_ETL.py
+0 4 * * * $HOME/etl/jobs/fact_usuario_chat_ETL.py
+0 4 * * * $HOME/etl/jobs/fact_usuario_conteudo_ETL.py
