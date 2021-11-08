@@ -157,7 +157,7 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 <a name="fluxo"></a>
 ## Fluxo da Aplicação
 
-![Fluxo da Aplicação](https://github.com/api-fatec-bd/api/blob/main/dw/untitled3.png)
+![Fluxo da Aplicação](https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/Fluxo%20da%20Aplica%C3%A7%C3%A3o.png)
 
 <a name="bd"></a>
 ## :floppy_disk: 5. Diagrama do Banco de Dados
