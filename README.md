@@ -8,6 +8,7 @@
             <a href="#introducao"><span>:small_blue_diamond:</span>Introdução </a>
             <a href="#comousar"><span>:small_blue_diamond:</span>Como usar</a>
             <a href="#backlog"><span>:small_blue_diamond:</span>Backlog</a>
+            <a href="#fluxo"><span>:small_blue_diamond:</span>Fluxo da Aplicação</a>
             <a href="#bd"><span>:small_blue_diamond:</span>Banco de Dados</a>
             <a href="#dashboard"><span>:small_blue_diamond:</span>Protótipo Dashboard</a>
             <a href="#equipe"><span>:small_blue_diamond:</span>Equipe</a>
@@ -93,11 +94,10 @@ No nosso projeto, configuramos o CI para realizar o build da aplicação e valid
 - Servidor Postgres: 157.245.243.16:5432
 - Servidor Primary Mongo: 157.245.243.16:3002
 - Portas Mongo Secundary: 3003, 3004
-- Olap: 
-
-      1. <a href="https://datastudio.google.com/reporting/31aeb0c5-71db-414b-a202-da9cbeb22ae1">Visão Professor</a>
-      2. <a href="https://datastudio.google.com/reporting/374d6163-7457-42dc-b156-d62e09c1c712">Visão Gestor</a>
-      3. <a href="https://datastudio.google.com/reporting/4f8ddbd6-f4a1-4ad0-9a12-078c44d70b4d">Visão Administrador</a>
+- Olap 
+      a. <a href="https://datastudio.google.com/reporting/31aeb0c5-71db-414b-a202-da9cbeb22ae1">Visão Professor</a>
+      b. <a href="https://datastudio.google.com/reporting/374d6163-7457-42dc-b156-d62e09c1c712">Visão Gestor</a>
+      c. <a href="https://datastudio.google.com/reporting/4f8ddbd6-f4a1-4ad0-9a12-078c44d70b4d">Visão Administrador</a>
 
 <a name="backlog"></a>
 ## :memo: Backlog
@@ -154,6 +154,11 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 - Segurança
 - Escalabilidade
 
+<a name="fluxo"></a>
+## Fluxo da Aplicação
+
+![Fluxo da Aplicação](https://github.com/api-fatec-bd/api/blob/main/dw/untitled3.png)
+
 <a name="bd"></a>
 ## :floppy_disk: 5. Diagrama do Banco de Dados
 
@@ -162,10 +167,16 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 <a name="dashboard"></a>
 ## :capital_abcd:Protótipo Dashboard (OLAP)
 
-<img src="https://user-images.githubusercontent.com/45483678/133944681-61d8d788-c48c-49a6-8eed-8ad03ec6f983.png" >
-<img src="https://user-images.githubusercontent.com/45483678/133944684-42b16949-7979-4198-b5cd-7acba2689571.png">
-<img src="https://user-images.githubusercontent.com/45483678/133944696-f7b08271-7bed-462e-b184-0eaca8420d7e.png">
-<img src="https://user-images.githubusercontent.com/45483678/133944704-a0f85b76-b9d5-4123-9b76-e417f5be107b.png">
+<div  align="center">
+<h5>Média das Notas do Aluno</h5>
+<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap1.JPG" widht="100%" alt="Aluno x Disciplina" >
+
+<h5>Ativação e Médias</h5>
+<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap2.JPG" widht="100%" alt="Visão Gestor">
+
+<h5>Visão do Professor na sua disciplina</h5>
+<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap3.JPG" widht="100%" alt="Visão Administrador">
+</div>
 
 <a name="equipe"></a>
 ## :muscle: Equipe
@@ -181,3 +192,8 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 | [linkedIn](https://www.linkedin.com/in/andre-lars-da-cunha/) | [linkedIn](https://www.linkedin.com/in/daniel-delgado-274096194/) | [linkedIn](https://www.linkedin.com/in/felipegbraga/) |  [linkedIn](https://www.linkedin.com/in/giovanni-guidace-61982812a/) | [linkedIn](https://www.linkedin.com/in/jessica-dias1/) |
 | <img src="https://avatars.githubusercontent.com/u/26588283?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/50891053?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/13703888?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/62898187?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/65822756?v=4" width="100px"> |
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
