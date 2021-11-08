@@ -8,6 +8,7 @@
             <a href="#introducao"><span>:small_blue_diamond:</span>Introdução </a>
             <a href="#comousar"><span>:small_blue_diamond:</span>Como usar</a>
             <a href="#backlog"><span>:small_blue_diamond:</span>Backlog</a>
+            <a href="#fluxo"><span>:small_blue_diamond:</span>Fluxo da Aplicação</a>
             <a href="#bd"><span>:small_blue_diamond:</span>Banco de Dados</a>
             <a href="#dashboard"><span>:small_blue_diamond:</span>Protótipo Dashboard</a>
             <a href="#equipe"><span>:small_blue_diamond:</span>Equipe</a>
@@ -23,7 +24,7 @@ Desenvolver  uma  solução  de  dados  voltada  ao ensino  à  distância  para
 
 
 ### Apresentação da Evolução do Projeto
-:white_check_mark: Sprint 1  | :white_check_mark: Sprint 2 | :white_large_square: Sprint 3 | :white_large_square:  Sprint 4  
+:white_check_mark: Sprint 1  | :white_check_mark: Sprint 2 | :white_check_mark: Sprint 3 | :white_large_square:  Sprint 4  
 --------- |--------- |--------- |--------- |
 
 
@@ -43,7 +44,7 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 - [x] 16/08/2021 até 22/08/2021 - Kick Off do Projeto
 - [x] 30/08/2021 até 19/09/2021 - Sprint 1
 - [x] 20/09/2021 até 10/10/2021 - Sprint 2
-- [ ] 18/10/2021 até 07/10/2021 - Sprint 3
+- [x] 18/10/2021 até 07/10/2021 - Sprint 3
 - [ ] 08/11/2021 até 28/11/2021 - Sprint 4
 - [ ] 29/11/2021 até xx/12/2021 - Sprint Apresentação Final
 - [ ] xx/xx/2021 até xx/xx/2021 - Sprint Feira de Soluções
@@ -81,24 +82,22 @@ No nosso projeto, configuramos o CI para realizar o build da aplicação e valid
 - Linux: https://docs.docker.com/engine/install/ubuntu/  || https://docs.docker.com/compose/install/
 
 #### Subindo os containers
+
 `docker-compose -f <arquivo.yml> up -d`
 
 #### Down containers 
 ``docker-compose <arquivo.yml> down``
 
-#### Executando o sqlSever a partir do docker
-- Pull da imagem:
-`docker pull mcr.microsoft.com/mssql/server`
-- Executando o serviço do sqlSever
-`docker run --name sqlserver -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=<SUA_SENHA>" -p 1433:1433 -d mcr.microsoft.com/mssql/server`
-
 ### Endereços importantes:
 
 - Servidor do chat: http://157.245.243.16:3000/ (Importante que seja http por enquanto)
-- Servidor sqlSever: 157.245.243.16:1433
+- Servidor Postgres: 157.245.243.16:5432
 - Servidor Primary Mongo: 157.245.243.16:3002
 - Portas Mongo Secundary: 3003, 3004
-- Olap: <a href="https://datastudio.google.com/reporting/374d6163-7457-42dc-b156-d62e09c1c712">Data Studio</a>
+- Olap 
+      a. <a href="https://datastudio.google.com/reporting/31aeb0c5-71db-414b-a202-da9cbeb22ae1">Visão Professor</a>
+      b. <a href="https://datastudio.google.com/reporting/374d6163-7457-42dc-b156-d62e09c1c712">Visão Gestor</a>
+      c. <a href="https://datastudio.google.com/reporting/4f8ddbd6-f4a1-4ad0-9a12-078c44d70b4d">Visão Administrador</a>
 
 <a name="backlog"></a>
 ## :memo: Backlog
@@ -132,7 +131,7 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 
 <strong>6</strong> - Criar os dashboards OLAP com os indicadores requisitados;
 
-####  :white_medium_square: Sprint 3
+####  :black_medium_square: Sprint 3
 
 <strong>7</strong> - Definir os gráficos para visualização dos Dashboards;
 
@@ -140,11 +139,11 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 
 <strong>9</strong> - Integrar o sistema OLAP com o Data Warehouse.
 
-<strong>10</strong> - Refatorar a plataforma de  LMS desenvolvida pela turma do 3º semestre de banco de dados (no primeiro semestre de 2021), para armazenar os dados dos logs em um banco de dados não-relacional;
+<strong>10</strong> - Reestruturar os logs da aplicação de acordo com as métricas esperadas no Data Warehouse ( Ativação, Engajamento, Desempenho, Participação, Avaliação de reação, Registro do tempo de participação no curso)
 
 #### :white_medium_square: Sprint 4
 
-<strong>11</strong> - Reestruturar os logs da aplicação de acordo com as métricas esperadas no Data Warehouse ( Ativação, Engajamento, Desempenho, Participação, Avaliação de reação, Registro do tempo de participação no curso)
+<strong>11</strong> - Refatorar a plataforma de  LMS desenvolvida pela turma do 3º semestre de banco de dados (no primeiro semestre de 2021), para armazenar os dados dos logs em um banco de dados não-relacional;
 
 <strong>12</strong> - Criar rotinas para carregar os dados no Data Warehouse.
 
@@ -155,6 +154,11 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 - Segurança
 - Escalabilidade
 
+<a name="fluxo"></a>
+## Fluxo da Aplicação
+
+![Fluxo da Aplicação](https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/Fluxo%20da%20Aplica%C3%A7%C3%A3o.png)
+
 <a name="bd"></a>
 ## :floppy_disk: 5. Diagrama do Banco de Dados
 
@@ -163,17 +167,23 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 <a name="dashboard"></a>
 ## :capital_abcd:Protótipo Dashboard (OLAP)
 
-<img src="https://user-images.githubusercontent.com/45483678/133944681-61d8d788-c48c-49a6-8eed-8ad03ec6f983.png" >
-<img src="https://user-images.githubusercontent.com/45483678/133944684-42b16949-7979-4198-b5cd-7acba2689571.png">
-<img src="https://user-images.githubusercontent.com/45483678/133944696-f7b08271-7bed-462e-b184-0eaca8420d7e.png">
-<img src="https://user-images.githubusercontent.com/45483678/133944704-a0f85b76-b9d5-4123-9b76-e417f5be107b.png">
+<div  align="center">
+<h5>Média das Notas do Aluno</h5>
+<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap1.JPG" widht="100%" alt="Aluno x Disciplina" >
+
+<h5>Ativação e Médias</h5>
+<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap2.JPG" widht="100%" alt="Visão Gestor">
+
+<h5>Visão do Professor na sua disciplina</h5>
+<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap3.JPG" widht="100%" alt="Visão Administrador">
+</div>
 
 <a name="equipe"></a>
 ## :muscle: Equipe
 
 | Gabriel Angelo | Fernanda Ramos | Nathan Nascimento | Paulo Filipini | Vitor Daniel  |
 |---|---|---|---|---|
-| [linkedIn](https://www.linkedin.com/in/gabriel-angelo-a4b251116/) | [linkedIn](https://www.linkedin.com/in/fernanda-ramos-de-padua-salles-44329b157/) | [linkedIn](https://www.linkedin.com/in/n4htan/) | [linkedIn](https://www.linkedin.com/in/paulo-henrique-filipini/) | [linkedIn](#) |
+| [linkedIn](https://www.linkedin.com/in/gabriel-angelo-a4b251116/) | [linkedIn](https://www.linkedin.com/in/fernanda-ramos-de-padua-salles-44329b157/) | [linkedIn](https://www.linkedin.com/in/n4htan/) | [linkedIn](https://www.linkedin.com/in/paulo-henrique-filipini/) | [linkedIn](https://www.linkedin.com/in/vitor-daniel-9343bb150/) |
 | <img src="https://avatars.githubusercontent.com/u/73532594?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/55774508?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/19509794?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/45483678?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/55815066?v=4" width="100px"> |
 
 
@@ -182,3 +192,8 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 | [linkedIn](https://www.linkedin.com/in/andre-lars-da-cunha/) | [linkedIn](https://www.linkedin.com/in/daniel-delgado-274096194/) | [linkedIn](https://www.linkedin.com/in/felipegbraga/) |  [linkedIn](https://www.linkedin.com/in/giovanni-guidace-61982812a/) | [linkedIn](https://www.linkedin.com/in/jessica-dias1/) |
 | <img src="https://avatars.githubusercontent.com/u/26588283?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/50891053?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/13703888?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/62898187?v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/u/65822756?v=4" width="100px"> |
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
