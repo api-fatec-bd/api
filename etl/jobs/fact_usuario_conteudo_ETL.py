@@ -22,8 +22,10 @@ for doc in result:
     try:
         # falta trocar id_conteudo, data_upload e id_aula
         connPostgree.execute("INSERT INTO fact_usuario_conteudo (id_usuario, data_upload, data_download, id_conteudo, id_disciplina, id_aula) VALUES('{0}','{1}','{2}','{3}','{4}','{5}');".format(doc["id_usuario"], doc["date"], doc["date"], 1, doc["id_disciplina"], 1))
+        aux_functions.genericETLFlag("Logs","Baixou", doc["_id"], "1", connMongo)
     except Exception as e:
         print('Erro while inserting:', e)
+        aux_functions.genericETLFlag("Logs","Baixou", doc["_id"], "0", connMongo)
         continue
 
 connMongo.close()

@@ -25,8 +25,11 @@ for doc in result:
                                                                                                                                                 doc["notaAvaliacao"],
                                                                                                                                                 (doc["nota"]/ doc["notaAvaliacao"]),
                                                                                                                                                 doc["data"]))
+        aux_functions.genericETLFlag("Logs","Nota", doc["_id"], "1", connMongo)
+
     except Exception as e:
         print('Erro while inserting:', e)
+        aux_functions.genericETLFlag("Logs","Nota", doc["_id"], "0", connMongo)
         continue
 
 connMongo.close()

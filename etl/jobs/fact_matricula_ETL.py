@@ -29,9 +29,12 @@ for doc in result:
                                                                                                     mocked_missing,
                                                                                                     mocked_missing,
                                                                                                     1))  
-  
+        aux_functions.genericETLFlag("Logs","Matricula", doc["_id"], "1", connMongo)
+
     except Exception as e:
         print('Erro while inserting:', e)
+        aux_functions.genericETLFlag("Logs","Matricula", doc["_id"], "0", connMongo)
+
         continue
 
 connMongo.close()
