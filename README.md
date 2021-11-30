@@ -95,9 +95,9 @@ No nosso projeto, configuramos o CI para realizar o build da aplicação e valid
 - Servidor Primary Mongo: 157.245.243.16:3002
 - Portas Mongo Secundary: 3003, 3004
 - Olap 
-      a. <a href="https://datastudio.google.com/reporting/31aeb0c5-71db-414b-a202-da9cbeb22ae1">Visão Professor</a>
-      b. <a href="https://datastudio.google.com/reporting/374d6163-7457-42dc-b156-d62e09c1c712">Visão Gestor</a>
-      c. <a href="https://datastudio.google.com/reporting/4f8ddbd6-f4a1-4ad0-9a12-078c44d70b4d">Visão Administrador</a>
+      a. <a href="https://datastudio.google.com/reporting/178b01a3-abce-475b-940d-f989896a09d4/page/p_fhnipxxsoc">Visão Professor</a>
+      b. <a href="https://datastudio.google.com/reporting/374d6163-7457-42dc-b156-d62e09c1c712/page/p_fhnipxxsoc2">Visão Gestor</a>
+      c. <a href="https://datastudio.google.com/reporting/3aa07924-46c9-44ea-99b6-a888474bb619/page/p_fhnipxxsoc">Visão Administrador</a>
 
 <a name="backlog"></a>
 ## :memo: Backlog
