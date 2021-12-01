@@ -39,7 +39,6 @@ for doc in result:
                                                                                                     doc["id_aula"],
                                                                                                     partition_time,
                                                                                                     mocked_missing))  
-        #TODO- replace generic for specific
         aux_functions.genericETLFlag("Logs","Acesso_aula", doc["_id"], "1", connMongo)
 
     except Exception as e:

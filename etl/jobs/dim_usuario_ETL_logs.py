@@ -24,8 +24,12 @@ for doc in result:
                                                                                                                                                 doc["USERNAME"],
                                                                                                                                                 doc["CODIGO_PERMISSAO"],
                                                                                                                                                 doc["DESCRICAO_PERMISSAO"]))
+        aux_functions.genericETLFlag("Logs","Usuario", doc["_id"], "1", connMongo)
+
     except Exception as e:
         print('Erro while inserting:', e)
+        print('Erro type:', type(e))
+        aux_functions.genericETLFlag("Logs","Usuario", doc["_id"], "0", connMongo)
         continue
 
 connMongo.close()
