@@ -169,6 +169,7 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 
 ### [Visão do Tutor](https://datastudio.google.com/reporting/9425edf6-784b-467f-91b5-45edacfcdf6e)
 
+
 <div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/tutor01.JPG?raw=true"></div>
 
 <div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/tutor02.JPG?raw=true"></div>
@@ -190,6 +191,7 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 <div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/adm02.JPG?raw=true"></div>
 
 <div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/adm03.JPG?raw=true"></div>
+
 
 <a name="equipe"></a>
 ## :muscle: Equipe
