@@ -10,7 +10,7 @@
             <a href="#backlog"><span>:small_blue_diamond:</span>Backlog</a>
             <a href="#fluxo"><span>:small_blue_diamond:</span>Fluxo da Aplicação</a>
             <a href="#bd"><span>:small_blue_diamond:</span>Banco de Dados</a>
-            <a href="#dashboard"><span>:small_blue_diamond:</span>Protótipo Dashboard</a>
+            <a href="#dashboard"><span>:small_blue_diamond:</span>Dashboards</a>
             <a href="#equipe"><span>:small_blue_diamond:</span>Equipe</a>
       </p>
 </div>
@@ -24,7 +24,7 @@ Desenvolver  uma  solução  de  dados  voltada  ao ensino  à  distância  para
 
 
 ### Apresentação da Evolução do Projeto
-:white_check_mark: Sprint 1  | :white_check_mark: Sprint 2 | :white_check_mark: Sprint 3 | :white_large_square:  Sprint 4  
+:white_check_mark: Sprint 1  | :white_check_mark: Sprint 2 | :white_check_mark: Sprint 3 | :white_check_mark:  Sprint 4  
 --------- |--------- |--------- |--------- |
 
 
@@ -45,8 +45,8 @@ Para fazer o planejamento foi utilizado a metodologia de "Design Thinking". Segu
 - [x] 30/08/2021 até 19/09/2021 - Sprint 1
 - [x] 20/09/2021 até 10/10/2021 - Sprint 2
 - [x] 18/10/2021 até 07/10/2021 - Sprint 3
-- [ ] 08/11/2021 até 28/11/2021 - Sprint 4
-- [ ] 29/11/2021 até xx/12/2021 - Sprint Apresentação Final
+- [x] 08/11/2021 até 28/11/2021 - Sprint 4
+- [x] 29/11/2021 até xx/12/2021 - Sprint Apresentação Final
 - [ ] xx/xx/2021 até xx/xx/2021 - Sprint Feira de Soluções
 
 ### Gitflow
@@ -167,16 +167,11 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 <a name="dashboard"></a>
 ## :capital_abcd:Protótipo Dashboard (OLAP)
 
-<div  align="center">
-<h5>Média das Notas do Aluno</h5>
-<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap1.JPG" widht="100%" alt="Aluno x Disciplina" >
+### [Visão do Tutor](https://datastudio.google.com/reporting/9425edf6-784b-467f-91b5-45edacfcdf6e)
 
-<h5>Ativação e Médias</h5>
-<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap2.JPG" widht="100%" alt="Visão Gestor">
+### [Visão do Gestor](https://datastudio.google.com/reporting/6a473d10-7d39-4937-98da-6daceee22551)
 
-<h5>Visão do Professor na sua disciplina</h5>
-<img src="https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/olap/olap3.JPG" widht="100%" alt="Visão Administrador">
-</div>
+### [Visão do Administrador](https://datastudio.google.com/reporting/695ac21e-fa17-4bfb-895e-976d5396d387)
 
 <a name="equipe"></a>
 ## :muscle: Equipe
