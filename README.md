@@ -169,9 +169,29 @@ Na descrição dos story cards, temos 4 personas: Aluno, Tutor, Gestor e Adminis
 
 ### [Visão do Tutor](https://datastudio.google.com/reporting/9425edf6-784b-467f-91b5-45edacfcdf6e)
 
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/tutor01.JPG?raw=true"></div>
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/tutor02.JPG?raw=true"></div>
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/tutor03.JPG?raw=true"></div>
+
 ### [Visão do Gestor](https://datastudio.google.com/reporting/6a473d10-7d39-4937-98da-6daceee22551)
 
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/gestor01.JPG?raw=true"></div>
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/gestor02.JPG?raw=true"></div>
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/gestor03.JPG?raw=true"></div>
+
 ### [Visão do Administrador](https://datastudio.google.com/reporting/695ac21e-fa17-4bfb-895e-976d5396d387)
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/adm01.JPG?raw=true"></div>
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/adm02.JPG?raw=true"></div>
+
+<div src="https://github.com/api-fatec-bd/api/blob/doc/sprint4/.github/olap/adm03.JPG?raw=true"></div>
+
 
 <a name="equipe"></a>
 ## :muscle: Equipe
